@@ -1,0 +1,23 @@
+ Pigs are passive animal mobs that spawn in grassy areas. When a saddle is used on them (by right clicking), they become able to be ridden by the Player, but they can only be controlled by using a carrot on a stick. The Saddle can be removed by killing the saddled pig. They have height of 1.1875 blocks, length of 1.25 blocks and Width of 0.625 blocks. As of Beta 1.5, a Pig will morph into a zombie pigman when struck by lightning. As of 1.8, pigs now have a snout, and hitting one will cause it to flee for a short while. It will eventually calm down. When killed with fire, an adult pig will drop 1-3 cooked porkchops.
+Pigs are good for Porkchop gathering. First, the Player should make a fenced area 4 blocks wide and 1 block deep with a fence gate, then lure a pig into the farm with carrots. After getting at least two, breed them as often as possible, by right-clicking on them with carrots in your hand, and kill one every time there are three or more than 4 adults.
+Main article: Saddle.
+For one to ride a pig, one must first find a saddle.
+in a Dungeon, Desert Temple, or Jungle Temple, as they are uncraftable. You must then put it on the pig by left-clicking and once done, the pig will be mountable with an orange saddle. You are unable to control the pig's movement, however you can control the direction the pig is walking when holding a Carrot on a Stick. You can also increase the speed by right-clicking on a block.
+You can also obtain an achievement by riding a pig, and having it take fall damage by, quote, "You just died!".
+Pigs can be fed carrots, and they enter Love Mode. When two pigs are in love mode within 16 blocks of each other, they can make a baby pig. Piglets will follow their parents. It takes one full Minecraft day (or 20 minutes) for the piglet to grow into a fully-grown Pig.
+Because the Pig can be saddled, the pig has two image files, one saddled and one not.
+The hostile mob known as the Creeper was made from a failed pig model, as Notch made it taller, rather than longer and exchanged color from pink into green.
+Both a Piglet and Pig have the same head size, but they don't have the same width and length.
+As of 1.2.3, adult Pigs stopped following the piglet.
+The Pig has 4 family members: Zombie Pigmen, Piglets, Pigmen, and normal Pigs.
+As of 1.2.4. you cannot put Saddles on Piglets anymore.
+Like Sheep, Squids, and Cattle, Pigs are wall-eyed.
+Piglets, like all baby animals, make a higher pitched noise than the adult.
+As of 1.4 pigs are now bred with carrots.
+Pigs didn't always have a protruding snout.
+Pigs act a lot like horses, because of them being able to be saddled and carrots put them in "Love Mode".
+If pigs are struck by lightning, they become a Zombie Pigman, just like how if a Creeper is struck by lightning, it'll become supercharged. Also, if a villager is struck by lightning, it becomes a witch.
+If a player rides a pig and than falls off a cliff and the pig takes more than 4 HP fall damage, the Player will get the achievement "When Pigs Fly" (photo bellow).
+Pigs used to drop only 0-2 raw porkchops upon death, but it was eventually raised to 1-3 porkchops upon death.
+On the bottom of the pig, there are "Milk Givers".
+See here.

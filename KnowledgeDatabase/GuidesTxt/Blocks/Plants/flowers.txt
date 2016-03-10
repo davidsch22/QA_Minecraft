@@ -1,0 +1,18 @@
+ Flowers can be found on dirt and grass blocks all over minecraft, including in snow biomes, just like tall grass and ferns. Flowers cannot be farmed in the way you’d farm wheat or mushrooms. The only way to create more flowers is by using bonemeal on grass, which will grow both types of flowers and a lot of tall grass on and around that block.
+Flowers require a light level of 8 or more to survive, anything below level 8 will cause the flowers to pop out of the ground. This can be used to quickly harvest a large field, though water is often more effective as it also takes the flowers, along with the seeds from tall grass, in it’s flow, possibly to a specified gathering spot.
+Dec value: 37.
+Hex value: 25.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Dandelions are widely available in almost every biome, often occuring more than roses. It’s easy to walk through a field and pick a large quantity of dandelions in a short amount of time, but the fastest way to gather them is by using bonemeal on grass.
+Dandelions are often used in decorative gardens, but can also be crafted into 2 pieces of dandelion yellow, which is a yellow dye, used to paint wool and sheep, as well as being able to combine it with rose red, to create orange dye.
+Dec value: 38.
+Hex value: 26.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Roses are often harder to find than yellow flowers. They often grow alone, though fields of roses are also possible. Iron golems can sometimes carry a rose and killing them will have a chance to drop up to 2 roses. The easiest way to get roses is of course using bonemeal on grass blocks, though even then you often end up with more yellow flowers.
+Roses are often used in decorative gardens, but they can also be crafted into 2 pieces of Rose Red, which is a red dye, used to paint wool and sheep, as well as being able to combine it with other dyes, to create other dyes.

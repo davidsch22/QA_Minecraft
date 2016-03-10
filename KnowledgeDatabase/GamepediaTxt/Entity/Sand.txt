@@ -1,0 +1,36 @@
+ Sand is a block naturally found on coasts and deserts. Sand has a very low blast resistance.
+ Red Sand is a variation of sand that can be found in mesas. Red sand acts similar to sand, the only differences being color.
+Sand can be broken using any tool, but a shovel is the fastest.
+Sand generates naturally in many biomes of the Overworld, notably deserts, beaches, and rivers, generally in four-block-deep layers supported by stone and sandstone. Red sand generates naturally in mesa biomes and variants.
+Sand, if there is no block below it, will fall until it lands on the next available block. When sand is being affected by gravity and falling, it exhibits a smooth falling animation.
+If falling sand lands on a mob or the player and covers their head, it will suffocate them until they destroy the block, move out or die. If falling sand lands in the space occupied by a non-solid block, (such as torches, slabs, rails, or redstone), it will drop and turn into a sand item. If it falls onto a cobweb it will slowly fall until it has gone through it completely, or until it touches the ground, at which point it will turn into a resource block.
+Sand can be placed on a non-solid block without falling.
+Sand can be used in the construction of airlocks and the creation of mob suffocation traps. Being affected by gravity, it can be quickly and easily removed from ground level.
+Sand and red sand can be used for farming cactus and sugar canes.
+The FallingSand entity is able to take any texture of any block. By altering the BlockID and using the /summon command, the player is able to create a falling block of another texture.
+Sand has the ID name minecraft:sand and is further defined by its block data. Sand also has a block state which is expected to replace the functionality of block data in a future version.
+ Dynamic block entity data  Tile (deprecated): The Block ID. Not limited to only sand, gravel, dragon eggs, or anvils. Although deprecated, this value is always present.
+ Dynamic block entity data  TileID: The Block ID, as above, but now supporting the 1-4095 range. Only prior to 1.8.
+ Dynamic block entity data  Block: The Block ID using the alphabetical ID format: minecraft:stone. Only in and after 1.8.
+ Dynamic block entity data  TileEntityData: Optional. The tags of the block entity for this block.
+ Dynamic block entity data  Data: The data value for the block.
+ Dynamic block entity data  Time: The number of ticks the entity has existed. If set to 0, the moment it ticks to 1, it will vanish if the block at its location has a different ID than the entity's TileID. If the block at its location has the same ID as its TileID when Time ticks from 0 to 1, the block will instead be deleted, and the entity will continue to fall, having overwritten it. (This was the result of Mojang's failed attempt to "fix" infinite sand/gravel/dragon egg/anvil/etc. generators by trying to have the falling sand entity delete the duplicated block the next tick) When Time goes above 600, or above 100 while the block is below Y=0, the entity is deleted.
+ Dynamic block entity data  DropItem: 1 or 0 (true/false) - true if the block should drop as an item when it breaks. A technical block (meaning any block that doesn't have an item form with the same ID as the block) won't drop even if this is set.
+ Dynamic block entity data  HurtEntities: 1 or 0 (true/false) - true if the block should hurt entities it falls on.
+ Dynamic block entity data  FallHurtMax: The maximum number of hitpoints of damage to inflict on entities that intersect this FallingSand. For vanilla FallingSand, always 40 ( × 20).
+ Dynamic block entity data  FallHurtAmount: Multiplied by the FallDistance to calculate the amount of damage to inflict. For vanilla FallingSand, always 2.
+If a block of sand has snow on it and is made to fall, the snow is destroyed and will not drop snowballs.
+Because falling sand is considered an entity it can be launched in a TNT cannon, similar to an ignited piece of TNT.
+Sand will fall at the same rate when submerged in water as it will when in air.
+If a player is standing on a stack of sand or gravel, and the stack falls on a non-solid block, the player will fall fast enough to take damage or even die.
+Sand will fall through torches without breaking if there is air below the torch.
+Sand and gravel take about 0.45 seconds to fall one meter.
+A glitched sand block.
+Another two glitched sand blocks.
+A sand ledge.
+The same sand ledge falling.
+A sand ledge.
+Red sand covering a Mesa biome.
+The different types of sand blocks.
+In Pocket Edition, floating sand emits falling particles.
+Explained physics of falling sand and gravel.

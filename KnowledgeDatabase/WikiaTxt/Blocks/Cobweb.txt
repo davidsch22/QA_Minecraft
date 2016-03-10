@@ -1,0 +1,16 @@
+Cobwebs are a placeable Item that were added in Beta 1.5. They only appear naturally in Abandoned Mine Shafts or stronghold libraries. Cobwebs were previously found in the terrain.png file, but had no Block ID assigned to it. They were officially added in Beta 1.8, and were generated in Abandoned Mineshafts. Cobwebs are also flammable, but they can't be ignited by burning Blocks nearby. It currently has no use, for using it with a Crafting Table has no effect, nor is it craftable from String, an Item that Cobwebs drop. Cobwebs can be broken with the player's hand, but this does take a very long time, especially if the player is stuck in one. Cobwebs can be broken much faster with a Sword or Shears, but this deals double durability points to the Sword. If one of these two Tools is used, then the Cobweb will drop one String. In order to obtain the Block itself, Shears enchanted with the Silk Touch enchantment must be used.
+Video coming soon!
+Moving into a Cobweb limits the player's movement abilities. When they are inside the Cobweb, players will move at a speed equal to about 15% of the normal walking speed. Additionally, jumping will be akin to jumping in a two block high space. Dropping an item into it will make the item stick and gradually sink through it. Unlike Water, however, falling into a Cobweb will not prevent fall damage, although it will be delayed until one makes contact with the ground. This property of the block makes it ideal for players wishing to make Redstone "timers." By having a Dispenser put a Item out, the Item will gradually fall onto a Pressure Plate and activate the next circuit or some other device. More cobwebs can be used to make the time longer. This is also useful for traps, the most common of which forces the entrapped above a lava pit, falling slowly to their death, while preventing them from dumping Water onto the lava to put it out.
+In the tutorial world TU12 for both Xbox 360 and PS3 editions of Minecraft, there are Cobwebs near a regular Spider spawner. Near those are a Chest, which contains a Music Disc entitled "11", and a Bow enchanted with Power V.
+Jumping from as little as one Block above a Cobweb will induce half of a heart in fall damage.
+When falling into a Cobweb, if a player gets into a Minecart or Boat before hitting the ground, they will not take the fall damage until they exit the cart/boat.
+Cobwebs can be placed on any Block, including transparent Blocks or even other Cobwebs.
+Signs and Paintings can be placed on Cobwebs.
+Ghasts will not see players in or behind Cobwebs.
+Destroying a cobweb makes "Stone" sounds, oddly.
+Spiders, as expected, will move right through a Cobweb block without being slowed down.
+Whilst traveling through a Cobweb and attacking, it counts as a critical hit, the same as jumping while attacking would, even if the player did not jump into the Cobweb.
+If a Block of Soul Sand is placed under a Cobweb, the player will move 10% slower through both of them, which is slower than the average sneaking speed.
+Cobwebs can be good for special effects and decor, such as smoke from chimneys, and can be used as quicksand.
+A Cobweb outside for decoration.
+Add a photo to this gallery.

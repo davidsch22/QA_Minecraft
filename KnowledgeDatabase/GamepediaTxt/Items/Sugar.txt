@@ -1,0 +1,4 @@
+Sugar is a food item derived from sugar canes.
+Witches may drop from 0 to 6 units of sugar when killed.
+Sugar can be fed to horses to heal 1 (), speed growth rate by 30 seconds, and increase taming probability by 3%.
+One of the splash texts on the title screen is "0% sugar!".

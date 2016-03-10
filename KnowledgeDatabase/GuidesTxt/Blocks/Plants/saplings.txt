@@ -1,0 +1,14 @@
+Dec value: Oak: 6 Pine: 6:1 Birch: 6:2 Jungle: 6:3.
+Hex value: 6.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+There are 4 types of saplings, oak, birch, pine and jungle. Saplings are a rare drop from destroyed or decayed leaf blocks. The leaf blocks will only drop from leaves of the corresponding tree.
+The saplings can be planted on dirt, grass and farmland and will grow a tree over time. Farmland will not affect the speed at which the tree grows and will simply revert to dirt once the tree is fully grown.
+Bonemeal can be used to instantly grow a tree, which is often used when farming large amounts of timber. Unlike wood and leaves, saplings are inflammable.
+Saplings require a light level of 9 or higher, if it’s lower the seed will pop out of the ground. This will not happen if the sapling is directly exposed to the sky. However, saplings will grow in any light conditions if you use bonemeal on it. They also require enough space to turn into a tree, which is 6 blocks for birch and oak saplings, 7 for pine and jungle saplings. Its also possible to grow a large jungle tree by placing 4 jungle saplings in a 2×2 square. Saplings only require a single block to grow, so they can be grown in the middle of the ocean or flying up high in the sky.
+Trees cannot grow higher than the map’s height limit, unless you use a mod. Unlike huge mushrooms, the growth height of trees cannot be contained. It will simply grow through whatever blocks are blocking it, popping out on the other side.
+It’s quite easy to farm trees, as all you’re really doing is planting a sapling and waiting for it to grow into a tree. You could speed things up by applying bonemeal, but unless you’re in direct need of wooden planks or logs, using bonemeal generally isn’t really needed.
+However, there are a few tricks you can use to make farming trees, including large jungle trees, a bit easier and more efficient.
+We’ve covered those tricks in a seperate guide, right here.

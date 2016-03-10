@@ -1,0 +1,4 @@
+Pumpkin pie is a food item which can be eaten by the player.
+Villager farmers sell 2-3 pumpkin pies for an emerald as part of their second tier trades.
+To eat pumpkin pie, press and hold use while it is selected in the hotbar. Eating one restores 8 () hunger and 4.8 saturation.
+The first screenshot of pumpkin pies, posted on Jeb's twitter.

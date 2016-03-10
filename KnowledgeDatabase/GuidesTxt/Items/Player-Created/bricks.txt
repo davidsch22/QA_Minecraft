@@ -1,0 +1,5 @@
+Dec value: 336.
+Hex value: 150.
+Maximum stack 64.
+Bricks are created by cooking clay in a furnace. Their only current purpose is to create brick blocks, a decorative building block.
+Finding large quantities of clay can be a little tricky, but the best places to look are swamp biomes and shore lines. Especially swamp biomes are good, as the water is often shallow, which makes harvesting the clay a lot faster.

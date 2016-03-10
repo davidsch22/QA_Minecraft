@@ -1,0 +1,15 @@
+ It’s easy to create a bowling alley in minecraft, though you don’t actually roll any balls. Instead, you shoot or throw projectiles at mobs standing on fences.
+The game is easy to build. You simply put 10 fences in a triangular shape, in the same way you’d place bowling pins. Don’t put them next to each other, there has to be a space between all the fences.
+Now you have to dig the ground out from below the fences and everything around it. Make it either at least 2 blocks deep or fill it with lava.
+Next, create a ceiling above the fences, with holes above each fence pole and you’re done with the most basic form.
+All you need to do now is place monsters on the fence posts, preferably all of the same species.
+This is done by pushing or spawning them with spawn eggs in the holes, they’ll fall on top of the fence posts and stay on there.
+Note that humanoid mobs and creepers work best. Spiders will not work at all, as they can’t fit through the hole. Chickens and silverfish are too small for a proper game, so avoid them too. Skeletons will be able to fire back at you and both skeletons and zombies will catch fire if it’s too dark.
+You can automate the spawning process by creating a system of dispensers above the holes, this shouldn’t be too difficult for anybody familiar with at least a little bit of redstone circuitry.
+The aim of the game is to shoot as many mobs off of the fence posts with a limited amount of projectiles. You can use snowballs, eggs and a bow and arrow.
+Note that the bow and arrow will work best, especially when you have the punch enchantment, which increases the knock back effect.
+It’s also possible to use a fishing rod, though this often makes the game a little harder, though skilled players could pull the mobs towards them with the fishing rod and potentially pull more mobs off of the fence posts.
+In real bowling you only get to throw twice, though in this minecraft version it’s very difficult, if not impossible, to knock off all the mobs in 2 throws, so you’ll have to decide for yourself how often you let your players throw.
+Once a player has finished throwing, any mobs left on the fence post will have to be knocked off before spawning in the next batch for the next player. This can also be done semi-automatically by adding a line of arrow shooting dispensers on one side.
+You can make the game a lot more challenging by increasing the alley length, blocking paths or adding a piston system which temporarily blocks your view. However, it’s often best to keep the game quite simple, as simply trying to get all 10 mobs off of the fence posts can be challenging enough.
+As with all mini games, let your creativity go wild. Build several different alleys, all with automated clearing and spawning processes activated with their own individual buttons. Create themed alleys, alleys with extra obstacles or put your friends on the fence posts.

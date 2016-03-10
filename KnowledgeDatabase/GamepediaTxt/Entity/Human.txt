@@ -1,0 +1,16 @@
+Humans were mobs which took the form of clones of the default skin.
+Humans used to be created by pressing G while playing in Classic mode, but this function was later removed. They used to be spawned by using a map editor or mod. When spawned, however, they pursue and kill the player. Strangely, they do not use the punching animation that a normal player would use; they only run into the player like a zombie would.
+Humans could not create or delete blocks, they would just move around the map aimlessly, walking in slightly imperfect circles and jumping occasionally. While walking, they would flail their arms around and move their head randomly. Humans were affected by solid blocks, but strangely not liquids, walking through them as if they were air. If the player has a custom skin, any humans created will still use default skin and will not assume the look of the player.
+Humans, when spawned, may head to the left for half a second, before turning around to attack the player.
+If a Human spawner is placed in Beta 1.8 or later, it will be blank and mobs won't spawn.
+Coding for humans was still present until 1.8 (under the generic name “Monster"). What was actually removed in Beta 1.8 was the model.
+It is unknown if Humans exist in the Xbox Edition (in versions when PC was pre-Beta 1.8). It may be true if you changed the version to a pre-Beta 1.8 equivalent, and you tweak the mob spawner to "Monster" via mods.
+Before it was removed, Humans would sometimes spawn in the Far Lands because it had no biome ID.
+Humans use the old Player model, so they are actually taller than the player.
+Humans and zombie pigmen hacked into the game using spawners.
+Dying human mob.
+A human at night time.
+Two humans attacking the player.
+Humans in early Classic.
+NPC Villager - human-like mobs that move around their village.
+NPC Village - the homes that the villagers live in.

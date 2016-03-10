@@ -1,0 +1,16 @@
+The map type is the general format the level generator used to create maps. Added in 0.31, it dramatically affected Indev mode in the availability of Water, Sand, and Gravel block types.
+With the exception of island maps, water that is generated on the map is the only water you can get. If the blocks next to the Water are removed (dug/mined out) the water will instantly begin to evaporate on that level. The water on the level below will remain unless a block next to it is altered. You may add blocks to water but you cannot remove any without triggering evaporation. But this usually didn't matter because buckets weren't introduced into the game yet.
+The default map type. It's an Island. Water existing at the borders for as far out as you are willing to swim. Due to this, water is quite abundant and can be toyed with freely. The islands will have minor hills and cliffs.
+Sand and gravel are very common.
+The second map type and possibly the most bizarre is "floating". In it, you will find multiple floating "islands". Each of these floats high enough that on "normal" view distance it appears as though there is no ground. Regardless of how far you jump down from, the fall will kill you unless you make a stair down to it. But there is no point as the entire "surface" is covered with Bedrock. It is important to note that gravity works strangely here, as you will sometimes find single-layers of sand/gravel floating without a support. Digging out or placing blocks next to these single-layers of sand/gravel will cause the entire layer to fall to the ground (sometimes taking you with it). This can pose an interesting challenge for building.
+Sand and Gravel are fairly common.
+Water is rare.
+Little is known about the floating islands. They were available, but they had a different save format, because of this, they are unplayable on updates after Map Types were removed.
+The third map type is kind of "boring" in comparison to the others. It's a flat land with no Water or Sand (only Normal, Hell, Woods). Flowers and Trees can be found dotted around it, but with the exception of those and your Indev House it's barren. This Map Type was brought back in 1.1 as the Superflat World Type.
+Sand and gravel are non-existent unless the theme was set to paradise but with no Gravel.
+Water is non-existent.
+Most common in online classic servers.
+The fourth map type is a slightly hilly landscape. In a nut-shell, it's the Island map type with infinite flatland at its borders as opposed to water, causing the tiles that would normally be "under water" to be exposed.
+Sand and gravel are very common.
+Water is rare.
+The further you travel into the "End of a map" the slower you get, when you stop you are pushed back. The speed depends how far you are from the center of the map.

@@ -1,0 +1,31 @@
+The Sky Dimension was a planned dimension in Minecraft, intended to be the opposite of the Nether.
+In a live webcast on the Swedish gaming site feber.se Notch revealed that the Sky Dimension would "probably be a dream world" and that when "you go to bed there is a certain chance that you get teleported into the dream world instead. Then you will be able to do it on purpose later on.".
+The Sky Dimension was originally planned for the Beta 1.8 Adventure Update, but Notch put it on hold till the Nether was more fun.
+The original concept of the Sky Dimension was later rebranded as "The End," a dark place fittingly referred to as the "end of the game," home to the Endermen and the Ender Dragon, and a total conversion of the original idea.
+Notch tweeted much later that a different "Skylands" dimension probably was still in the making. This version, completely separate from the End, was set to replace the original idea. However, Jeb later stated that returning the Sky Dimension was not planned and therefore is unlikely to be done.
+Minecraft update 1.7 includes an Amplified world type, which spawns floating islands similar to that of the unimplemented sky dimension.
+Notch left data in for an early prototype of the Sky Dimension in Beta 1.6 and 1.7. Using various mods it is possible to access this currently unfinished version of the Sky Dimension.
+In this version of the Sky Dimension, the build up of the world blocks-wise is very much like the Overworld, but it is always midday and it does not rain or snow (though cloud cover does appear as if it were raining). Although uncommon, it is possible to find Sugar Cane, Redstone, Lapis Lazuli, and more rarely Diamond. Like the normal world, you can also find Dungeons, Iron, Coal, and Gold. The only mobs that spawn in the sky dimension are chickens and very rarely cows and pigs. Below the islands of the Sky Dimension is nothing but the Void and a layer of clouds.
+In Indev, there was a map type called "Floating." It spawned floating islands full of terrain based on the World Theme.
+The present implementation of the Sky Dimension was first announced when Notch tweeted a picture of the dimension. It was probably made to be like a "heaven," because the Nether was considered to be like a hell, and The End is similar to limbo and/or slip space. The Sky Dimension was not completely confirmed until Notch released an update via Twitter stating: "And because PC Gamer made such a big deal of the Sky Dimension, I guess I'll have to finish it. Consider it confirmed.".
+On July 2, 2012, Jeb stated that returning the Sky Dimension to the game was no longer planned.
+Originally, the Sky Dimension was hidden within the region 0 (Overworld) code. However, starting in Beta 1.9 Pre-release 3, it was given its own region: Region 2, with Region 1 being the Nether. However, instead of Sky Dimension chunks spawning within its region, they would generate in the Overworld on Multiplayer servers. This is most likely due to an issue with map generation and saving causing Sky Dimension chunks to save over Overworld chunks rather than being made in their own, separate map files like the Nether does. If a world with Sky Dimension chunks is brought from multiplayer to singleplayer, the area of the chunks will always be Plains biome, even if snow generated naturally on the ground.
+The Sky Dimension is an inversion of The Nether, where as the latter is basically a large cave with monsters and a massive open space within, the former are peaceful floating islands spawn surrounded by open space. The Nether may also be thought of as being a hell with The Sky Dimension being a heaven; although the hazards present in each dimension are similar, falling from the sky dimension is just as lethal as falling from a cliff into the lava ocean in the Nether.
+The Sky Dimension, similar to the Nether, has weather disabled. This is likely explained by the fact that it is above the clouds.
+Using the Amplified world type, it is possible to get a world that looks somewhat like the Sky Dimension in Vanilla 1.7.2+, but the Ore distribution is the same as in a regular world (i.e. iron will not usually generate on the floating islands).
+Far Lands do generate in Sky Dimension. But the way they generate looks completely different to The Overworld Far Lands.
+The first released screenshots of the Sky Dimension .
+The first released screenshots of the Sky Dimension .
+The first released screenshots of the Sky Dimension .
+The first released screenshots of the Sky Dimension .
+The first released screenshots of the Sky Dimension .
+The first released screenshots of the Sky Dimension .
+The Nether.
+The Overworld.
+The Void.
+The End.
+Biomes.
+Far Lands.
+Amplified.
+Customized.
+Notch's Sky Dimension in Beta 1.6.4.

@@ -1,0 +1,16 @@
+Mooshrooms are unique variations of cows.
+Mooshrooms spawn on mycelium blocks in mushroom island biomes in herds of 4 to 8.
+If a pair of mooshrooms are given wheat, they will breed.
+Feeding wheat to a baby mooshroom will speed up its growing time by 10% of the remaining time.
+Mooshrooms drop 0-2 leather and 1-3 raw beef (1-3 steak if killed while on fire). Shearing one will drop 5 red mushrooms and turn the mooshroom into a normal cow, emitting smoke particles. Mooshrooms also drop 1-3 experience when killed by a player or tamed wolf.
+Besides giving milk, mooshrooms can be milked with bowls to give mushroom stew.
+Mooshrooms are 1.6875 blocks tall, 0.625 blocks wide, and 1.5 blocks long.
+Mooshrooms tend to walk around slowly and aimlessly, breathing and mooing occasionally. They also tend to jump off high cliffs and make no attempt to stay out of water. During a rain or thunderstorm, mooshrooms can be seen taking cover under structures or trees to avoid getting wet.
+A mooshroom will follow players holding wheat, and in doing so may run off cliffs and into damaging blocks.
+The name "Mooshroom" is a portmanteau for "moo" (which itself is an onomatopoeia of a cow's sound) and "mushroom".
+The first image released of the Mooshroom.
+A series of Mooshroom spawned on top of a red huge mushroom.
+A baby Mooshroom.
+A few Mooshrooms next to an ocean.
+A Mooshroom in a minecart.
+Cordyceps fungi.

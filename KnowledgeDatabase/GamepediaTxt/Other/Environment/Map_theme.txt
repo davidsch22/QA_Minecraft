@@ -1,0 +1,12 @@
+A Theme is the general style the level generator uses to create maps. Added in 0.31 update in January 7, 2010, it dramatically affects Indev mode's game mechanics (such as monster spawn zones and boundary liquid). Paradise and Woods themes were added in Indev update on February 14, 2010. Themes were removed for later on in the middle of infdev and are comparable to Biomes in Alpha, Beta, and current Minecraft versions.
+The default map theme. Overground, one will find sporadic Trees and generally favourable space. The weather is constantly partly cloudy, and the lengths of night and day are equal. Underground, ores of all types can be found and Lava is generally found near the Bedrock.
+Boundary Liquid: Water.
+The second map theme introduced with the Theme feature. Hell features significantly less lighting during the day, where Mobs of all types will spawn at any time. All Water is replaced with Lava, Grass is replaced with dirt and Grass is only spawned instead of sand during map generation. Mushrooms are abundant on the surface. Farming works at a much slower rate (one plant stage per day cycle). This was later replaced with The Nether.
+Boundary Liquid: Lava.
+The third map theme is more relaxed than the other Themes. It features larger beaches and plentiful flora compared to the Normal Theme, and the time is always set to "Noon" (the sun never sets); hostile Mobs will only spawn underground. Farming works at a much faster rate (from planting to harvestable in 30–45 minutes).
+Boundary Liquid: Water.
+The fourth map theme is a middle-ground of challenge between Normal and Hell, providing constant overcast during the day that reduces light, and trees density are more highter rate than other theme, resulting the land space become smaller. Additionally, Mushrooms are spotty throughout the overground areas.
+Boundary Liquid: Water.
+Biomes.
+The Nether.
+Sky Dimension.

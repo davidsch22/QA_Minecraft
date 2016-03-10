@@ -1,0 +1,3 @@
+ Rotten Flesh is a food item added in the Adventure Update. It is dropped by Zombies and Zombie Pigmen when killed, and restores two  when eaten. It can also be found in chests in Abandoned Mine Shafts and Desert Temples. However, Rotten Flesh has an 80% chance of giving the Player hunger, which makes the hunger meter deplete three times faster than normal for thirty seconds, but expert players use the quick fill to recover some of their health when they have no other food. Rotten Flesh can be given to tamed wolves to cause them to breed.
+ Rotten flesh can be given to dogs as they don't get hunger.  .
+ Rotten flesh will hurt you on Pocket Edition because hunger does not exist.

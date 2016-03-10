@@ -1,0 +1,1 @@
+A Sea Lantern is a light source that only appears underwater. The block gives off a light level of 15. The Sea Lantern has an animated texture. It is one of the three blocks that give off light underwater, the others being the Jack-O-Lantern and Glowstone.

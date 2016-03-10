@@ -1,0 +1,12 @@
+Dec value: 81.
+Hex value: 51.
+Minimum tool requirement to break: None.
+Blast resistance: 2.
+Maximum stack 64.
+Transparency: Yes.
+Cacti can be found in abundance in desert biomes, but they sometimes spawn on beaches. They grow up to 3 blocks high, though their size can be increased by placing more cactus blocks on top of it. Cactus blocks will harm players and mobs that come into contact with it, dealing half a heart of damage, every half a second. This makes it very useful for traps, however, cacti can destroy any dropped item that touches it, so careful planning is key when you’re after resources.
+Cactus blocks are non-flammable, allowing them to be used in more complicated traps that include lava or fire. This also means it’s easy to grow them in the Nether, serving great as a border against hostile mobs. Despite harming any mob that comes into contact with it, Endermen can pick up the cactus block and place it somewhere else. This could result in gaps in your line of defence, should you chose to use cacti as such.
+Cactus blocks can only be placed on sand and on other cactus blocks, but they cannot be blaced directly next to other blocks, including other cactus blocks. They can also be placed underwater, but will only grow if the top block is reaching the surface and will not grow passed 3 blocks.
+Removing any block supporting a cactus block will cause the cactus blocks, and all the cactus blocks above it, to fall on the ground as an item. This can speed up harvesting large amounts of cacti by a lot. Cacti grow under any light condition and don’t require water, but using bonemeal on it will not cause it to grow instantly.
+Cactus blocks can be cooked in a furnace, which turns it into cactus green, a dye used to colour wool and sheep, and used to create other dyes.
+Farming cacti is very easy, though takes a bit of time. This process can be made even easier by making a fully automatic cactus farming system, which is fairly easy to make. However, most players have no need for huge quantities of cacti and will often either make a very small, manual farm, or simply harvest the cactus blocks themselves. Both types of farms can be found in our guides, right here.

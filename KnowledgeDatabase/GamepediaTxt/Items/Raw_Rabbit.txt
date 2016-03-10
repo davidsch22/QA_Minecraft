@@ -1,0 +1,5 @@
+Raw Rabbit is a food item that can be eaten by the player, or cooked in a furnace to make cooked rabbit.
+Rabbits will drop raw rabbit upon death. 0-1 are dropped each time. The amount that is dropped is unaffected by the looting enchantment.
+To eat raw rabbit, press and hold use while it is selected in the hotbar. Eating one restores 3 () hunger and 1.8 hunger saturation.
+Raw rabbit can also be used to heal or breed tamed wolves.
+First image of the item by Ryan Holtz.

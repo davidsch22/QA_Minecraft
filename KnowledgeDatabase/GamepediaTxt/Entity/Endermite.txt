@@ -1,0 +1,9 @@
+Endermites are the smallest hostile mobs in Minecraft.
+Using an ender pearl has a 5% chance of spawning an endermite.
+Endermites drop 3 experience when killed by a player or tamed wolf.
+Endermites will attack players within 16 blocks of them.
+Endermites despawn within 2 minutes, regardless of the player's distance from the endermite, unless they are named with a name tag. If they are named, they will never despawn unless they are killed.
+Endermites will take damage if walking on soul sand, due to its small hitbox.
+Endermites will spawn two portal particles around them.
+Endermen will attempt to kill endermites, provided they were spawned from ender pearls and there is no nearby player in Survival or Adventure mode. If the player is close enough to an endermite, endermen focus on the player instead of the endermite.
+The End.

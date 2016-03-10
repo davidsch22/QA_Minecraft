@@ -1,0 +1,2 @@
+ Stone Bricks  are decorative blocks that were implemented in the 1.8 Beta update. Stone Bricks are one of the main materials used in Stronghold structures. In version 1.2, there was only one type of stone brick that was only in Creative Mode.
+Stone Bricks are commonly used for building structures such as castles.They are also used as flooring in other structures. Stone Brick is only obtainable when destroyed by a Pickaxe - having the same characteristics as Stone and Cobblestone. .

@@ -1,0 +1,26 @@
+TNT is a block that explodes when ignited. For exactly four seconds, it will flash white and allow the player to move through it. The explosion is easily capable of destroying most blocks in the vicinity. Fragile blocks, such as Dirt and Sand, are the most affected, while sturdier types, such as Obsidian, are more resistant to the explosion. TNT does not obey physics until lit, where it will then fall as an entity until it hits a block or detonates. TNT is crafted using Gunpowder and Sand. It is a very infamous griefing tool, as a TNT block can easily destroy most blocks besides obsidian and bedrock. Because of this, it is often banned on servers that don't allow griefing. TNT is a natural block because it naturally appears in Desert Temples and is used as a trap in them.
+TNT is detonated from being lit on fire (such as from a Flint and Steel) or from receiving an active redstone current. Active Redstone wiring, or any adjacent device capable of generating a current such as a Switch or Pressure Plate, will successfully ignite it. Hitting the block with anything destroys the block  in one hit. There is a 4 seconds fuse time, allowing the player to retreat to a safe distance. After being ignited, it will perform a slight jump in the air before returning to the ground and exploding soon afterwards.
+As of minecraft version 1.7, you can spawn in different "powers" of TNT with the /summon command, this makes TNT breaking obsidian and bedrock possible.
+Severe lag will occur if a even a single TNT is detonated in a superflat world with many layers of TNT.
+TNT cannons can be made using water, TNT, redstone, a button, redstone repeaters, sand and pistons. Many people use TNT cannons in SMP for arcade-esque games, such as Factions, TNT wars, etc.
+In the 1.3 update, TNT's explosion radius was doubled. Endermen can pick up the block and then place it on the ground, where it will automatically detonate.
+TNT "naturally" spawns in desert temples as a booby-trap. Igniting the TNT will destroy the treasures in the chests inside.
+TNT can also be used to create a minecart with TNT  as of 1.5.
+You can ignite TNT with lava or fire.
+TNT can fall up to 72 blocks when ignited.
+ TNT translated into Pirate Speak is "Powder Keg.".
+In Minecraft PE, to activate the TNT, you must have flint and steel and tap on the TNT you've placed.
+Since TNT is not a solid block when ignited, water, lava and mobs can pass through it while it is ignited.
+If TNT is in water, it won't damage the terrain, but still damage entities around it. This also happens if TNT is in lava.
+ As stated by the Minecraft combat guide, TNT is a "Simple yet effective way to annihilate an enemy base". Also one of the 6 Basic Weapons (Sword, Bow, Lava Bucket, Dispenser with arrows, and Flint and Steel).
+ Lit TNT is an entity, not a block, and it is a 0.98 cm cube, so the command /mob TNTPrimed 10 will create a massive explosion.
+A Minecart with TNT, another method of using TNT.
+An example of a TNT cannon.
+Enough TNT to crash Minecraft.
+Uncovered TNT in a Desert Temple.
+Large TNT explosion in Minecraft: Pocket Edition.
+A Single TNT.
+TNT in a minecart.
+TNT and redstone torch build.
+TNT under a tree.
+Add a photo to this gallery.

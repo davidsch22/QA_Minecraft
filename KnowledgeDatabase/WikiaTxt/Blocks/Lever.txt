@@ -1,0 +1,7 @@
+A Lever is one of multiple power sources for Redstone. Like the Button, levers can be connected to Redstone Dust to be operated far away from the target block. Levers are placeable on every non-transparent block. Levers are currently able to be placed on slabs, but they have a glitched model. Levers release an infinite signal, unlike their button counterparts, until shut off. If You destroy the block that the lever is on it will be destroyed.
+Levers differ from Buttons in that the charge they provide is stable - once clicked, a Lever will remain on or off until clicked again. Clicking a Lever also causes a visual change as the shaft of the device moves from one side to the other. Their stable nature makes Lever well suited to controlling devices that need to remain in one of two states for an indefinite period, such as minecart tracks or locking mechanisms in advanced circuits.
+When placed on the side of blocks, up is OFF and down is ON. On the top of blocks, ON is south or west, OFF is north or east.
+Notch standing next to the lever he will pull to officially release Minecraft.
+The lever is thrown... and Minecraft is released!
+Add a photo to this gallery.
+Please note that there is a glitch where you activate it two times with out Clicking it.

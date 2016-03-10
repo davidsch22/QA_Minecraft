@@ -1,0 +1,1 @@
+This table summarizes the average quantity of each item that can be found in a naturally-generated chest, depending on its location. The averages don't reflect how likely you are to get one item from one chest, but rather how many you can expect to find if you open lots of chests. Averages are per chest, not per structure.

@@ -1,0 +1,7 @@
+Carpet is a item that was added in 1.6 for PC and 0.8.0 in Pocket Edition. A carpet is a thin sheet of wool that can be placed on the ground. Blocks cannot be placed directly on top of carpets (such as the Lily Pad). Carpet currently serves no real purpose other than to be aesthetically pleasing when decorating a house.
+Carpet is a block added in 13w16a that stands as a decoration block. The block acts like more of a half slab because you cannot place other blocks on top like a slab.
+There is a glitch where you can put carpet on carpet and walk on it.
+You can put carpets on downer Slabs, and they will act like it would be a normal block, but you still can not place Signs, Torches etc. on them.
+There is a glitch that when you put a carpet on a fence, you can jump over it whilst you can't jump over a normal fence but if you stand on the middle of a carpet on top a fence, you will be floating in mid-air. The glitch also works with Cobblestone Walls.
+Placing carpet between an enchantment table and some bookshelves will cause the bookshelves not to influence the enchantment table.
+Crafted from any type of colored wool.

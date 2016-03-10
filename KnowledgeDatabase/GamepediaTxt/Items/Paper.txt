@@ -1,0 +1,3 @@
+Paper is an item crafted from sugar cane.
+Chests in stronghold libraries may contain paper in stacks of 2 to 7.
+Librarian villagers will buy 24-36 paper for an emerald.

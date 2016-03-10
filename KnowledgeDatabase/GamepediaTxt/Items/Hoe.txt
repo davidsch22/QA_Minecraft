@@ -1,0 +1,9 @@
+Hoes are tools used to till dirt and grass blocks into farmland blocks, the first step in farming wheat, melons, pumpkins, carrots, and potatoes.
+The hoe is used to turn dirt and grass blocks into farmland for producing wheat, melons, pumpkins, carrots, or potatoes. To till, press use on a grass or dirt block while holding a hoe.
+Hoes can also be used to convert coarse dirt into regular dirt by pressing use on the coarse dirt.
+The material used in the construction of the hoe has no effect on the utility of the hoe - the process of tilling is effectively instantaneous, regardless of material, and all hoes deal the same damage as fists if used in combat. The material used does, however, affect the durability of the hoe. When using hoes to break blocks or to attack mobs, it will not affect the durability of the hoe.
+In Pocket Edition, hoes can additionally be used to obtain wheat seeds and beetroot seeds from grass blocks.
+A hoe can receive the following enchantment, but only through an anvil Unbreaking.
+Tilling a dirt block which has a dirt block on top of it will change it to farmland even though it cannot be used. If a hoe is used on a block horizontally adjacent to such a block, the first block will revert to dirt and the selected block will not be tilled.
+When a hoe breaks it does not display the tool breaking animation like on other tools, since tilling is not predicted client-side.
+Although the word "hoe" is very recognizable in Minecraft, the word appears as "censored" on a sign in the Console Edition.

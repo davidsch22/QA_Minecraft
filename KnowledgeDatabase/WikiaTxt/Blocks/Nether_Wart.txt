@@ -1,0 +1,6 @@
+Nether Wart is a plant that can only be placed on Soul Sand. Like all other crops, the growing time is randomized. When harvested at its mature state, it will drop 2 to 4 nether wart. Nether Wart is very useful when it comes to potions, as you need it to brew Potions other than Potions of Weakness from scratch. Nether Wart is only found in Nether Fortresses and in some Nether Staircases on it's sides. This resource can also be used to breed Chickens. You can only break them in survival though.
+Nether Wart is critical for the brewing of the Awkward Potion, which is used in the base of almost all potions.
+As Nether Wart is a type of seed (the others being Melon Seeds, Pumpkin Seeds, and Seeds, Chickens will eat Nether Wart when right clicked with it in your hand. However, the Chickens won't chase you when you hold the Nether Wart.
+The amount of Nether Wart dropped from mature crops can be affected by the Fortune enchantment.
+Their name in the code is "tile.netherStalkSeeds".
+Nether Wart can be planted in the overworld if Soul Sand is brought over as well.

@@ -1,0 +1,14 @@
+Squid are eight-limbed, aquatic mobs that are always passive towards the player. They can be found in water in any depth of any biome, spawning on any difficulty. Squid are the first water-dwelling mob to appear in Minecraft, the others being the guardian and the elder guardian.
+When moving about, any squid's tentacles will open and close, giving them the appearance of pushing themselves through the water, which they will do slowly. Squid do not take an exact path of travel and will make no attempt to interact with the player. Squid become immobile when they become beached, also taking damage over time as they are out of water. They can take fall damage and burn like any land mob, but they cannot drown. Squid behave like other mobs and can de-spawn over time. If a Squid is killed, it will drop one to three Ink Sacs. Squid will occasionally find their way up to the surface of the water. This can kill them, however, if they do not find their way back to the lower depths.
+Squid are one of the only passive mobs unable to be mated to another.
+Boats can be damaged by any squid on the surface of the water.
+Hitting a squid (with anything) will not make it jolt or run around like other animals.
+As of 1.4 updates, squid now start getting hurt when brought up to land and getting beached. Therefore, Ink Sacs may be found on river shorelines or beaches.
+Squids don't have a death animation.
+Squids and Witches are the only mobs that don't have a sound.
+A squid's mouth can be seen, but not their beaks.
+As of update 1.8, Guardian and Elder Guardian attack squids.
+The Squids were added in the Pocket Edition, version 0.11.0 Build 1.
+Squids can glitch through glass, giving a bit of a surprise to any player walking through underwater tunnels.
+There used to be a bug before 1.4.5 that made squids fly. This was most commonly found in servers, but it could happen in singleplayer. You were able to do this if you packed a bunch of squid together.
+Squid/Gallery.

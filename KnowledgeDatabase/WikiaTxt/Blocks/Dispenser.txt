@@ -1,0 +1,17 @@
+ A Dispenser is a special redstone powered block. When it is right-clicked, a menu allows the player to place items inside it such as arrows, splash potions, eggs, fire charges and snowballs. Dispensers can contain up to nine different stacks of items, and dispensing behavior is random. They can attack things.
+Most items are shot out of the dispenser in its entity form. These items land 1-3 blocks away from the dispenser.
+Bottles 'o' Enchanting, snowballs, splash potions, arrows and eggs are shot out of the dispenser as if they were used through their right click action. Arrows are shot anywhere from 10-21 blocks away from the dispenser.
+Fire charges are shot straight, similar to a ghast. However, they may come out at an angle.
+Spawn eggs spawn its mob directly in front of the dispenser.
+Boats and minecarts are shot out in its entity form. If there is water in front of the dispenser, a boat will be placed on top of the water. Similarly, if a minecart track (of any kind) is in front of the dispenser, a minecart will be placed on top of the track.
+Water and lava buckets will be placed in front of the dispenser when triggered. If an empty bucket is inside the dispenser, lava or water will be taken from in front of the dispenser and the bucket inside the dispenser will be filled with the corresponding liquid.
+TNT is dispensed as lit TNT, which will fall if there is an opening below the block it is dispensed on.
+In version 1.4, there was a rare glitch where a dispenser in a jungle temple would fire and turn into a green wool block upon breaking the trip wire. (This was fixed as of 1.5.2).
+Firework Rockets launch straight upwards when fired from a dispenser. This can be used to make firework displays. Can fire underwater, without the firework being affected by this.
+The dispenser uses the same texture as the furnace on all sides except for the front face.
+The texture file for the dispenser menu is named "trap.png", perhaps because it was originally designed for making arrow traps.
+The dispenser, under a continuous redstone current, will keep firing until a player destroys it or turns it off. Buttons only fire one item from the dispenser.
+Dispensers are commonly found in jungle temples and protect the treasure inside (there are always two inside a jungle temple).
+You can place buttons on a dispenser by sneaking (shift button) and then placing the button.
+It is possible to make an unlimited diamond block using the dispenser and requires 2 players to do so.
+In the Xbox 360 version, to some players they used this bug as a kind of "Creative mode" but was removed in a recent update.

@@ -1,0 +1,12 @@
+Dec value: 61.
+Hex value: 3D.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 17.5.
+Maximum stack 64.
+Transparency: No.
+Furnaces are used to cook food and smelt ores, minerals and some other blocks, like sand. They’re crafted with 8 cobblestone, but they can also be found in villages. Furnaces are also used to create automatic minecarts. A pickaxe is required to break the block without completely destroying it.
+Right clicking a furnace will open its interface. There are 3 spots. The 2 on the left are input and the one on the right is the output of both the inputs.
+The top spot is used for the items you want to cook or smelt, like chicken, pork, ores and stone. The bottom spot is used for fuels, like coal, wooden planks, lava buckets and most wooden blocks. Some fuels are more efficient that others. Coal for example, will last for 80 seconds, while wood only lasts for 15 seconds.
+It takes 10 seconds to smelt or cook 1 item, so it’s advised to always put several items in both slots to maximize the burning time of fuels. Closing the interface will not stop the smelting process, so you can use several furnaces at once while not even being in the same room. When furnaces are burning fuel, light and heat will be emitted. The heat is hot enough to melt ice and snow. The light emited by furnaces is of light level 13, which is 1 lower than that of torches.
+Furnaces are sometimes used as decoration. Obvious forms of decoration are fireplaces and ovens. By placing 1 or 2 furnaces next to each other, facing you, and several other furnaces next to those, facing the wall or each other, a nice looking kitchen cabinet with built in stoves can be created. Furnaces make for a great wall base on houses, just make sure the front don’t face outwards.
+A floor of furnaces makes the floor look industrial and metalic. Though it makes right clicking to eat or shoot arrows almost impossible, it can look great in building projects. Some people use furnaces as cannon ends, especially on (pirate) ships or on castle walls.

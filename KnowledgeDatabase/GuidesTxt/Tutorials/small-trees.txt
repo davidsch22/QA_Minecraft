@@ -1,0 +1,29 @@
+ I like to use trees to add to the overall look of a house, riverbank or any other building project, but the default trees in minecraft are often not good enough for this purpose. They just look too plain. Well designed trees can drastically change the look of a park or forest, or even a small garden, which is why I’ve designed various tree types for different purposes. .
+These trees are by no means the perfect designs, but I hope this guide will help you design your own trees and help you create and decorate the best natural elements on your builds.
+I start every tree by first building the trunk, as this will indicate how high and wide the tree will become. The size of the trunk will depends on the species of the tree I’m trying to create. Pine trees are usually taller than willows, while oaks can be very thick.
+I then add rough branch structures, which are roughly used as an indication of what the overall tree will look like once it’s finished. The way the branches look doesn’t matter too much, they’ll become pretty much invisible once the leaf layers are placed. But I do try to create the branches in such a way that the shape of the branches somewhat resembles the real life version. A willow, for example, will have arching branches which reach to almost the ground.
+Depending on the size of the trunk, roots are added as well. I place wooden blocks in a rough, root like pattern to mimic the roots of a tree. This works best on larger trees, but it’s possible on smaller trees as well.
+Once we got the overall structure of our tree, it’s time to add the leaves. I begin by covering all the branches in 1 layer of leaves. This will already give the tree some shape and it’ll begin to look quite realistic. However, just 1 layer is rarely enough, so once I’ve finished the first layer, another layer is added on top of this.
+The branches below the layers will become difficult to see through 2 layers of leaves, but they’re still visible. This adds to the realism of the tree and is also a reason why I create the branch structures.
+Once the second layer has been added the tree will already look quite good. Depending on the type of tree you’re making, you might want to stop at this point.
+However, some trees have specific type of foliage, so it’s time to add leaves to recreate those trees. An oak, for example, will have a large, rounded foliage, while pine trees are cone shaped.
+In this section I will show you how I made each specific tree species. I haven’t made every type of tree of course, as there are simply too many. But I hope to keep adding different trees to this guide. If you’ve created a type of tree, feel free to submit it on the forums and I’ll add it to this list (if it’s good).
+Note that the instructions aren’t always shown as a step by step guide, they’re more general guidelines which should usually be enough to help you on your way.
+The African acacia is a probably one of the first trees you think about when somebody asks you to think of an African tree, just Google it and I’m sure you’ll recognize it.
+Unfortunately, creating this tree on a small scale is very difficult in minecraft and I’m not too satisfied with my version, but it works well enough as a background piece.
+Baobab are African trees and one of my favourites to look at (in real life). However, smaller versions are a pain to create in minecraft, due to their round shape and relatively small foliage structures.
+I don’t often use baobab trees, but they look good in both African style builds and in zoos (which try to replicate African wildlife).
+A birch tree can be very big, but always has a thin trunk. The thin trunk is a bit annoying, but due to the huge foliage, the trunk won’t matter too much.
+I’ve created 2 different versions, a young birch and an older, bigger birch.
+I use the young version in rows next to roads, like a path to a farmer’s house. The older birch is usually used in some of my parks.
+Blossoming cherry trees are of course created with pink wool, there’s no other way (in the default texture pack).
+The shape of a cherry tree varies a lot in real life, though I find the best minecraft version to be a slight alteration of my oak design, though the willow design also works quite well. The pink wool tends to look quite dense, which is why denser tree structures (like the oak) work better.
+These trees are of course used in many of my Japanese style builds, which is my favorite style, but they also work well in cities (in spring time) or suburban gardens.
+Evergreen refers to the leaves of the tree, as they stay green all year round. But most of these trees are huge they pretty much all have the same rounded shape, which I tried to create in the example below. I personally think it could’ve used a bit more leaves to add height, but this smaller version works quite well too.
+I tend to use evergreens in snow biomes, usually in castle gardens.
+Oaks tend to have enormous foliage structures which are wide and will reach quite low down the tree. I’ve thus created a smaller trunk structure with relatively flat branches.
+Oaks can also be quite fat, with big roots and huge foliage, but I’ve chosen to go with a younger, thinner type of oak to make the instructions easier to follow.
+I tend to use oaks in larger gardens and city parks, though they also look good in forests, especially on their own in a small, round field in the middle of the forest.
+Small palms are a pain to create, as their leaves are big and clearly noticeable in real life. But this can only be recreated by leaving space between leaf blocks, which is hard to do on small palms.
+They also tend to grow in weird angles, which is also a bit difficult to recreate on smaller trees.
+However, I’ve created a few versions which I’m relatively happy with, the straight version is my favourite and is used in most of my tropical and desert builds.

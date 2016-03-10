@@ -1,0 +1,14 @@
+ Banners or Flags are tall decorative blocks, featuring a field that is highly customizable using dyes and Blocks/Items.
+Note that the Banner will be the color of Wool you use. Also, you can't mix colors.
+A banner holds a flag that can take on many different appearances. There are 16 colored blank flags, and numerous patterns each available in 16 colors. A flag can feature up to 6 different patterns.
+Banners, much like signs, can be placed both on the ground, facing different directions, and on walls. They can also be placed in Item Frames, where they simply appear as their item model.
+A layer of pattern can be washed off using a Cauldron, like dyed leather armor.
+[edit].
+A banner may have up to six patterns, which are overlaid with the last-crafted on top.
+The location of the banner in shaped recipes does not matter, as long as the dyes are in the exact location specified.
+You can make up to more than 24 trigintillion (one trigintillion is a one (1) followed by 93 zeroes) if you use commands to get different types of banners of more than 6 patterns!
+For special patterns you can use a Creeper and a Wither Skeleton head for creeper face and skull & crossbones, an Oxeye Daisy for a flower icon, a Vines for serrated border pattern, a Brick block for a brick pattern and an Enchanted Golden Apple for the Mojang logo.
+SmoothScape Creates 200 Flags From Around The World.
+The first photo Jeb posted of Banners.
+A photo of some country flags made using Banners.
+Add a photo to this gallery.

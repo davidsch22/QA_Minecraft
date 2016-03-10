@@ -1,0 +1,19 @@
+A Cauldron is a block that can hold water.
+Cauldrons can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing. When a cauldron is destroyed, any water inside it will be lost.
+A cauldron can be crafted from iron ingots.
+A single empty cauldron is generated in each witch hut.
+To fill a cauldron with water, press use on the cauldron with a water bucket. A cauldron also has a chance to fill up with water when rained upon.
+With water in it, a cauldron can be used to fill glass bottles (turning them into water bottles), wash dye off of leather armor or remove the top-most pattern layer of a banner. To use the cauldron, press use on the cauldron with the glass bottle, leather armor or banner.
+A cauldron will extinguish mobs on fire (including players) who fall into it. Each use (including extinguishing mobs) causes the water level in the cauldron to decrease by one-third. After it has been used three times, it will be empty and must be refilled before additional uses. Endermen in a filled cauldron don't take damage from the water in it.
+A cauldron cannot be used to fill an empty bucket, and water bottles cannot be used to refill a cauldron. A cauldron can be filled from a water bucket in the Nether.
+A cauldron can act as a power source for a redstone comparator. With a cauldron behind it (possibly separated by an unpowered solid block), a comparator will output a signal strength proportional to how full the cauldron is: 0 for empty, 1 for one-third full, 2 for two-thirds full, and 3 for completely full.
+Cauldron's fullness is defined by their block data. In future, it is planned to replace block data with block states.
+Arrows "stick" to the water in a cauldron.
+If you try to sneak over a cauldron, you can still fall in.
+Inside a cauldron is 0.3125 (5/16) block tall.
+While a cauldron that contains water is being broken, the water will show cracks as if it were a block.
+If an item is thrown into a cauldron with a hopper underneath it, the hopper will receive the item.
+How potions were brewed in Beta 1.9 Pre-Release 2, if enabled through a mod.
+How cauldrons look with the three different levels of water in them (and empty for comparison).
+A naturally occurring cauldron inside of a witch hut.
+An example of a cauldron used in a redstone circuit.

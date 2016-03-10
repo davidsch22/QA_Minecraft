@@ -1,0 +1,29 @@
+ Lava is a source block that burns the player and many Mobs when they come in contact with it, causing the unfortunate being to seek out a form of water to extinguish the flames. However, as lava tends to be slow-flowing and thick in the Overworld, most players can escape in time. In peaceful mode, lava is one of the main causes of death, along with fall damage. Lava deals five hearts of damage when in contact with it, it's one of the worst deaths a player can suffer, because his/her Inventory items will likely burn and the player will not be able to retrieve them. Even if a player or mob succeeds in escaping the lava, they will still be on fire, which will often kill them anyway.
+All items that come in contact with lava will burn and be destroyed. Lava gives off a very large amount of light. Lava within a certain distance of combustible blocks, such as wool or any wood block, can ignite them starting a fire.
+In The Nether, it flows as water does in the Overworld, seven blocks in whatever direction they are flowing in. In the Overworld, they will travel three blocks in any direction. Lava in the Overworld flows much slower than water. Lava is usually orange, red, and yellow.
+Lava appears underground in the form of lava pools. These pools may also appear on the surface, albeit uncommon for them to do so. In most NPC Villages, small amounts of lava appear in blacksmith shops. In The Nether, lava appears in vast oceans that are much more common than the water oceans of the Overworld.
+Lava and water, when directly exposed to each other, form either obsidian, stone or cobblestone. Stagnant lava turns to obsidian while flowing lava turns to cobblestone. Similarly, when water goes on top of lava, it will create obsidian, whereas when lava goes on top of water it will create stone.
+Lava is a very useful fuel, and can smelt up to one hundred items per bucket. While this is a nice large number, only 64 items can be smelted at a time, making lava buckets slightly impractical for smelting items. As of the Adventure Update, players can now retrieve the bucket that they used to hold the lava.
+If you put water to lava, it'll create obsidian. But if you put lava in water, it'll create stone.
+Strangely, lava can be contained using ice as a border-until the ice melts from the light emitted.
+Lava is technically called magma while underground.
+In Multiplayer, if someone dies in Lava, it gives a public message saying "<player> tried to swim in lava".
+If an Enderman touches lava (or water or fire) it will teleport away until it stops burning (or gets out of the water, should that be what it fell into).
+A lava bucket can also be used as a fuel source in furnaces and provides 1000 seconds of fuel.
+Magma cubes are often found in Nether lava. (They don't spawn there, but they find it difficult to escape).
+After the 1.5 Redstone update, the texture of lava was changed.
+If a pig, cow, or chicken is killed by lava, then they will drop cooked food instead of raw food. (e.g. cow drops steak instead of raw beef).
+In Minecraft: Pocket Edition, there's a 0.5% chance that lava can spawn.
+On Pocket Edition, the texture of lava changed after version 0.7.0.
+Zombie Pigmen are invulnerable to damage caused by lava, nor will they catch on fire from swimming in it.
+A pool of lava.
+A stream of lava.
+A mechanism of water flowing into lava from just the right distance, creating a cobblestone tower when a piston opens and closes the block between the two fluids.
+Lava can be used to create volcanoes in creative mode.
+Lava in a swamp biome.
+Lava in a forest.
+A lava bucket.
+Man-made lava mountains.
+On fire in lava.
+Pocket edition with lava going down a ravine.
+Add a photo to this gallery.

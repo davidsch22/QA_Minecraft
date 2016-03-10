@@ -1,0 +1,9 @@
+Melon (named Melon Slice in the console editions) is a food item that can be eaten by the player.
+Melons can be obtained from melon blocks.
+Melons drop from melon blocks which generate naturally in jungles or can be grown from melon seeds found in chest minecarts in abandoned mine shafts.
+Each melon block normally drops 3 to 7 melons when broken or pushed by a piston. Breaking a melon block with a tool with the Fortune enchantment will increase the potential number of drops by 1 per level, to a maximum of 9 melons.
+In the Pocket Edition, melons are obtainable from a Nether Reactor, as well as spawning in the world.
+Eating a melon restores 2 points () of hunger and 1.2 points of hunger saturation.
+Making melon slices into a melon block is inefficient as you use 9 melon slices, and when you break the block you get a lower melon return rate.
+In the Pocket Edition, melon blocks cannot be destroyed by explosions, which is possibly a bug.
+Pumpkin.

@@ -1,0 +1,8 @@
+Slimes are rare Mobs that naturally spawn in 3 different sizes: Big, Small, and Tiny, and split into smaller Slimes when killed. They can be found in only specific Swamp Biomes, as a rare mob deep underground, or in Superflat worlds. Big and Small Slimes are both hostile, and Big Slimes always split into 2 Small slimes when killed, whereas Small Slimes can split into 2, 3, or 4 Tiny Slimes. Tiny Slimes are passive, and are popular pets among minecraft fans, because they will follow you around, and do not require taming, but they can despawn unless they have a nametag.
+Before 1.4.2, Slimes could spawn in any biome.
+As of 1.5, Slimes' spawn rate is determined by the movement of the moon.
+1.8 Recently fixed the fact that Slimes could drown.
+Slimes can climb Ladders.
+Slimes larger than size "Big" can be summoned with commands.
+Tiny Slimes are considered passive by many people, but the game registers them as hostile, despite their inability to attack, push or harm the player in any way.
+Add a photo to this gallery.

@@ -1,0 +1,18 @@
+Wood, also known as logs, is a naturally occurring block found in trees, primarily used to create wood planks. It comes in six species: oak, birch, spruce, jungle, dark oak, and acacia.
+Wood can be broken by hand, but using an axe will speed up the process.
+Oak wood blocks generate as part of houses in plains or savanna villages. Wood blocks also spawn as supporting beams of witch huts.
+Wood blocks of all six types generate naturally as part of trees. Trees can also be grown using saplings.
+The following table presents the amount of wood needed to produce an even multiple of a given item with no waste left over, and the quantity produced.
+Wood logs can be used as a fuel in furnaces, smelting 1.5 items per block. However, it is far more efficient to craft one of the wood blocks into wood planks: each of the 4 planks will burn as long as the log would have, for a total of 6 items.
+The wood blocks are defined by block IDs and block data. They also have block states which may replace block data in the future.
+Note that when a wood block is placed, it changes its facing parameters, placing in the direction relative to the block it is placed on.
+The block data for wood blocks consists of two facing bits (high-order) and two wood type bits (low-order).
+Block 17 (minecraft:log).
+Block 162 (minecraft:log2).
+Block 17 (minecraft:log).
+Block 162 (minecraft:log2).
+Dark oak and acacia logs share a new block ID separate from the old logs, called log2, because all the other data values on the previous log block were occupied by rotated variants (red sandstone slabs suffered a similar fate). There are still 2 remaining data values on the block that cannot be obtained. The next two trees, if more are added, will likely use these values.
+Rotated wood.
+Oak, birch, spruce, jungle, acacia, and dark oak trees.
+All variations of wooden plank, with each wood type crafting into the planks below it, and the corresponding saplings.
+All the facings and type of wood logs. Also includes the bark-only blocks. From left to right: dark oak, acacia, jungle, spruce, birch, oak.

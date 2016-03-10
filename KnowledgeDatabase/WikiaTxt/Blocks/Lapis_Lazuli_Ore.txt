@@ -1,0 +1,6 @@
+ Lapis Lazuli is a semi-precious material that is slightly less rare than diamond and has about the same rarity as Gold Ore, being found only in lower levels of a world. Its main purpose is to dye Wool blocks or to color Sheep blue. As of 1.8, it can be used for repairing tools and armor, as well as renaming them. It can be found underground in layers 5-11. When mined, it can drop 4-8 Lapis Lazuli (Dye). However, that is dependent on enchantments on the tool used.
+Lapis Lazuli is most commonly converted into blocks, then used in decoration. Lapis Lazuli Dye, which is dropped by mining the ores, can be used to make blue wool. Lapis Lazuli is also used for enchanting in 1.8.1 .
+Lapis Lazuli is one of the two ore blocks with a different pattern than the other ores, the other being Emerald Ore.
+Just like with redstone, maps generated before lapis lazuli was added will have none of this ore unless new terrain is generated.
+Lapis Lazuli ore found in a cave.
+Add a photo to this gallery.

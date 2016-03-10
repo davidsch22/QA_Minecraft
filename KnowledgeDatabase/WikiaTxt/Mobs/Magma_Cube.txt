@@ -1,0 +1,19 @@
+Magma Cubes, also known as Fire Slimes, are hostile mobs found in the Nether and were released in 1.9 Beta, more commonly found near nether fortresses. When they move, they jump and momentarily unravel into eight layers, giving them the appearance of a spring and revealing a molten core inside.
+Magma cubes will jump slowly in random directions until a player is in range, when they will start to jump faster and attempt to damage the player. A unique ability of these creatures is that they do not drown in Lava, and they do not get hurt by water itself, but they can drown in water.
+Big and small magma cubes both drop magma cream, although tiny ones don't. All magma cubes, however, drop experience orbs.
+Magma Cubes seem to be the Nether equivalent of Slimes. Although they appear similarly, the components of their texture files are quite different.
+It is possible, if a player kills a magma cube and all the smaller ones that result from it, to get 28 experience points from one big magma cube.
+Magma Cubes do not take fall damage.
+Tiny slimes are harmless and are popular pets among Minecraft fans, but tiny magma cubes will harm the player. However, they only damage you when you get on the wrong side of them - underneath. You can still keep these as pets if you are careful.
+All magma cubes, no matter what size, can jump 3 blocks high, while regular slimes can only jump one block high!
+Automatic magma cube farms are hard to build due to the fact Water cannot be put in the Nether legitimately.
+Some fans falsely believe that when a Slime is pushed or spawned inside fire or lava, it turns into a Magma Cube.
+Update 0.11.0 introduced Magma Cubes into the Pocket Edition. .
+Large amount of Magma Cubes.
+A large Magma Cube's size compared to a player.
+Closeup magma cube. They emit the same fire particles as a mob spawner upon landing.
+A group of small Magma Cubes.
+A fully separated Magma Cube. Note the lava core within its body.
+A semi-auto farm using trapdoors.
+Magma Cube Spawn Egg.
+Add a photo to this gallery.

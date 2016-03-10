@@ -1,0 +1,7 @@
+ Iron Ore is a semi-common ore found almost everywhere in a Minecraft World, appearing at both above and below sea-level. This includes caverns and mountains, making it very easy to find. It is a crucial material to gather during the early stages of the game, since it can be made into an iron pickaxe, and is capable of mining all Ores, including diamond. It can be described as a grey block with spots on it, similar to coal, but with bronze/beige spots. Every block you break is worth one iron. .
+Iron can only be mined with a Stone, Iron, or Diamond Pickaxe; using a Wooden or Gold Pickaxe will not yield any ore. Once it is mined, the user will gain an ore block that you can place, but they will not be able to make any items using the ore block. They must smelt it down into Iron Ingots using a furnace then create what they want, making iron the only ore that requires smelting other than gold.
+Iron is used to make weapons and armor with a higher durability than those made with stone, leather, or gold. Iron can also be used to make minecarts, rails, compasses, and buckets. Iron tools can be used approximately 251 times.
+In Survival Test, iron ore gave you iron blocks, requiring no smelting.
+Iron ingots have the same texture as gold ingots, but with different colors.
+Iron Armour gets weaker enchantments than other Armour when enchanted using an Enchantment Table. This may have been implemented because iron breaks enchantments and spells in many different stories.
+See here.

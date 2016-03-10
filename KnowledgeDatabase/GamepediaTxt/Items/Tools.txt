@@ -1,0 +1,7 @@
+Tools are items used by the player while held to perform actions faster and more efficiently, to gather materials not obtainable by hand, to gain information, or to perform completely new actions. With the exception of the clock, compass and bucket, tools do not stack in the inventory. Tools can be repaired; see Item Repair.
+Some tools can be obtained by killing mobs with the equipment (except in pocket edition).
+All tools can be obtained through crafting.
+Many blocks have a preferred tool to break them. Some blocks can only be broken with certain tools.
+Some tools are not block-breaking tools: This includes hoes, bows, fishing rods, carrots on sticks, flint and steel and buckets. Such tools are no better than bare fists at breaking blocks, but they do not take damage from doing so—they only take damage by being used in their own various manners.
+Item Repair.
+Breaking.

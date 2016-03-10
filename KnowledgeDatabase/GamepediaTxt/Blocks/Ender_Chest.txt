@@ -1,0 +1,12 @@
+Ender chests are a type of chest that can store items.
+Ender Chests can only be obtained by mining them using a pickaxe enchanted with silk touch, or it will drop 8 blocks of obsidian.
+Ender chests can be opened by pressing use. If a solid block is placed over an ender chest, it will not be able to open.
+Ender chests can be used like chests, except all ender chests in the world share the same inventory, including in separate dimensions. The ender chests' inventory is also separate for each player. Ender chests contain 27 slots for storage, and can be placed next to other ender chests without joining.
+Ender chests cannot be moved by pistons and will not interact with hoppers, droppers, or comparators.
+An ender chest's particles exist only in the blocks immediately around the chest, so if the chest is placed next to a wall its particles will not be seen on the other side.
+Unlike chests, changes to an ender chest's name are not reflected in its inventory GUI.
+Like the flower pot and item frame, its idea was suggested by a reddit post.
+An Ender Chest in the nether.
+Light from an Ender Chest.
+The original suggestion for the Ender Chest.
+An open Ender Chest.

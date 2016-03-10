@@ -1,0 +1,13 @@
+Dec value: block: 108; item: 380.
+Hex value: block: 76; item: 17C.
+ Minimum tool requirement to break: Stone pickaxe.
+Blast resistance: 10.
+Maximum stack 64.
+Transparency: Yes.
+Cauldrons are a great decoration block, though they can be used in brewing. They can be filled using a bucket of water, which can then be used to fill 3 bottles of water. This is a rather inefficient method however, as simply clicking a water source block with empty bottles allows for an infinite number of bottles to be filled.
+Because water cannot be placed in the Nether, cauldrons do allow you to brew potions in the Nether. But again, it’s way more efficient to simply bring a load of water bottles to the Nether instead of having to fill up loads of water bottles.
+Cauldrons are created with 7 iron ingots and require at least a stone pickaxe to be broken again, without destroying it. Breaking a cauldron filled with water will simply destroy the water, nothing will be spilled on the ground.
+Despite containing water, cauldrons cannot extinguish players or mobs who are on fire.
+Cauldrons are often only used as decoration, usually as sinks in kitchens and bathrooms. Placing a lever above it makes for a great tap. Players and mobs can get in the cauldron, so some players pretend the cauldron is a bath or shower.
+A funny way to create “caveman soup” is to fill the cauldron with water and push in a chicken. The chicken will not be able to get out and will just swim around a little. The chicken will not drown. If you remove the block under the cauldron and replace it with fire, the whole caveman soup picture is complete.
+For some reason this only seems to work if the cauldron is placed on its own, without other blocks next to it. If the cauldron placed next to other blocks the chicken will able to get out. However, placing a trapdoor above the cauldron, either opened or closed, will keep the chicken in.

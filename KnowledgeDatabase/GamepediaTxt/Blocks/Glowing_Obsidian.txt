@@ -1,0 +1,7 @@
+Pocket Edition Only.
+Glowing Obsidian is a Pocket Edition exclusive technical block that generates when a Nether Reactor is activated.
+Upon activation, the blocks that make up the reactor turn into Glowing Obsidian. Glowing obsidian cannot be retrieved from the Nether reactor, instead regular obsidian is dropped. It takes the same amount of time to mine as obsidian, and the proper tool to mine glowing obsidian is a diamond pickaxe.
+Glowing obsidian is a solid block that emits a light level of 12. Glowing obsidian will emit red smoke particles within close proximity to it so long as it exists, and it will turn into obsidian after a short amount of time. It has the same blast resistance as normal obsidian.
+If the nether reactor core is mined out while the nether reactor is active, the glowing obsidian won't turn into obsidian after the reactor deactivates. This also causes the reactor to stop spawning items.
+If the gold blocks are mined out before they are changed to glowing obsidian, the gold blocks are preserved, and the nether reactor continues spawning items.
+Glowing obsidian being mined with an iron pickaxe in version 0.7.1.

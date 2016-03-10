@@ -1,0 +1,18 @@
+Emerald ore is the rarest mineral block in the game, which drops emerald when mined.
+The emerald ore block itself (rather than its emerald drops) can be obtained by mining it with an iron or diamond pickaxe with the Silk Touch enchantment.
+Emerald ore is only generated in extreme hills biomes (which actually contain more emerald ore chunks than diamond ore chunks). Due to the nature of the generation algorithm, it may be found a short distance into adjacent biomes, but always within the same chunk as an extreme hills biome. It attempts to generate 3-8 times per each chunk, generating anywhere between layers 4 and 32, meaning it can occur as high up as gold can.
+In a world there are about 0.2 emerald ores per chunk. It will only generate in locations which would have otherwise been stone - it is thus possible for as few as 0 to 2 emeralds to generate in a chunk. Found as individual blocks, rather than veins, it can be encountered more commonly than gold, which has a similar range.
+Emerald ore drops 1 emerald and 3-7 experience when mined with an iron pickaxe or better. Mining with a Fortune enchanted pickaxe will increase possible yields by 1 per level ( 1-4 emeralds per ore with level III). If mined with any other tool, it drops 5-7 experience.
+Emeralds are used as the core currency within villages. They can also be obtained by trading a specified item for an emerald.
+Even though emerald ore is rarer than diamond ore, emerald ore is found more often in the extreme hills than diamond. This is because it is scattered.
+In Pocket Edition emerald ore can be mined with a stone pickaxe.
+The first image of the trading system released by Jeb. The emerald ore can be seen in the top right-hand corner with the original texture.
+An enhanced version of Jeb's screenshot showing the original ore texture more clearly.
+The new texture of emerald ore.
+Emerald ore found at layer 18 in an extreme hills biome.
+Naturally occurring emerald ore.
+Emerald blocks, emerald ores, and emeralds.
+A comparison of the occurrence of emerald ore to the occurrence of diamond ore.
+Two emerald ores that generated together, each one in a different chunk.
+An emerald ore block found naturally in a cave.
+An emerald ore block found outside of an extreme hills biome - this case in a desert biome.

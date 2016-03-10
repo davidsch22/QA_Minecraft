@@ -1,0 +1,14 @@
+Particles are a graphical effect in Minecraft.
+Particles always seem to face the player and will usually disappear after a short period of time. Particles collide with solid blocks and are slowed by cobwebs, but are unaffected by other entities.
+The types of particles and their names in the game's code are displayed below. Particle names in italic will always be shown.
+Most particle colors can be changed using resource packs, however the color of smoke particles used in redstone, portals, and Endermen can not be changed without mods.
+Status effect particles will appear where your face is pointing.
+Bubble and suspended particles seem to only appear when they are in water.
+The "mobappearance" particle will always follow the player regardless of what its location has been set to.
+The torches on redstone repeaters spawn particles, but the torches on redstone comparators do not.
+In Pocket Edition Eating particles appear as miniature versions of the food being eaten.
+In Pocket Edition Burning entities emit rounded particles with Fire's animation.
+The render radius of particles. It seems to be round, but not entirely circular, as seen at the back.
+An image of particles.png with the primary purposes of each particle texture explained.
+Eating particles in Pocket Edition.
+A burning zombie in Pocket Edition, emitting particles with fire's animation.

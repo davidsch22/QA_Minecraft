@@ -1,0 +1,13 @@
+In the Overworld, clouds appear at layer 127. They help with direction and are merely aesthetically pleasing. They always float in the same direction – towards the west – making it easy to use them to get the player's bearings.
+Clouds will appear differently on different graphics settings, and have a set pattern.
+Their appearance (color, shape...) can be changed with a texture pack.
+On Fancy graphics, clouds appear as about four block tall semi-transparent prisms. In the nighttime they turn a shade of blue and become more transparent. Their smallest horizontal dimensions are 12×12 blocks wide. They are similar in appearance to the real life cloud type stratocumulus.
+On Fast graphics, clouds appear as opaque planes. They have no daytime/nighttime rotation. Their smallest horizontal dimensions are 8×8 blocks wide. Fast clouds in Pocket Edition are also opaque, but remain in 3D.
+Unlike many things in Minecraft, clouds are not procedurally generated. With a resource pack, clouds' color can be changed to anything, meaning you could have pink clouds if you so desired. The file can be resized to any size, meaning it would be possible to have a different cloud pattern each day.
+If you switch between fast graphics and fancy graphics, clouds will be in a different place than they were before.
+Clouds are a client-side feature. On an SMP server, the position of clouds is subjective to each individual user, and are not generated server-side.
+Clouds are not interactive in any form.
+Clouds are only transparent from above or inside, not from below – except that the sun and the moon are visible through the clouds from below, even if there's a solid object above the clouds in the way, e.g. a cave or house ceiling.
+In Beta 1.8, clouds pass over block 126.
+The sky with clouds disabled.
+The cloud texture in Infdev.

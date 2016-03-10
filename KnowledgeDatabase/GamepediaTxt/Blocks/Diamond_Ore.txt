@@ -1,0 +1,10 @@
+Diamond ore is a mineral block that is one of the most valuable and elusive blocks in the game.
+The diamond ore block itself (rather than its diamond drops) can be obtained by mining it with an iron or diamond pickaxe with the Silk Touch enchantment.
+Diamond ore only appears at Y level 16 and below, and can be found in veins of 3–8. One diamond ore vein generates per chunk; this vein or part of it may be overwritten by generated structures such as caves, leaving you without any diamonds in said chunk. Also, because of the way chunks are populated the vein "belonging" to a chunk can actually be generated in a neighboring chunk leading to some chunks with two or more veins and others with none. There is an average of 3.097 diamond ore per chunk-sized area. The highest concentration of diamonds occurs between levels 5–12. Because of the lava lakes, there is slightly less diamond ore in the middle of that range (around layer 9).
+There are many strategies for finding diamonds. Ensure that you dig around the ore before mining to ensure that the diamonds do not fall in lava.
+Diamond ore drops 1 diamond and 3 to 7 experience when mined with an iron or diamond pickaxe . Mining with a Fortune enchanted pickaxe will increase possible yields by 1 per level, up to 4 diamonds per ore with level 3.
+In some vein formations, ores connect diagonally. Therefore it is recommended to mine around diamond ore. This also permits checking for lava.
+Diamond ore, along with other ores, appear in the background on the achievement page.
+An exposed 2x2x2 diamond ore vein.
+Diamond distribution in a 416,342 chunk area.
+Block of Diamond.

@@ -1,0 +1,11 @@
+The Jukebox is a block used to play music discs.
+A jukebox can be broken using any tool, but an axe is the fastest.
+Pistons cannot push jukeboxes.
+Right clicking on a jukebox while a music disc is equipped will insert the disc and play music corresponding to the type of music disc you used. Right clicking on the jukebox again will stop the music and eject the disc. Music discs only play once before they must be ejected and reinserted. Sound from the jukebox travels roughly 65 blocks in all directions. It supports 12 different songs, see music discs for a full list. They are all able to be found in Minecraft's files.
+The loud volume and long range of the jukebox can be used as an aid in keeping one's bearings in a cave/tunnel, although this is limited to the length of the disc.
+A jukebox can be used as a furnace fuel, lasting for 1.5 smelting operations.
+Active jukeboxes give off a redstone signal when a redstone comparator is placed behind it; its strength depends on the ID of the inserted disc. The following table shows the redstone strength output for each disc.
+The associated block entity is used to identify which record has been inserted.
+C418 has the normal player skin with a jukebox for a head, likely because it was he who made the music for Minecraft.
+The use of a Diamond as part of the crafting recipe might be a reference to how phonographs often have diamond-tipped needles.
+Music.

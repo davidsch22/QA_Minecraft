@@ -1,0 +1,8 @@
+Iron ore is a mineral block found underground. It is the most common mineral that can be used to make tools and armor.
+Iron ore will drop as an item if mined by a stone pickaxe or better. If mined by any other tool, it will drop nothing.
+Iron occurs only around from bedrock to slightly above sea level (layers 1-63). However, almost all of the iron ore will be at the lower levels. On average, there are about 77 iron ores per chunk.
+Veins can vary in size, but the most common is 2×2×2. Iron always comes in veins of 4 to 10 unless dirt, gravel, a cave, or another ore overlapped into it. Each block in the vein, which otherwise would be stone, has a random chance of being iron ore instead.
+There's no particular beige iron ore in real life. Colors of common real life iron minerals range from black or red to gold-yellow but none of them are truly beige.
+A vein of iron ore.
+A total of 20 iron ore blocks were obtained from this vein, which is most likely composed of two smaller veins.
+Iron ores exposed in a ravine.

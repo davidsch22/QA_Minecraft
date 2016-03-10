@@ -1,0 +1,9 @@
+ Furnaces are technical blocks in Minecraft that can be used for cooking foods and smelting ores. When right clicked, the furnace has its own smelting-menu where smelting operations can be done. It consists of one field for the object that will be smelted, one field for the fuel, and one field for the outcome, e.g. the Cooked meat, if a raw meat item was put in.
+Furnaces can naturally be placed in NPC Villages houses. Before the furnace appeared, smelting was accomplished by creating a fire and dropping the ores or raw food into it. The furnace, when right-clicked, has its own smelting menu where smelting operations can be done. It consists of one field for the object that will be smelted, one field for the fuel and one field for the output object.
+There are two squares one on top of the other. The fuel is placed on the bottom square, while the object wished to be smelted is placed in the top square. This will cause an arrow on the left of the squares to start to turn white. Once it is filled, the desired Items will be placed in the adjacent box of the arrow for the player to take.
+Furnaces are only luminous when being used.
+Lava can be used as fuel in a furnace. It can smelt up to 100 items before it runs out. Using lava as a fuel will not consume the bucket holding the lava. This method can be a great option if close to a lava source.
+The furnace ID is initially 61, however, 62 is a lit furnace. The lit furnace does not work without fuel though.
+ Furnaces connected to comparators give off a Redstone signal when active (up to 3).
+The interface of the oven in Minecraft PE (it uses the MATTIS system).
+Add a photo to this gallery.

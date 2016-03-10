@@ -1,0 +1,19 @@
+Rabbits or Bunnies are a type of small animal mob added in 1.8 that will spawn in small to medium sized groups in almost any biome.
+Most Rabbits are passive and will naturally spawn with one of 6 different textures.
+ "Brown".
+"Black".
+"Albino".
+"Spotted.
+"Salt & Pepper".
+"Golden".
+There is also one type of Rabbit, called the "Killer Rabbit of Caerbannog", which looks similar to an "Albino" Rabbit, but is hostile and only spawnable by command. .
+There is also one other texture for Rabbits, called "Toast", which is black and white, but looks different from the "Spotted" Rabbit, and is automatically applied to any Rabbit named "Toast".
+Rabbits will wander around randomly unless they see Wolves, mature Carrot crops, or a player holding a Carrot, Golden Carrot, or Dandelion. If a Rabbit is distracted by a player, it will not notice mature carrot crops or wolves, until they are attacked. Otherwise, it will run away from Wolves on sight, and, when left alone, eat mature Carrot crops. The "Killer Rabbit of Caerbannog", or Killer Bunny will hunt down any players or Wolves in sight, and will only be distracted while breeding.
+Similarly to all passive mobs, Rabbits can be fed a certain food to various effects. Feeding a mature Rabbit will put it into Love Mode, causing the mob to exude heart particles. If two Rabbits are in love mode, they will mate, producing a baby Rabbit. (Each Rabbit can only enter Love Mode every five minutes.) A baby Rabbit can also be fed in order to accelerate its growth time.
+Rabbits' feeding materials are Carrots, Golden Carrots, and Dandelions.
+Rabbits are planning to be added in 0.13.0 Alpha of the Pocket Edition. Rabbits in this version are smaller, eat crops, can only be found in forests, and be killed easier.
+The "Killer Rabbit of Caerbannog" AKA Killer Bunny is faster than normal rabbits.
+Rabbits will see players holding food from a farther distance than other mobs.
+The name of the "Killer Rabbit of Caerbannog" is a reference to the movie of Monty Python and the Holy Grail.
+The "Toast" rabbit was added as a tribute to a player who lost their own rabbit of the same name.
+Rabbit/Gallery.

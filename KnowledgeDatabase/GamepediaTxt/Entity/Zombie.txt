@@ -1,0 +1,79 @@
+Zombies are common, undead hostile mobs.
+In the Overworld, zombies spawn in groups of 4 at a light level of 7 or less. Zombies have a 5% chance to spawn as a zombie villager and a 5% chance to spawn as a baby zombie. Baby zombies have an additional 5% chance of spawning as a chicken jockey. This also applies to spawn eggs.
+If a player is in a village with at least 10 doors and 20 villagers at midnight, up to 20 zombies may be spawned near the edge of the village regardless of light level or transparent blocks.
+Zombies can spawn from monster spawners inside dungeons.
+Zombie villagers comprise 5% of all spawned zombies. They behave as ordinary zombies, but their character model's head and face is reminiscent of that of a villager, shaded with a darker green hue.
+Zombie villagers can also result from zombie attacks on villagers. If any type of zombie kills a villager, there is a chance that the villager will transform into a zombie villager (100% on hard difficulty, 50% on normal, 0% on easy).
+Zombie villagers can be cured by using a golden apple on them while they are under the effects of Weakness, which can be applied using a splash potion of Weakness thrown by the player or a witch. A loud hissing sound will be heard if successful, and the zombie villager will begin to shudder. The transformation will take 2–5 minutes, during which time the zombie villager behaves as normal. While the zombie is being cured, it will have the strength I effect in normal difficulty (or strength II on hard difficulty), making it more important to isolate the zombie. Cured villagers do not retain the trades they had before they became infected. Furthermore, zombie villagers that are cured are given professions at random.
+ If the zombie villager is wearing any armor or wielding tools or weapons, those items disappear when the villager is cured.
+ During the curing process, it is often a good idea to keep the zombie villager away from any other zombies, because the other zombies will attack it after it is cured.
+ Conversion can be sped up by around 4% by surrounding the zombie villager with iron bars and/or bed blocks within a 9×9×9 cube centered on the zombie villager.
+A zombie villager cannot be cured by switching from Easy, Normal or Hard difficulty to Peaceful; they will simply disappear like all other monsters.
+Baby zombies make up 5% of zombie spawns. They behave similar to regular zombies, with the following oddities They do not burn in sunlight.
+They behave similar to regular zombies, with the following oddities They are faster than the normal zombie and they have the same HP as normal zombies.
+They behave similar to regular zombies, with the following oddities The noises they make are higher-pitched than normal zombie sound effects.
+They behave similar to regular zombies, with the following oddities They can ride chickens.
+They behave similar to regular zombies, with the following oddities Baby zombie villagers will turn into adult villagers if cured.
+They behave similar to regular zombies, with the following oddities Worn armor shrinks to fit their body size.
+They behave similar to regular zombies, with the following oddities They are able to fit through 1×1 block gaps.
+They behave similar to regular zombies, with the following oddities They give more Experience Orbs when killed by the player, except in the Console Edition where they don't drop experience.
+Baby zombie villagers are spawned when a zombie kills a baby villager, the chance of infection being the same as adult zombie villagers. Baby zombie villagers also spawn naturally, but the combined chance (5% villagers × 5% babies) is very low at 0.25% of all newly spawned zombies.
+Along with skeletons, some spawned zombies can pick up dropped items from the ground. These zombies will automatically hold any item they come across, but if those items happen to be armor, weapons, or tools, the zombie will use them. Some of these zombies spawn already in possession of such items, and those items may also be enchanted. The chances of that event are listed below and are taken from the game's code. Zombie villagers can spawn naturally with armor on.
+If a zombie does spawn with armor, the chances of specific armor are as follows.
+The chances of it being of a particular material are.
+Zombie armor is not damaged from most damage sources, which means it cannot "wear out" the way player armor does. Helmets (not blocks) on zombies can wear away and break if the zombie is exposed to daylight or has an anvil or other falling block dropped on its head. Zombies also have a natural armor rating of 2 (), which gives 8% damage reduction from most sources.
+If any zombie has a sword in their hand, and a sword of a better type or with better enchantments is given, they will drop the existing sword (with the same chance as if killed with Looting I) and start using the better one. Zombies capable of taking items will also take mob heads, which they will wear on top of their existing head. Any zombie that spawns with equipment (picked-up items don't count) will give 1-3 extra experience points per item.
+When killed, zombies drop 0-2 pieces of rotten flesh.
+Zombies will rarely drop iron ingots, carrots, potatoes, and any naturally spawned equipment. Any picked-up equipment has 100% chance of dropping and will drop with the same damage level it had when picked up, while any naturally spawned equipment has a 8.5% (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) chance of dropping and will drop with a random durability.
+A zombie will drop its head if killed by a charged creeper's explosion.
+Zombies drop 5 experience when killed by a player or tamed wolf, and an extra 1-3 extra experience if the zombie has equipment. If the zombie is a baby, it will drop and additional 7 experience, except in the console edition where baby zombies drop no experience.
+In the Pocket Edition, zombies will not drop iron ingots at all.
+If a zombie wearing a pumpkin or jack o'lantern is killed using a tool enchanted with Looting, there will be a chance equivalent to the level of Looting used to drop the pumpkin or jack o'lantern, up to a maximum of a 3% chance of a drop.
+Zombies spawn in groups of 4 and will pursue the player on sight from 40 blocks away, as opposed to 16 blocks in other hostile mobs. Zombies will attempt to avoid obstacles, including sheer cliffs and lava, and will try to find the shortest path towards the player. Unlike skeletons, zombies do not try to avoid being hit, and continue to pursue the player even when being attacked. Zombies can sometimes deal damage through a closed door, as shown on the picture to the right. Like most mobs, zombies will always float on water, even if their target is below them.
+At dawn, generally when the sun is 15 degrees or more above the ground (that is, when the moon can no longer be seen), most zombies will catch fire and burn once exposed to direct sunlight. Zombies with head armor are immune to sunlight, but the armor piece will take damage. They may make some attempt to seek out shade during this time, or enter bodies of water to protect themselves from burning up, but will exit protective areas to chase a nearby player or villager. If they attack an entity while burning, they may set it on fire, causing additional 4 () damage . If wearing armor enchanted with Thorns while burning they may set players attacking them on fire with thorns damage alone.
+As zombies are undead mobs, they are harmed by the status effect Healing and healed by the status effect Harming. They are also immune to regeneration and poison.
+Zombies take 25 seconds underwater to die through drowning, they start taking damage at 16 seconds underwater.
+Zombies will attack villagers within 42 blocks, and they can always see villagers through walls. Once a zombie has focused on a villager, the zombie will ignore any other villagers and the player, until its target is dead or a mob or player attacks.
+Zombies will bang on closed wooden doors, and on Hard (and Hardcore) difficulty, up to 14.5% of them (depending on regional difficulty) can succeed in breaking them down. Otherwise, the door will crack, but not break. Iron doors are always safe. In Pocket Edition, zombies cannot break down wooden doors at all.
+Zombies will attack iron golems within 42 blocks.
+On hard difficulty, zombies can spawn additional zombies to “help” when damaged. Each zombie has a "likeliness to call reinforcements" statistic which ranges from 0–10%, and "leader" zombies (0–5% depending on regional difficulty) get a bonus of 50–75 percentage points to the stat. When the zombie is damaged by an entity or is damaged while targeting an entity, up to 50 attempts will be made to randomly choose a spawn location (0 or ±7–40 blocks away in all three axes) that is above a block with a solid top surface, has light level 9 or lower, has no players within 7 blocks, and has no colliding entities or blocks at which to spawn the reinforcement. Both the damaged zombie and the new zombie will have a 5 percentage point penalty to their "likeliness to call reinforcement" stat, making it less likely that an infinite number of zombies will spawn.
+On all difficulty levels, damaged zombies will also call all other zombies within a 67×67×21 to 111×111×21 area centered on the attacked zombie to target the attacking player, like zombie pigmen.
+These effects can be negated by killing the zombie in as few hits as possible, by using environmental damage such as cactus or lava, or by ignoring them.
+In Console Edition, most of the zombie and villager reactions are present; however, the special door-breaking tag is not present and as such all zombies can punch doors.
+Zombies are attracted to villagers, but can't break down doors. Zombies, unlike their PC counterparts, cannot pick up armor or items, nor do they spawn with them.
+Zombies can climb ladders, but will only do so if their path finding runs them into one.
+Zombies can frighten villagers from behind walls of glass. Villagers will even run into a fire to "escape" from zombies behind glass.
+Zombies' attack range is a bit higher in the Console Editions than the PC version.
+If a zombie spawns wearing multiple pieces of armor, the armor will never be mismatched (i.e. all pieces will be made of the same material); the same applies for skeletons.
+The hat part of zombie texture can be used for zombie villagers, but it will be cubic instead of a parallelepiped.
+Zombies will not catch fire if they are caught in cobwebs.
+A zombie holding an item given by a player will not despawn when left alone.
+Currently, zombies have the most subtypes of all the mobs This is because zombies can be zombie villagers, baby zombies, armed, armored, or any combination of the above.
+Currently, zombies have the most subtypes of all the mobs Baby zombies can also rarely be chicken jockeys.
+Zombie villagers will drop normal zombie heads when killed by a charged creeper.
+A zombie emerging from a dark cave.
+Dying zombie in the PC version.
+Dying zombie in the Pocket Edition.
+More recent version.
+Zombies breaking down a door.
+Zombie trap using a spawner. 97 zombies trapped.
+A zombie horde that spawned outside a village.
+A baby zombie villager riding a chicken.
+A height comparison between the player and the zombie. Note the zombie being higher than the player.
+First image of armed and armored zombies released by Dinnerbone.
+A zombie that spawned wearing chain armor.
+A zombie villager wearing golden armor.
+A zombie wearing leather armor.
+A zombie wearing chain armor.
+A zombie wearing iron armor.
+A zombie wearing gold armor.
+A zombie wearing diamond armor.
+An armored zombie that picked up a bookshelf.
+A zombie holding a piece of wool.
+A zombie wielding an iron shovel doing its attack animation.
+A zombie villager with an enchanted iron sword.
+A zombie holding an iron shovel.
+Zombies wearing pumpkins on Halloween.
+A baby zombie wearing a jack o'lantern on its head on Halloween.
+A zombie wearing a player head.
+A zombie villager wearing a wither skeleton skull.

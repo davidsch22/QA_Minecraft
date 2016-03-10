@@ -1,0 +1,3 @@
+A Raw Porkchop is a food item dropped by pigs. Pigs will drop 1-3 Raw Porkchops upon death. You can cook Raw Porkchops in a furnace to create Cooked Porkchops. Each Raw Porkchop restores 1.5 units of Hunger and 1.8 hunger saturation.
+Raw Porkchops, as well as Cooked Porkchops, were not initially stackable.
+A pig that dies while on fire will drop 1-3 Cooked Porkchops upon death.

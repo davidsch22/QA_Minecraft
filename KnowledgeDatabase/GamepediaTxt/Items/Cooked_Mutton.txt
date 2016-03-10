@@ -1,0 +1,5 @@
+Cooked Mutton is a food item made from cooking raw mutton in a furnace.
+1–2 pieces of cooked mutton are dropped when a sheep dies while on fire. More drops can be obtained using the Looting enchantment.
+Cooked mutton can be eaten, restoring 6 () and 9.6 saturation. Cooked mutton can also be fed to wolves.
+Sheep can be farmed for a steady supply of cooked mutton and wool. They can also be cooked automatically using dispensers and lava.
+First image of the item by Ryan Holtz.

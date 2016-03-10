@@ -1,0 +1,11 @@
+Dec value: 47.
+Hex value: 2F.
+Minimum tool requirement to break: None.
+Blast resistance: 7.5.
+Maximum stack 64.
+Transparency: No.
+Bookshelves are most commonly used as decoration and can be found in villages and Strongholds. However, they also serve as a way to increase the maximum level of possible enchants you can use with the enchantment table.
+Bookshelves are created using 3 books and 6 wooden planks. The planks can be any combination of the 4 different colored planks, but they have no impact on the result, which will always look the same. Bookshelves can be destroyed by hand, though axes are faster. When destroyed, they only drop 3 books. Like most wooden objects, bookshelves are flammable and will catch fire from any nearby lava or fire block.
+Bookshelves can unlock higher leveled enchantments when they’re with 1 block in between it and the enchantment table. This means you can only placed them in a 5×5 square around the enchantment table, as well as on top of that square, but not under it.
+The space between the bookshelves and the enchantment table also has to be air, anything placed there will block the effect. A total of 32 bookshelves can be placed around it, however, only 30 bookshelves can be active at once. The last 2 bookshelves have no effect, so you can leave those out to create a doorway. The maximum enchanting level is capped at 50.
+When bookshelves are placed right, small particles will fly from the bookshelves towards the enchanting table.

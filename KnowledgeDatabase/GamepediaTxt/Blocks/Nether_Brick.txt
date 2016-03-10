@@ -1,0 +1,8 @@
+Nether bricks are a block used to form nether fortresses in the Nether.
+Nether bricks can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Nether brick forms the walls and supporting pillars of nether fortresses.
+Nether brick is non-flammable and immune to ghast fireballs, making it a suitable shelter material for the Nether. When walking on it, it makes the same step sound as stone.
+First picture of nether bricks, released by Jeb.
+Same as before but brightened.
+Second nether brick screenshot released by Jeb showing bridges.
+The second screenshot again, but brightened.

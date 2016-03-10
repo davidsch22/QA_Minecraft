@@ -1,0 +1,17 @@
+Cows are passive mobs found in the Overworld.
+Cows spawn in herds of 4 on top of opaque blocks with at least 2 blocks of space above them, at a light level of 9 or higher. They mostly spawn in herds while the world is first generating; although if there are no passive mobs in loaded chunks, they can spawn after world generation in normal spawning cycles.
+If cows are given wheat, their love mode will be triggered and they will pair off to create calves, which may grant the player a small amount of experience. The parent cows will then have a delay of 5 minutes before they can breed again.
+The growth of baby cows can be slowly accelerated using wheat. Each use takes 10% off the remaining time to grow up.
+Shearing a mooshroom will turn it into a cow.
+Adult cows drop 0–2 leather, 1–3 raw beef (1–3 steak if killed by fire) and 1–3 experience.
+Cows can be milked by using a bucket on it.
+Like other baby animals, killing a baby cow yields no items nor experience.
+Cows are 1.6875 blocks tall, 0.625 blocks wide, and 1.5 blocks long.
+Cows tend to walk around slowly and aimlessly, mooing and breathing occasionally. They will avoid walking off cliffs high enough to cause fall damage, and usually stay out of water.
+A cow will follow the player if he/she is holding wheat, but will stop if the player travels too far away (approximately 10 blocks).
+In the Console Editions, cows are unaware of cliffs and holes in the ground, leading them to occasionally fall and die.
+Cows resemble Norwegian red cattle.
+Cows in the PC Gamer Minecraft Demo are branded with a 'PCG' logo on their side.
+Notch stated in a tweet that all “breedable” peaceful mobs displayed traits of both genders and could breed with any other individual of their species. This applies to cows, since they have horns and give milk (although female cows have horns).
+The PC Gamer Demo cow.
+A cow begging at the player holding a piece of wheat.

@@ -1,0 +1,21 @@
+ Chests are blocks used to store items and other materials. In very rare instances, chests can also occur inside walls and under floors in dungeons. The contents of these chests are similar to those of normal un-hidden chests. When chests occur in strongholds they are surrounded by stone slabs and stone bricks.
+In multiplayer, chests, as well as doors, can be locked so only certain people can open them by a plugin called Lockette. This allows you to keep diamonds and other expensive items safe. You can also put a sign on a chest to mark the chest as your property. In some multiplayer servers, the chest can be locked with a sign, a plugin or with a magical spell.
+It is very much possible to make triple chests by using the command /setblock. However, performing that action will cause a little bug which the chest inventory will cause the normal inventory (where you carry your items when you don't have space for the 9-slot inventory) become glitched, making the selection buggy.
+To perform these actions, stand beside the double chests and use the command: /setblock ~ ~ ~ chest.
+To access the triple chest, you must select the middle part of the chest. Opening the chests on the left or right chests will cause the chest inventory to look normal double chest inventory.
+It may be possible for Survival Games for some servers, whenever a player dies, they dropped the chest beside the double chest, making the triple chest.
+For some reason, the triple chests you have does not look like a real triple chest, they look like that they normal double chests. Even though you can still select it but you cannot select the 3rd chest that you've placed.
+As of 1.8 they have an open-close animation.
+As of the 1.8.2 update to the Xbox 360 Edition, chests now have an open-close animation.
+If a block is placed on top of a chest and the player tries to retrieve their items, the chest will deny the player access until the block is removed. However, if the block on top of the chest is a slab, stair or another Chest, this won't apply.
+In 1.3.1, Bonus Chests were added as an option, to give the Player a better start in new Survival Mode worlds.
+In Beta Stages, Mojang implemented a practical joke by placing chests that glow and that when clicked, would say you needed a Steve Key, and you wouldn't be able to buy it and you kept buying until you got a certain amount of money, it showed a windows sign saying "If you are prone to seizures, press cancel!".
+As of snapshot 13w19a you can shift right-click and put a chest on donkeys/ mules. Therefore you can have a mule carrying things without getting tired, you can access the mule inventory by looking at one of the chests with you cursor and shift right-clicking.
+During the Christmas season, single chest look like small red presents, and double chests look like large green presents.
+1-2 chests usually appear in a dungeon, however rarely they can spawn with no chests/.
+Some plugins use the chest.
+A Bonus Chest not far from the Player's spawn point.
+Chest texture during Indev 0.31 - Beta 1.7.3.
+A mule equipped with a saddle bag.
+A double chest in Minecraft.
+Add a photo to this gallery.

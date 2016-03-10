@@ -1,0 +1,41 @@
+Fire is a harmful non-solid block.
+Fire cannot be obtained as item under any circumstances. It can be placed using flint and steel and fire charges.
+Fire naturally generates in the Nether.
+Lava can naturally create fire (see below).
+Lightning bolts can also create fire, as also may explosions of beds, ender crystals, ghast and blaze fireballs.
+When placed, fire will burn for a short and randomly determined amount of time. If nothing flammable is adjacent to it, the flames will die out. If water touches fire, the fire will be extinguished.
+Fire will spread onto and burn flammable blocks Wood planks.
+Fire will spread onto and burn flammable blocks Wood slabs.
+Fire will spread onto and burn flammable blocks Wood.
+Fire will spread onto and burn flammable blocks Leaves.
+Fire will spread onto and burn flammable blocks Vines.
+Fire will spread onto and burn flammable blocks Grass.
+Fire will spread onto and burn flammable blocks Wool.
+Fire will spread onto and burn flammable blocks Fences.
+Fire will spread onto and burn flammable blocks Wood stairs.
+Fire will spread onto and burn flammable blocks Coal blocks.
+Fire will spread onto and burn flammable blocks Hay bales.
+Fire will spread onto and burn flammable blocks Bookshelves.
+Fire will spread onto and burn flammable blocks Flowers.
+Fire will spread onto and burn flammable blocks TNT (ignites instead of vanishing).
+Fire will spread onto and burn flammable blocks Sponge (Pocket Edition only).
+Fire will spread onto and burn flammable blocks Sign (Pocket Edition only).
+Fire will burn leaves slightly faster than the other flammable objects, indicating the game has different burn durations for different types of flammable blocks (though see block ticks to explain randomness in durations). Non-flammable blocks can be lit but do not burn away, and will not spread fire to other non-flammable blocks. Non-flammable blocks other than netherrack will extinguish themselves after a few seconds.
+Mobs and players will catch fire when exposed to fire. Fire will obstruct the player's view slightly and they will slowly lose health at a rate of ⁄2 heart per second. This is the same rate that the player gains health in peaceful mode, so fire alone will not kill you in this mode. After they move out of the fire block, they will keep burning for 8 seconds, which deals additional 4 hearts damage (unless the fire is put out by rain or water). In Pocket Edition, contact with burning mobs catches fire to the player.
+Items or blocks falling into fire will catch light and quickly disappear.
+If a mob that can drop meat dies while on fire, it will drop the cooked version of it, with the exception of guardians.
+Nether mobs cannot be damaged by fire, and will not catch on fire.
+Fire will spread over flammable surfaces. Fire can climb up walls, across floors and ceilings, and over small gaps. More precisely, a fire block can turn any air block that is adjacent to a flammable block into a fire block. This can happen at a distance of up to one block downwards, one block sideways (including diagonals), and four blocks upwards of the original fire source. Therefore if the player is using it as a fireplace, caution is needed. Blocks in the way will not prevent fire from igniting blocks above it--so even if you protect your wooden roof with cobblestone between it and the fire, the fire will completely ignore that cobblestone.
+Fire spreads from a still lava block similarly: any air block one above and up to one block sideways (including diagonals) or two above and two blocks sideways (including diagonals) that is adjacent to a flammable block may be turned into a fire block.
+Fire will burn out after a while on its own, however the player may want to extinguish the fire as soon as possible to prevent damage. You can use water to extinguish the fire. Punching or hitting the side of a burning block will extinguish the fire block on that side. Hitting fire with a tool does not use up any uses for the tool. Placing blocks on the fire will also extinguish it.
+Mobs on fire will be extinguished when in water or in a cauldron containing it. In the latter case, one layer of water will disappear.
+Netherrack will maintain fire forever when set on fire, unless put out by lava, water or the player. Note that rain won't put out Netherrack fire. Bedrock in the End will also burn eternally.
+If gamerule doFireTick is false, fire will last forever until it is put out by the player and will not spread.
+Fire blocks have ID minecraft:fire (51) and are further defined by block states.
+Sometimes, in Survival when you walk into a fire and then walk out very quickly you will not stay on fire.
+Curiously, if a gravity-affected block such as sand or gravel falls on a block of which the top is on fire, it will extinguish the fire rather than drop itself as an item, despite fire being a non-solid block.
+Burning mobs turn orange and emit large fire particles around their body.
+The fire spreading mechanic is based on how prior PC Beta 1.6 would be.
+A house that has caught fire because it was too close to a lava lake, and made out of wood.
+A burning zombie in Pocket Edition emitting unique fire particles.
+A natural fire started by lava flowing into a tree.

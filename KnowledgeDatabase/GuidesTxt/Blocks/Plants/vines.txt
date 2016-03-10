@@ -1,0 +1,10 @@
+Dec value: 106.
+Hex value: 6A.
+Minimum tool requirement to harvest: Shears.
+Blast resistance: 1 Maximum stack 64.
+Transparency: Yes.
+Vines grow naturally on trees in swamp and jungle biomes. They can also be found in caves and small ravines, usually in jungle biomes. Vines will continue to grow untill they’re blocked by another block. Vines can also grow on the sides of other blocks, which are then climbable, like ladders, but don’t have a collision box that allows you to stand on them.
+Vines will sometimes grow sideways or on the ceilings, though this doesn’t happen that often. Placing a vine on a block next to a ceiling block will place the vine on the side of the wall block and the bottom of the ceiling block.
+Vines can be harvested by using shears, which can then be placed on solid blocks. The easiest way to get rid of hanging vines is to destroy the vines hanging onto other blocks. If a large number of vines are attached to other blocks, water can be used to flush them all down. This will destroy all of them. Destroying or harvesting a vine will destroy all the vines it was supporting, so it’s advised to start harvesting at the bottom of the vine.
+Because vines attached to solid blocks are climbable, vines offer a very cheap alternative to ladders, the only disadvantage being the lack of a collision box, but by sneaking you will stay in place. A great thing about vines is that they block line of sight. This allows you to hide from many monsters, as well as getting in the first strike. Note that some monsters, like skeletons and zombies, have a more advanced AI, so they will be able to see you.
+Arrows will shoot through vines, which makes it very easy to snipe mobs without them seeing you. If you sneak you might even be able to catch a player off guard.

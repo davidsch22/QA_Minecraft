@@ -1,0 +1,12 @@
+Cookies are a food item introduced in Beta 1.4 that restore one  when eaten. It was hard to obtain until 1.3 was released and Cocoa Beans, one of the ingredients, became a lot easier to find. .
+Using the crafting recipe just once will give eight cookies, making it possible to heal eight         in a single batch.
+Can be made into 8 cookies in just one cocoa bean and two stalks of wheat.
+Cocoa beans are easy to find once in a jungle.
+Wheat is easy to grow and their seeds are easily found.
+They are renewable.
+They only restore 0.4 saturation points. .
+Wheat requires time to grow.
+If you are not close to a jungle and do not have a cocoa bean farm, cocoa beans are not readily available.
+Cookies were the only stackable food when at the time of their introduction in Beta 1.4.
+As of 1.3.1, Cookies are now easier to make because of Cocoa Bean's farming mechanics.
+Cookies can sometimes be obtained from Trading with Villagers.

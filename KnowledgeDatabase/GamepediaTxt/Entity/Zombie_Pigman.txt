@@ -1,0 +1,38 @@
+Zombie pigmen are neutral mobs that live in the Nether.
+Zombie pigmen can spawn in the Nether, from Nether portals, or from pigs. They have a 5% chance of spawning as a baby zombie pigman, and a baby zombie pigman has a 5% chance of spawning as a pigman jockey.
+All zombie pigmen spawn with a golden sword, which may randomly be enchanted. This chance increases at higher difficulties, and the sword's enchantment will more commonly be of a higher level.
+Zombie pigmen spawn in groups of 4 in the Nether.
+Zombie pigmen are capable of spawning on the bottom row of obsidian in a Nether portal frame in the Overworld. Spawning inside a nether portal is a factor of the number of portal blocks in the portal - each block has a chance of spawning a zombie on the base of the portal. Building bigger portals means more pigmen spawn, where the smallest 2×3 portal (4×5 frame) has the lowest likelihood of a spawn.
+A zombie pigman will spawn when lightning strikes within 4 blocks of a pig. If the player is riding the pig when lightning hits it, a zombie pigman will appear on top of the player. If the pig is a baby, the zombie pigman will still be full sized.
+In the Pocket Edition, there is no Nether, so zombie pigmen will not spawn there or from Nether portals. Instead, zombie pigmen will spawn when a Nether reactor is successfully activated, as long as the difficulty is not peaceful.
+Zombie pigmen drop 0 to 1 rotten flesh and 0 to 1 gold nuggets. The maximum amount of each can be increased by 1 per level of Looting used, up to a maximum of 4 each at Looting III.
+Zombie pigmen have a 2.5% chance to drop a gold ingot and a 8.5% chance to drop their sword when their death is registered as a player kill. That chances of each can be increased by 1% per level of Looting used, up to a 5.5% chance for a gold ingot and a 11.5% chance for a golden sword at Looting III.
+Zombie pigmen drop 5 experience, or 12 if they are a baby zombie pigman, when their death is registered as a player kill.
+All items they have picked up after spawning will be dropped upon death.
+On Halloween (October 31st), zombie pigmen have a 22.5% chance of spawning with a pumpkin or a 2.5% chance of spawning with a jack o'lantern equipped as headgear.
+If a zombie pigman wearing a pumpkin or jack o'lantern is killed using a tool enchanted with Looting, there will be a chance equivalent to the level of Looting used to drop the pumpkin or jack o'lantern, up to a maximum of a 3% chance at Looting III.
+In Pocket Edition, zombie pigmen have none of the other drops, and instead have these drops.
+Zombie pigmen will drop 0 to 1 gold ingots and 0 to 1 feathers.
+Zombie pigmen have a 2.5% chance each of dropping a carrot or a potato.
+Zombie pigmen tend to move relatively slowly. They can drown, but are immune to fire and lava damage. Baby zombie pigmen are faster than zombie pigmen.
+Like zombies, some zombie pigmen will sometimes bang on wooden doors, and in Hard difficulty, even break them.
+Some zombie pigmen have the ability to pick up items. They will even pick up a weapon if they feel it is better than their golden sword, dropping their golden sword with the same chance as if killed with Looting I.
+Zombie pigmen have 20 ( × 10) health and 2 () armor points, which reduces about 8% of damage.
+When aggravated, their speed will significantly increase to faster than the player's walking speed. They will also make an aggressive noise between 0 to 39 ticks after they are attacked. The pigmen will crowd around and try to overwhelm the player by ganging up on them. Each pigman can deal 5 () on Easy, 9 () on Normal, or 13 () on Hard per hit.
+In addition, some zombie pigmen will have the ability to spawn reinforcements when attacked, including when killed in a single hit. Due to a bug, the spawned reinforcement will sometimes be a regular zombie.
+Zombie pigmen are damaged by the status effect Healing and healed by the status effect Harming. They are immune to both the status effects Regeneration and Poison.
+Zombie pigmen are not initially hostile, but all zombie pigmen within a 67×67×21 to 111×111×21 area centered on the attacked pigman will become aggressive and converge on the player if any individual is attacked, unless the pigman attacked is killed in one hit. This applies to any hit registered as coming from the player, including deflecting ghast fireballs. This only applies to the player; mobs that provoke zombie pigmen will only be attacked by that specific individual.
+Zombie pigmen will remain hostile for 20 to 39.95 seconds, although they will continue to pursue an already-targeted player after this time until the player dies or escapes their 40 block pursuit radius. Approaching an already hostile zombie pigman causes it to sound an alarm call, angering other zombie pigman in a 40-block radius. The forgiveness timer does not advance for zombie pigmen in unloaded chunks. Thus, if the player enters a Nether portal and returns, any provoked zombie pigmen in the area will still be aggressive unless another player was nearby to keep the chunks loaded. Dying will not cause zombie pigmen to become neutral towards the player, regardless of whether they killed you.
+In Pocket Edition, zombie pigmen are always hostile, but have a shorter sight distance than other hostile mobs. They are also much slower than the PC edition.
+A baby zombie pigman riding a chicken.
+A zombie pigman in the Overworld in the thunderstorm that spawned him, near one of his porcine siblings.
+Animation showing the spontaneous combustion of a zombie pigman in the Overworld. The flash of its fire is very brief.
+A zombie pigman in lava.
+A zombie pigman riding a minecart.
+A zombie pigman burning in sunlight in the Pocket Edition. Instead of a brief flash, it burns like other undead mobs, although it does not get hurt by the fire.
+Like regular zombies, zombie pigmen have an attack animation, provided they are holding a weapon.
+A zombie pigman with an enchanted sword.
+A zombie pigman seen in-game from the Pocket Edition (before 0.11.0).
+A zombie pigman wearing enchanted diamond armor with an enchanted diamond sword.
+A zombie pigman that recently spawned around a portal in the Overworld.
+Pigman.

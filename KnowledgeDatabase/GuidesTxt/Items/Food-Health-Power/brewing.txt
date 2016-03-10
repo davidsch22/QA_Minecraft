@@ -1,0 +1,76 @@
+ Making potions is a great way to boost yourself and can be very useful when trying to overcome more difficult encounters, like the End, the Nether, or even a simple dungeon. There are 2 kinds of potions, normal and splash potions.
+Normal potions are drunk like you would eat food. Splash potions are thrown on the ground using the right mouse button and are thrown towards you aim, though their range isn’t that far. Each potion either has a positive effect or a negative effect. There are also potions with no effect, but they’re stages before either a positive or negative effect potion is made.
+To create a potion you will need to add up to 3 ingredients, all of which are explained below. How to create or gather these items is explained in the individual articles for those items.
+Before you can start brewing you’ll need a few pieces of equipment. Brewing stand: A brewing stand holds up to 3 bottles and is used to add ingredients to those bottles. Each ingredient takes 20 seconds to be added. Bottles you’ve put in the stand will stay there untill you take them out again, they won’t fall on the ground if you close the menu. The potions you put in there don’t have to be the same, so you can change up to 3 different potions with just 1 ingredient.
+ Cauldron: A cauldron can be filled using a bucket. A full cauldron will fill up to 3 bottles, which means it’s pretty much completely useless if you’re looking to brew a lot of potions. A much easier way is by simply placing a water block in a hole and using your bottles on that block, it’ll never run out.
+ Glass bottles: These will be filled with water to start every potion.
+All ingredients can be added to a water bottle, but only 1 of them will give you an effective potion immediately and only 1 ingredient will lead to potions with a positive effect. Nether wart: This ingredient is the only ingredient that leads to potions with a positive effect.
+Adding this to a water bottle will create a awkward potion, which has no effect yet.
+ Fermented spider eye: Using this ingredient will immediately give you a potion of weakness.
+Fermented spider eyes are also used as secondary and tertiary ingredients to add a negative effect to a potion.
+You can also add all other types of ingredients first, but they will create thick or mundane potions, which can only be turned into a potion of weakness by adding a fermented spider eye, which means you’re just wasting an extra ingredient.
+These ingredients are added after you’ve added the first ingredient (usually nether warts). Adding these ingredients will give you a useable potion, though it could be brewed further to make stronger version of that potion. Blaze powder: This’ll turn your awkward potion into a potion of strength.
+ Fermented spider eye: This will create a potion of weakness, which is a bit pointless as you could’ve simply added the fermented spider eye first.
+ Ghast tear: Ghast tears will turn awkward potions into potions of regeneration.
+ Glistering melon: Awkward potions will be turned into potions of healing when you add glisterin melons.
+ Magma cream: Adding magma cream will turn the awkward potions into potions of fire resistance.
+ Spider eye: Spider eyes will turn awkward potions into potions of poison.
+ Sugar: An awkward potion will turn into a potion of swiftness when you add sugar.
+These ingredients alter your existing potions. Fermented spider eye: Adding a fermented spider eye to existing potions will change the potion’s effect. It will usually change to a potion with the opposite effect. A potion of swiftness, for example, will turn into a potion of slowness.
+ Glowstone dust: Adding glowstone dust will increase the strength of most potions. For example, a potion of strength will turn into a potion of strength II, which allows you to deal even more damage.
+ Gunpowder: Adding gunpowder will turn the potion into a splash potion. Splash potions have the same effect, but their strength and/or duration has been reduced.
+ Redstone dust: Redstone dust will increase the duration of most potions.
+Note that you can only add either redstone or glowstone, not both. Adding 1 after the other will apply the effect of the ingredient added last. Also note that not all potions can be enhanced by adding redstone or glowstone. Instant potions, for example, cannot be enhanced by adding redstone.
+The recipes below only mention the ingredients, I’ve left out the water bottle (and mundane, etc potions) as they’re standard in every recipe. Also note that I’ve left out many potion of weakness recipes, as those recipes are pointless. Only the fastest and cheapest recipe has been added.
+Fire resistance (3:00) = nether wart + magmacream.
+Fire resistance (8:00) = nether wart + magmacream + redstone dust.
+Healing (3 hearts) = nether wart + glisterin melon.
+Healing II (6 hearts) = nether wart + glisterin melon + glowstone dust.
+Regeneration potion (0:45) = nether wart + ghast tear.
+Regeneration potion II (0:22) = nether wart + ghast tear + glowtone dust.
+Regeneration potion (2:00) = nether wart + ghast tear + redstone dust.
+Strength potion (3:00) = nether wart + blaze powder.
+Strength potion II (1:30) = nether wart + blaze powder + glowstonestone dust.
+Strength potion (8:00) = nether wart + blaze powder + redstone dust.
+Swiftness potion (3:00) = nether wart + sugar.
+Swiftness potion II (1:30) = nether wart + sugar + glowstone dust.
+Swiftness potion (8:00) = nether wart + sugar + redstone dust.
+Harming (3 hearts) = nether wart + glistering melon + fermented spider eye.
+Harming (3 hearts) = nether wart + spider eye + fermented spider eye.
+Harming II (6 hearts) = nether wart + glistering melon + fermented spider eye + glowstone dust.
+Harming II (6 hearts) = nether wart + spider eye + fermented spider eye + glowstone dust.
+Poison (0:45) = nether wart + spider eye.
+Poison II (0:22) = nether wart + spider eye + glowstone dust.
+Poison (2:00) = nether wart + spider eye + redstone dust.
+Slowness (1:30) = nether wart + sugar + fermented spider eye.
+Slowness (1:30) = nether wart + magma cream + fermented spider eye.
+Slowness (4:00) = nether wart + sugar + fermented spider eye + redstone dust.
+Slowness (4:00) = nether wart + magma cream + fermented spider eye + redstone dust.
+Weakness (1:30) = fermented spider eye.
+Weakness (4:00) = fermented spider eye + redstone dust.
+Fire resistance (2:15) = nether wart + magmacream + gunpowder.
+Fire resistance (6:00) = nether wart + magmacream + redstone dust + gunpowder.
+Healing = nether wart + glisterin melon + gunpowder.
+Healing II = nether wart + glisterin melon + glowstone dust + gunpowder.
+Regeneration potion (0:33) = nether wart + ghast tear + gunpowder.
+Regeneration potion II (0:16) = nether wart + ghast tear + glowtone dust + gunpowder.
+Regeneration potion (1:30) = nether wart + ghast tear + redstone dust + gunpowder.
+Strength potion (2:15) = nether wart + blaze powder + gunpowder.
+Strength potion II (1:07) = nether wart + blaze powder + glowstonestone dust + gunpowder.
+Strength potion (6:00) = nether wart + blaze powder + redstone dust + gunpowder.
+Swiftness potion (2:15) = nether wart + sugar + gunpowder.
+Swiftness potion II (1:07) = nether wart + sugar + glowstone dust + gunpowder.
+Swiftness potion (6:00) = nether wart + sugar + redstone dust + gunpowder.
+Harming = nether wart + glistering melon + fermented spider eye + gunpowder.
+Harming = nether wart + spider eye + fermented spider eye + gunpowder.
+Harming II = nether wart + glistering melon + fermented spider eye + glowstone dust + gunpowder.
+Harming II = nether wart + spider eye + fermented spider eye + glowstone dust + gunpowder.
+Poison (0:33) = nether wart + spider eye + gunpowder.
+Poison II (0:16) = nether wart + spider eye + glowstone dust + gunpowder.
+Poison (1:30) = nether wart + spider eye + redstone dust + gunpowder.
+Slowness (1:07) = nether wart + sugar + fermented spider eye + gunpowder.
+Slowness (1:07) = nether wart + magma cream + fermented spider eye + gunpowder.
+Slowness (1:30) = nether wart + sugar + fermented spider eye + redstone dust + gunpowder.
+Slowness (1:30) = nether wart + magma cream + fermented spider eye + redstone dust + gunpowder.
+Weakness (1:07) = fermented spider eye + gunpowder.
+Weakness (3:00) = fermented spider eye + redstone dust + gunpowder.

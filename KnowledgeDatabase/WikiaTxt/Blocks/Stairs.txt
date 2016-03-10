@@ -1,0 +1,10 @@
+ Stairs are blocks that allow the player to change elevation without jumping, similar to Slabs. They allow for easier movement over areas that the player would normally have to climb. Stairs can "merge" with other stairs when they meet at right angles, to create a smooth transition. This can be useful for making a roof, floor recess, etc. Stairs will naturally occur in NPC Villages and in Nether Fortresses.
+Stairs can be crafted from six Wooden Planks , six Cobblestone Blocks, six Bricks , six Stone Bricks, six Sandstone Bricks, six Nether Bricks, or six Nether Quartz Blocks producing four stairs per craft. Upon destroying the block after placement, it will yield only one of the material used to craft it.
+Brick Stairs, Stone Brick Stairs, and Nether Brick Stairs were added in the Adventure Update.
+Previously, Wooden Stairs would not burn, but as of Beta 1.6, Wooden Stairs and Fences have become flammable.
+Placing 6 Mossy Stone Brick or 6 Cracked Stone Brick in a crafting box will only make Stone Brick Stairs not Mossy/Cracked Stone Brick Stairs.
+As of version 1.2, stairs can be placed upside-down, to form an arch-like stair design.
+As of Snapshot 12w21b sandstone stairs have a crafting recipe.
+The 1.8.2 update for the XBox 360 edition added Stone Brick and Brick stairs.
+In 1.4.2 online, stairs can now join and create corners.
+Stairs are 1 of the 2 blocks that you can stand on by just walking.

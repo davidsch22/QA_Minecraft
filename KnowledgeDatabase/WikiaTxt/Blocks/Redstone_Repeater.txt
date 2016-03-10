@@ -1,0 +1,6 @@
+ A Redstone Repeater is a redstone block. It can act as a repeater, a diode, or a delay.
+A repeater extends a powered redstone current by fifteen blocks. The repeater can delay this current by up to four tenths of a second. Repeaters will have their movable torch become a horizontal bar if powered from the side by another repeater, and stop responding to changes to the input block while in this state.
+Prior to beta 1.6, the particles generated when the block was destroyed looked like those of a pumpkin .
+In the codipear shorter is because the torches are actually off-set from their y-axis.
+Two repeaters in a repeater lock.  Note how it is still powered even when the input has been disconnected.
+Add a photo to this gallery.

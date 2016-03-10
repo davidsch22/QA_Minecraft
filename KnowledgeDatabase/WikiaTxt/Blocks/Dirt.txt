@@ -1,0 +1,11 @@
+This article explains about regular Dirt. For it's grass counterpart, see: .
+ Grass Block For it's purple, Mushroom Island counterpart, see: .
+ Mycelium. For it's Mega Taiga, dark brown counterpart, see: .
+ Podzol. For it's Coarse counterpart, see: .
+ Coarse Dirt.Dirt is the most ordinary surface Block in the overworld, making up the majority of the top layers of Blocks, between Grass or Snow and Stone. It is also found in underground deposits at all altitudes. It can also be found in the bottom of any body of water, along with Sand, Gravel and Clay. It's got exactly the same texture on all six sides. Dirt has little importance in Minecraft, other than for farming, which is essential for many things. Water does not turn it into mud and fire cannot destroy it. .
+When a Dirt Block is adjacent to a Grass Block and is exposed to a light level of at least 4 (e.g. from Torches or sunlight), it will eventually be converted into a Grass Block at random intervals (see Grass for growth details). Mycelium spreads in similar fashion, but requires a light level of at least 9.
+Dirt is not used in any Crafting recipes whatsoever (but some mods have crafting with dirt). Some uses offered by this Block are as a necessity for growing certain plants after being tilled with a Hoe, though Sugar Cane and Saplings don't need tilling. Dirt can also be used as a cheap material for when a player wishes to block off branches of a Cavern, build walls or scaffolds, or any similar task that requires a medium to large number of blocks that are not affected by gravity and are fireproof.
+A bug in Minecraft Beta 1.8 pre-release allowed any Block (including Bedrock) to change into Dirt when a Huge Mushrooms was grown on it. This was later fixed in the second pre-release of version 1.8 so that Huge Mushrooms can only be grown on Dirt, Grass or Mycelium.
+Dirt slabs were added in Survival Test, but were quickly removed. Grass didn't grow on the slabs.
+A dirt block on some grass blocks.
+Add a photo to this gallery.

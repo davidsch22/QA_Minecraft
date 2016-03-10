@@ -1,0 +1,10 @@
+ The aim of this mini game is to dye as many sheep in your team’s colour within a time limit. It’s played with 2 or more teams and each team is allowed to dye the other team’s sheep as well, so some form of tactics could be applied.
+The game is best played in a large field with just enough sheep to fill about half the field. Too many sheep makes the game a bit boring, as everybody will have enough white sheep to paint.
+Each team has to dye as many sheep in their team colour with their limited supply of dyes. Once both teams have run out, the total amount of coloured sheep will be counted and whichever team painted the most will win. .
+As mentioned, it’s allowed to paint the sheep of the other team, so the blue team could wait and paint as many of the red painted sheep as possible, in order to steal away as many of them as possible.
+To prevent both teams from playing the waiting game, we also set a time limit in which the teams have to vonquer the sheep. Any dyes that haven’t been used after x minutes will be destroyed.
+You can make the game more challenging by making the team dye and kill the sheep. Whichever team has the most wool in their team’s colour will win. They can also be allowed to kill and collect sheep in the colour of the opponent’s team to steal away points.
+However, this method makes it somewhat easy to cheat, though simply killing each player before the game start will make sure they drop any wool they might’ve been carrying.
+You could also add wolves, which will kill sheep randomly. Though it takes a large amount of wolves to make a significant difference.
+Another version of the game is played by putting sheep in holes in the floor, which can then be dyed by each team. This makes it easier to get to the sheep, though it should not be allowed to paint the sheep of the other team.
+You could make it more challenging by forbidding teams to pass between 2 sheep in the colour of the opponent’s team, which means tactical barriers could be put in place.

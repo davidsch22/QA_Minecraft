@@ -1,0 +1,9 @@
+Blocks of Quartz (also known as Quartz Blocks) are mineral blocks that are used only for decoration.
+Blocks of quartz can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+The texture for the pillar quartz block can be placed sideways facing North/South or East/West.
+Because of the low blast resistance of regular quartz blocks, it may be preferable to use two quartz slabs when making fortifications using quartz.
+The first screenshot released about the nether quartz block.
+An example of how quartz blocks can be used to simulate marble or limestone.
+An example showing how nether pillar quartz blocks can be placed.
+The second Redstone Update Pre-release Banner.
+Nether Quartz Ore.

@@ -1,0 +1,9 @@
+This page is about the scrapped Minecraft character. You may be looking for the cartoon character, which can be found here. (This link redirects to another Wikia).
+ "Beast Boy" was an MD3 supported test mob during the Indev phase.
+Beast Boy, Steve, Black Steve, and Rana seem to "glide" across the landscape due to the MD3 models refusing to load the animations.
+Beast Boy was created by a past artist of Mojang named "Dock" (As his nickname) When Dock left Mojang, Beast Boy was scrapped. When creating the animation, the glide effect was not shown on the programming but in game.
+1-2 String.
+1-2 Feathers.
+1-2 Gunpowder.
+0-2 Flint and Steel.
+Beast Boy was named, based and modeled on Beast Boy from the 2003 TV show Teen Titans and its 2013 spinoff Teen Titans Go!, the character with the ability to change into any animal. Like the mob, he also has green skin and hair.

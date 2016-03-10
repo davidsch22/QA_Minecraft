@@ -1,0 +1,7 @@
+Cooked Porkchop is a food item that can be eaten by the player.
+Cooked porkchops can be obtained by cooking raw porkchops or by trading with butchers, and is a drop from pigs that die while on fire.
+When a pig dies while on fire, it will drop 1-3 cooked porkchop instead of 1-3 raw porkchop. The Looting enchantment will increase the number of cooked porkchop drops.
+Raw porkchop can be cooked in a furnace. Each piece of cooked porkchop removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+Villager butchers will offer 5-7 cooked porkchops for an emerald as one of their second tier trades.
+To eat cooked porkchop, right-click and hold while a cooked porkchop is selected in the hotbar. Eating cooked porkchop restores 8 () hunger and 12.8 hunger saturation.
+Cooked porkchops can be used to heal or breed tamed wolves.

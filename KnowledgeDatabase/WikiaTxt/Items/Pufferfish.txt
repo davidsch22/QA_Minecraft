@@ -1,0 +1,3 @@
+ The Pufferfish is a Fish in Minecraft, added in Update 1.7. It is usually easier to be caught with a Fishing Rod in larger bodies of water and can also be obtained in Creative mode; and in 1.8, as a drop from the Guardian and Elder Guardian .
+When eaten, it replenishes half a hunger point. However, it will give the player nausea and hunger for 15 seconds, as well as poison IV for 1 full minute. As consuming pufferfish evidently brings more harm than good, it is not an optimal source of food. It may instead be used for taming cats, or for brewing purposes.
+Pufferfish can be used to make the Water Breathing Potion, which grants the player the ability to breathe underwater for a limited time.

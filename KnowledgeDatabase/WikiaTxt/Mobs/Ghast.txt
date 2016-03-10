@@ -1,0 +1,13 @@
+Ghasts are hostile Nether dwelling mobs that float around and spit Fire charges at players. Ghasts are cube shaped with 9 large tentacles hanging beneath them, and their main body is an exact 4 * 4 * 4 block cube, but despite their ghost like appearance and their ability to move through other mobs, they cannot move through solid blocks or be done extra damage to from the smite enchantment. Ghasts were first added in the Halloween update, and will spawn anywhere in the Nether where there is a 5 * 5 * 5 block space.
+When a Ghast finds a player, it will keep floating around, but it will face the player and start opening its red mouth and eyes and spitting Fire Charges whenever it has a clear shot. These fireballs create explosions and light nearby blocks on fire. Due to this, Ghasts can very quickly cover the landscape in fire.. Ghasts will always float around randomly, unless a player comes within one chunk from one, which is when it will attempt to gain altitude, but keep shooting at the player. When wandering, Ghasts will make peaceful medium pitched sounds, but when fighting, it's sounds will sound more like high pitched screeching noises. .
+To defeat a Ghast, if you think you can get close enough, then it is best to stay behind walls as much as possible until you get close, when it will fly upwards, which is the easiest time to defeat a Ghast with a ranged weapon like a Bow. If you do not think that you can get within range to get the Ghast to fly upwards, then it is probably best to defeat it by knocking its Fire Charges back at it by left clicking while holding any item, which will not always hit, but is effective at defending and attacking at the same time. Alternatively, if you have been found by multiple Ghasts, then it is best to try and get one of the Ghasts between you and the other Ghast, and use the sword technique until one of them is defeated.
+ Ghasts' hit-boxes are off; their heads "no-clip", thus you need to attack the tentacles in order to defeat one.
+ Ghasts cannot destroy Iron Bars or Cobblestone.
+ Ghasts will cancel their Fire Charge if the player that they are attacking moves behind a block.
+ Ghasts always look and sound the same, no matter how bright it is, or where they are in relation to a player.
+ If you move your cursor onto a Ghast's fire charge, then the box around your equipped item will light up.
+ Ghasts, if spawned in The End, will automatically be hostile towards the Ender Dragon.
+ In snapshots between 1.4.7 and 1.5, the fireball's texture was accidently changed to a diamond helmet and back again.
+ The Ghast's sounds are C418's cat. .
+ On Minecraft: Pocket Edition the Ghasts only drop Gunpowder and Ghast Tears.
+Ghast/Gallery.

@@ -1,0 +1,54 @@
+Lava is a fluid block.
+Lava cannot be obtained as an item, but can be retrieved with a bucket.
+Lava occurs as magma in large pools deep underground, on levels 1 through 10, covering 8% of horizontal area. It can also occur as lava rivers from a single spring block, pouring down walls into pools.
+Lava also spawns as lakes. They can be found at any elevation within any biome, can cause forest fires, and sometimes have floating chunks of stone or dirt above them, occasionally with vines or trees growing on the floating chunks (very small islands are sometimes in the center of a lava lake as well.) Lava lakes vary in size and depth, and the lakes will carve out a small air pocket area above them when generated, causing a ceiling underground or possible floating objects above ground. Lava generates in customized worlds with lava oceans set to yes.
+2 blocks of lava can also be found in villages in blacksmiths' houses.
+In the Nether, lava is extremely common, appearing more frequently than water in the Overworld. Seas of lava occur, with sea level at level 31, about a quarter of the total height of the Nether (as 63 is about a quarter the height of the Overworld). They extend down to about level 22 at the most. Lava also appears in single blocks inside the netherrack.
+Most entities will take 4 () damage every half-second from being in contact with lava, and will also be set on fire. When in contact with Lava 300 Fireticks will be added instantly to the Firetimer of the entity/Player. For every further tick the Player is in contact with Lava, 2 Fireticks will be added to the Timer. For Example: 10 seconds in Lava will cause a total amount of 700 Fireticks (35 seconds) where the player burns (300 initially + 400 Fireticks for 200 ticks being in the Lava) or rather 500 Fireticks (25 seconds) left to burn when he leaves the Lava source.
+Nether mobs (which are immune to fire) will take no damage, nor will players or mobs affected by a potion of fire resistance. If the victim touches water or rain falls on it, the fire will be extinguished, but the lava will continue to damage them directly. TNT, bookshelves, leaves, carpets, wool, fences, coal blocks, vines, tall grass, wood, wood planks, wood slabs and wood stairs are flammable. If flammable blocks are close to lava they can catch on fire, although the mechanics are not the same as fire spreading. Non-flammable blocks are unaffected by this effect, and do not spread active fire.
+ The “embers” or “fireballs” which fly out of lava are purely decorative and do not cause fires or damage to entities. When it rains on lava, the rate at which the black "ember" particles appear increases dramatically.
+ A player in lava will last the following time, assuming the hunger bar is always full 3.5 seconds with full leather armor, no enchantments.
+A player in lava will last the following time, assuming the hunger bar is always full 5 seconds with full gold armor, no enchantments.
+A player in lava will last the following time, assuming the hunger bar is always full 5.5 seconds with full chain armor, no enchantments.
+A player in lava will last the following time, assuming the hunger bar is always full 6.5 seconds with full iron armor, no enchantments.
+A player in lava will last the following time, assuming the hunger bar is always full 14 seconds with full diamond armor, no enchantments.
+When a stationary lava block receives a block tick, the game will do one of the following at random (each has a 1/3 chance) Choose one of the nine blocks above the lava block, and if it's an air block with a flammable block adjacent place fire there.
+When a stationary lava block receives a block tick, the game will do one of the following at random (each has a 1/3 chance) As above. Then if the chosen block is not solid and didn't catch fire this tick, choose one of the nine blocks above that and set fire there if it's air and has a flammable block adjacent.
+When a stationary lava block receives a block tick, the game will do one of the following at random (each has a 1/3 chance) Three times, choose a random block from the 8 surrounding the lava block at the same Y level plus the lava block itself. If the chosen block is flammable and has air above, place fire above.
+Since catching fire depends on air blocks, even torches or lava itself can prevent a flammable block from catching fire.
+Lava flows from "source blocks". Most streams or "lava-falls" come from a single source block, but lava lakes (including the "flood lava" in the bottom 10 layers) are composed entirely of source blocks. Only a source block can be captured with a bucket. Lava flows far more slowly than water, and sometimes sourceless lava flows will linger for a short time. In the Overworld, lava travels 3 blocks in any direction from a source block. Lava travels faster and further in the Nether than in the Overworld.
+Lava which is flowing will destroy the following in its path: saplings, cobweb, tall grass, dead bush, wheat, flowers, mushrooms, snow on ground (but snow blocks are immune), lily pads, vines, levers, buttons, both types of torches, redstone, repeaters, and rails. Sugar canes hold back lava, but will disappear if the sugar cane's water source is destroyed by the lava.
+Using a redstone wire, a one-block lava flow can be redirected by supplying power to the spring block, which will cause it to reset the flow towards the now-nearest terrain depression. This is further elaborated in this thread (only viewable when logged-in). It cannot, however, be reversed. This re-calculation is made because redstone wire when toggled changes the block from redstone(on), to redstone(off). Whenever a block updates on any side of lava, the lava re-calculates where to flow, but does not cut off its current direction of flow.
+If lava flows on top of still or running water, it creates stone.
+If lava flows horizontally into water, cobblestone is created.
+If water flows horizontally into lava, a hiss and puff of smoke occur but nothing changes.
+If water flows vertically into lava, cobblestone or a hiss may result.
+If water flows into a lava source block then obsidian is created. The lava spring is destroyed in the process, so unlike cobblestone it is not continuous and renewable.
+If vertically falling water touches a lava source block on any side obsidian is created - even if the water would not run into the lava's square.
+Lava above a nontransparent block (does not include stairs, fences, and slabs) produces dripping particles on the underside of that block that can be seen within a certain distance with particles enabled. These droplets are purely aesthetic, functioning identically to their water counterparts, except water particles are slightly faster.
+Lava can set off tripwires, because they break placed string. It will only trigger it once.
+Arrows shot by the player will only catch fire if shot in flowing lava and not still lava.
+Lava blocks emit a light level of 15.
+Lava source blocks can be collected and replaced using a bucket, in much the same way as water can.
+A lava bucket can be used as a very efficient fuel. It has the longest burning value of 1000 seconds, compared to 800 seconds for a coal block (a lava bucket smelts 100 items, a coal block smelts 80). After smelting starts an empty bucket remains, except sometimes on Minecraft: Xbox 360 Edition, the bucket disappears.
+Lava spends most of its time as stationary, rather than 'flowing' – regardless of its level, or whether it contains a current downwards or to the side. When specifically triggered by a block update, lava will change to 'flowing', update its level, then change back to stationary. Lava springs are generated as flowing, and lava lakes are generated as stationary.
+If bit 0x8 is set, this liquid is "falling" and only spreads downward. At this level, the lower bits are essentially ignored, since this block is then at its highest fluid level.
+The lower three bits are the fluid block's level. 0x0 is the highest fluid level (not necessarily filling the block - this depends on the neighboring fluid blocks above each upper corner of the block). Data values increase as the fluid level of the block drops: 0x1 is next highest, 0x2 lower, on through 0x7, the lowest fluid level. Along a line on a flat plane, lava drops one level per meter in the nether and two everywhere else.
+A water source block placed 1 block away upwards diagonally (but not through corners) from a lava block will first flow in the direction of the lava, then other directions facing away from the lava. This happens because water physics treat the place that lava occupies as empty, and try to flow to it. Once the water turns the lava into obsidian, the water physics update to flow in all directions. (The same thing happens with lava flowing over water).
+Although lava is a liquid, it is not possible to drown in lava. This applies to all mobs.
+When the player is in a bed, they cannot be damaged by lava.
+In console versions, lava cannot be placed near the spawn point.
+The default lava animation as it appears since the Redstone Update.
+A lava lake found directly on the surface of the world.
+Lava's melting pattern for snow and ice.
+A natural lava spring near a waterfall.
+A lava lake found in a large cavern.
+A naturally-occurring stream of lava next to diamond, gold, and iron ore.
+2 naturally-occurring lava lakes next to each other. Note the forest fire the lake on the left is starting.
+A lava lake spawned naturally, note the forest fire nearby.
+A thin piece of lava.
+A running lava source (origin not seen) uncovered six blocks below the surface of desert terrain.
+The inside view of lava with the night vision effect.
+Ladders can stop lava from flowing.
+Real-Life Lava on Wikipedia.
+Real-Life Magma on Wikipedia.

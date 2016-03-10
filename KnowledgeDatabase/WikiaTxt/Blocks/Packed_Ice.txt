@@ -1,0 +1,3 @@
+Packed ice is an opaque variant of ice. Packed ice is harder than regular ice and can not be seen through.
+Packed ice can be found naturally in rare Ice Plains (Ice Spike Biomes) using a tool enchanted with Silk Touch or through creative mode / cheats. Mining packed ice without Silk Touch will break the block.
+Packed Ice was added in the update to 1.7.2.

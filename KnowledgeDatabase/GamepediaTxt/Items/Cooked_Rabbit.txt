@@ -1,0 +1,5 @@
+Cooked Rabbit is a food item that can be eaten by the player.
+Rabbits drop cooked rabbit upon death while on fire. They drop 0-1 each time.
+To eat a cooked rabbit, press and hold use while it is selected in the hotbar. Eating one restores 5 () hunger and 6 hunger saturation.
+Cooked rabbit can also be used to heal or breed tamed wolves.
+First image of the item by Ryan Holtz.

@@ -1,0 +1,9 @@
+Furnace is a block used to smelt blocks and items and convert them into other blocks or items.
+Furnaces can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Two furnaces can be found inside blacksmith shops in villages.
+Furnaces cannot be pushed by pistons.
+The main purpose of furnaces is to allow for smelting. Its interface can be opened by pressing use on it.
+Furnaces emit a light level of 13 when active.
+Furnaces function as multiple devices combined into one block: bloomeries and blast furnaces (for smelting ores), an oven (for baking and cooking), a charcoal pit (for the charring of wood) and a kiln (for baking of clay).
+Torch placed onto a furnace.
+Naturally occurring furnaces in a village.

@@ -1,0 +1,5 @@
+ A Crafting Table, (also called a Workbench), is a useful block used to craft items within a 3x3 grid. When right clicked (default), it allows the player to access the crafting grid. Crafting Tables and Furnaces are able to be pushed by Pistons as of release 1.5.
+The crafting table has a 3x3 grid on its top and, on the sides, various tools are depicte (which are unused except for the sound). The underside has a texture that is exactly like that of Wooden Planks.
+A player's inventory with a 2x2 grid in the top right corner where it says "Crafting".
+The interface of a crafting table in Minecraft PE 0.8.0 (it uses the MATTIS system).
+Add a photo to this gallery.

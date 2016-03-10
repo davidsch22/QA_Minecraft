@@ -1,0 +1,28 @@
+Fences are wall blocks that cannot be jumped over.
+Wood fences are broken most quickly with an axe, but will drop when broken with any tool. Nether brick fences require a pickaxe to get it back, mining it with anything else will drop nothing.
+Oak fences spawn naturally As the uprights for the supports in abandoned mine shafts, where they are plentiful.
+Oak fences spawn naturally In villages, where they appear in tables, lamp posts, and even enclosures on roofs or behind buildings.
+Oak fences spawn naturally In library rooms of strongholds as railings and chandeliers. In the latter case, there are many torches attached to them.
+Oak fences spawn naturally On the "patios" and in the front window of witch huts.
+Nether brick fences can be found naturally in nether fortresses where they form window bars and gate-like structures.
+In Pocket Edition, dark oak fences spawn as the supports in above-ground mineshafts.
+In Console Edition.
+While fences appear to be a single block tall, and have a hitbox height of one block, their collision box (for entities) is 1.5 blocks tall, meaning most mobs cannot jump over them without the Jump Boost status effect. They are transparent to light and have visual gaps in the model.
+A fence occupies the center space of blocks and automatically connects to any solid block that is placed next to it. Fences will connect to fences of the same type, and wood fences will connect to other wood fences, although wood fences will not connect to nether brick fences.
+Since their hitbox is smaller than a single block, it will allow a mob in the block to breathe even when submerged.
+Fences can be used to attach mobs with a lead.
+Nether brick fences do not exist in Pocket Edition.
+When used as a fuel in a furnace, a wood fence lasts 15 seconds (or 1.5 items).
+If a carpet is placed on top of a fence, a player can jump onto the carpet, while mobs will not (except rabbits).
+If you try to use an item with a right-click function while looking at a fence, the item will not perform its function but will instead appear to be attempting to mine the fence. The fence will never break from this “mining”.
+Getting hit by someone else (or shooting yourself with a knockback enchanted bow while sprinting forwards) while in midair can cause the knockback to propel you over the fence.
+Pressure plates on fences, used to create tables.
+Naturally occurring fences in a village.
+Mobs can jump onto this fence because of the red block. Remove the red block or replace the adjacent fence with a solid block.
+Underwater buildings with walls composed of stacked fences.
+All fence types.
+First screenshot of nether brick fences released by Jeb. The nether brick fences are visible on the side of the nether fortress bridges.
+Brightly lit version.
+Three nether brick fences in the pre-release of 1.9. Some nether bricks can also be seen in the background.
+Fences and nether brick fences connected by fence gates. Notice that they do not form a connection directly between the two types of fences (in the middle).
+Fence Gate.

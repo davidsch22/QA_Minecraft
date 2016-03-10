@@ -1,0 +1,18 @@
+Sponge is a block notable for being able to remove water in a 5x5x5 area around itself, turning into a wet sponge in the process.
+With the introduction of Ocean Monuments, Sponge blocks can now be harvested while exploring. Sponge can be mined with or without a tool.
+In the 0.0.19a, after they were added they were removed again. .
+As of 1.8 sponges can absorb water within a 5×5×5 area and then becoming a wet sponge.
+Heating a wet sponge in a furnace will return it to a dry sponge.
+Sponges absorb water source blocks around themselves. The .
+sponge must be directly touching a water source to absorb water, and will only absorb water connected to an adjacent water block touching the sponge.
+When a sponge absorbs water, it will convert to a wet sponge, which is darker, drips water, and is unable to soak up any more water. To get back the normal sponge, you need to smelt it in a Furnace. Elder Guardians also drop 1 Wet Sponge when defeated.
+Placing an empty bucket in the Fuel Slot of the furnace while smelting the wet sponge will fill the bucket with the "evaporated" water. (1 bucket for each wet sponge). .
+ A wet sponge will "drip" water if placed in world. .
+ Sponges first appeared in the 0.0.19A update, where they were changed slightly 50 minutes later, until being removed from survival in Beta 1.8. .
+Wet Sponges are available as a drop from the Elder Guardian or can be found in a room in the Ocean Monument structure.
+They share the same sound as Grass.
+Sponges don't absorb water in Minecraft: Pocket Edition.
+In Minecraft Xbox 360 Edition, the old texture for the sponge is still used.
+The old texture of Sponge, before update 1.8.
+If a Sponge sucks up the Water, it will turn into a Wet Sponge.
+Add a photo to this gallery.

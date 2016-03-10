@@ -1,0 +1,13 @@
+The Camera is a Pi Edition exclusive item that used to be a Pocket Edition exclusive item and entity, but was removed in version 0.9.0. The textures of this item can be found by going into the files of the game. The Camera had many bugs and could not be obtained in-game without inventory editing.
+The camera can only be obtained from inventory editing, either manually editing the inventory using the hex code 'c8 01' without quotes (before 0.3.0) or using the tool PocketInvEditor (since 0.3.0). When in the inventory it uses the icon of the 'blocks' music disc.
+To use a camera, equip it in your hand, then look in the direction you want the picture to be taken. Long-press the screen, and a camera will drop to the ground where you are standing. Step back, then press on the camera until it starts emitting smoke particles. The smoke means a picture has been taken, and the camera may disappear immediately afterwards. Cameras have infinite uses.
+The location of taken pictures depends on the device, either Android or iOS. Android: /sdcard/games/com.mojang/.
+ iOS: /var/mobile/Applications/Minecraft PE/Library/Caches/Screenshots/.
+At the Minecraft Pocket Edition panel at MineCon 2012, as well as one of Jbernhardsson's livestreams, it was stated that future plans include trying to have a proper use for cameras, perhaps an easier way to take screenshots and share them with others. In the BlockTalk Q&A, the camera was briefly mentioned as part of a broader "sharing" theme planned for MCPE in the future.
+When placed, the camera can be attacked once, although in doing so the player will receive knockback and the camera will play the standard player damage sound.
+It is possible to take a picture of the menu screen by going back to the menu before the camera disappears.
+A row of cameras, as seen in version 0.3.0.
+Example image taken by the camera entity.
+What the camera was supposed to look like.
+Texture file found in Pocket Edition.
+At the bottom left you can see the camera's original texture and what seems to be a handheld camera.

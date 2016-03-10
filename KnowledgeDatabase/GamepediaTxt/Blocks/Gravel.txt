@@ -1,0 +1,28 @@
+Gravel is an uncommon type of block that is affected by gravity.
+Gravel can be broken using any tool, but a shovel is the quickest. When broken, it has a 10% chance of dropping flint instead of the gravel itself. The flint received can be controlled with enchantments. Silk touch removes the chance of dropping flint. Fortune increases the chance to 14% at level I, 25% at level II, and 100% at level III.
+If gravel falls onto a non-full block, it will drop as an item, and not drop flint.
+Gravel is typically found underwater, deep underground in veins of up to 33 blocks, on beaches, in village pathways, and in the Nether. It is generated at a rate of approximately 3.29% that of stone between layers 1 and 111.
+In the Nether, gravel generates naturally between Y=63 and Y=65 in one-block-deep layers. It may generate without a block below it, in which case it will fall when updated.
+Gravel, if there is no block below it, will fall until it lands on the next available block. When gravel is being affected by gravity and falling, it exhibits a smooth falling animation.
+If gravel lands on a mob or the player and covers their head, it will suffocate them until they destroy the block, move out of the block or die. If falling gravel lands in the space occupied by a non-solid block, (such as torches, slabs, rails, or redstone), it will break and turn into a gravel item. If it falls onto a cobweb it will slowly fall until it has gone through it completely, or until it touches the ground, at which point it will drop and turn into a gravel item.
+Gravel can be placed on a non-solid block without falling.
+Fletcher villagers will buy 10 blocks of gravel and an emerald for 6–10 flint.
+ Dynamic block entity data  Tile (deprecated): The Block ID. Not limited to only sand, gravel, dragon eggs, or anvils. Although deprecated, this value is always present.
+ Dynamic block entity data  TileID: The Block ID, as above, but now supporting the 1-4095 range. Only prior to 1.8.
+ Dynamic block entity data  Block: The Block ID using the alphabetical ID format: minecraft:stone. Only in and after 1.8.
+ Dynamic block entity data  TileEntityData: Optional. The tags of the block entity for this block.
+ Dynamic block entity data  Data: The data value for the block.
+ Dynamic block entity data  Time: The number of ticks the entity has existed. If set to 0, the moment it ticks to 1, it will vanish if the block at its location has a different ID than the entity's TileID. If the block at its location has the same ID as its TileID when Time ticks from 0 to 1, the block will instead be deleted, and the entity will continue to fall, having overwritten it. (This was the result of Mojang's failed attempt to "fix" infinite sand/gravel/dragon egg/anvil/etc. generators by trying to have the falling sand entity delete the duplicated block the next tick) When Time goes above 600, or above 100 while the block is below Y=0, the entity is deleted.
+ Dynamic block entity data  DropItem: 1 or 0 (true/false) - true if the block should drop as an item when it breaks. A technical block (meaning any block that doesn't have an item form with the same ID as the block) won't drop even if this is set.
+ Dynamic block entity data  HurtEntities: 1 or 0 (true/false) - true if the block should hurt entities it falls on.
+ Dynamic block entity data  FallHurtMax: The maximum number of hitpoints of damage to inflict on entities that intersect this FallingSand. For vanilla FallingSand, always 40 ( × 20).
+ Dynamic block entity data  FallHurtAmount: Multiplied by the FallDistance to calculate the amount of damage to inflict. For vanilla FallingSand, always 2.
+TNT explosions will launch falling gravel.
+If gravel falls into a cobweb, it will be slowed down and then converted to an item.
+If a player is standing on a stack of sand or gravel, and the stack falls on a non-solid block, the player will fall fast enough to take damage or even die.
+Gravel will often fall into caves making a mock dead end. Thus, if a player encounters a gravel dead-end while mining, removing the gravel may reveal additional passageways.
+Because of the ability to reset the Nether in the console edition, gravel is renewable in it, if not considered cheating.
+Gravel beach from before Beta 1.8.
+Gravel in the Nether.
+Gravel will still not fall down if there is a non-solid block (except fire) underneath it.
+When a patch of gravel is dug out, it can reveal ores such as coal and iron.

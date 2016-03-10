@@ -1,0 +1,24 @@
+The cave spider is a neutral mob that can inflict poisoning.
+Cave spiders spawn from monster spawners in abandoned mine shafts.
+They drop 0-2 string. They also have a ⁄3 chance to drop a spider eye if killed by a player. They drop 5 experience when killed by a player or tamed wolf.
+Cave spiders inherit most of their behavior from regular spiders They are pacified (made neutral) by bright light (daylight or light levels of 9 or higher). Likewise, subjecting them to darkness will render them hostile.
+Cave spiders inherit most of their behavior from regular spiders They can climb walls when needed.
+Cave spiders inherit most of their behavior from regular spiders They attack by leaping at the player.
+Cave spiders inherit most of their behavior from regular spiders They are not affected by cobwebs or poison.
+However, cave spiders will not spawn with beneficial status effects and cannot spawn as spider jockeys, except in Pocket Edition.
+When bitten by a cave spider on difficulties higher than easy, the bitten entity is inflicted with Poison I for 7 seconds on normal difficulty and 15 seconds on hard.
+The cave spider's texture appears to be at a higher-resolution than its normal counterpart - this is because the textures occupy a smaller space.
+Despite being smaller, they have the same size shadow as a normal spider.
+If cave spiders are allowed to spawn naturally via hacks, they will only spawn if the light level is 7 or below (like most other hostile mobs).
+Picture of cave spider going through a 1×1×0.5 block.
+Cave spider in 1.8.
+Cave spider and its spawner.
+The health bar turns yellow-green when bitten by a cave spider.
+Size comparison between a cave spider and a regular spider in a dungeon.
+Four cave spider spawners generated in close proximity.
+Two cave spider spawners enclosed in an area, able to be safely killed.
+Another cave spider farm.
+A group of cave spiders trying to swim after the player in a mineshaft.
+A cave spider (on the left) and a spider side by side.
+Tutorials/Cave spider farming.
+Poecilotheria metallica.

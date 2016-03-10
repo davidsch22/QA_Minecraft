@@ -1,0 +1,18 @@
+The Enchantment Table is used to enchant certain items using Experience Points. Items that can be enchanted include: Swords, Pickaxes, Shovels, Axes, Bows, Books, and Armor. Enchantment tables alone typically have upgrades ranging from two to seven experience levels. If within a certain range, the book on the table will open and flip through a several pages. If you move while within this proximity, the book will turn to face you directly.
+You can increase the chance of getting a better enchantment by placing bookshelves around the table. Only Bookshelves that are two blocks away will add enchantments. When placed correctly, an animation of floating symbols moving into the book entity will occur. The text is written in the Standard Galactic Alphabet. The ideal position of Bookshelves is a square of 15 placed in a 5x5-block outline, with the Enchantment Table.
+Protection.
+Fire Protection.
+Blast Protection.
+Projectile Protection.
+Aqua Affinity(Helmet).
+Respiration (Helmet).
+Thorns.
+Feather Falling(Boots).
+Depth Strider(Boots).
+According to the first image that Notch posted of the Enchantment Table, they were originally crafted with Cobblestone instead of Obsidian.
+When crouching on the Enchantment Table, you can still walk off its edge, due to its height not being a full block.
+Enchantment Tables have the same blast resistance as obsidian.
+The bottom of the table is an obsidian slab.
+The highest level of enchantment possible is 30 (previously 50).
+In 1.8 Enchantment Tables got a big update: now you can see what enchantment(s) you get, but you'll have to pay one, two, or three lapis lazuli to get the enchantment. This change has not been carried over to the PS3 edition yet.
+You will need 5 diamonds to craft this table without the help of villagers or looting.

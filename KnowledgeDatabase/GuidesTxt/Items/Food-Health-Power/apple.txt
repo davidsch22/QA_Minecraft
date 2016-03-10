@@ -1,0 +1,9 @@
+Dec value: 260.
+Hex value: 104.
+Hunger restoration: 2 hunger bar slots.
+Hunger saturation: 2.4.
+Maximum stack 64.
+Red apples are obtained by destroy oak leaves, which have a small chance of dropping apples. Decaying oak leaves can also drop apples, the chance of an apple dropping is the same for both decaying and destroyed leaves. Apples can also be found in chests in villages and strongholds.
+Apples can be crafted into golden apples by combining it with 8 gold nuggets. This is highly recommended, as getting 8 gold nuggets is very easy and golden apples offer extra restoration.
+Eating an apple will restore 2 hunger bar slots and 2.4 hunger saturation, while golden apples will restore 2 hunger bar slots, 9.6 hunger saturation and increase health restoration for 4 seconds.
+Apples can be farmed, but it’s often a tedious process. Apples only drop from decaying or destroyed leaves of oak trees. So you have to either find or grow oak trees and destroy their leaves or wood. This process can be done on a larger scale by simply growing oak trees, possibly with bone meal, on a large scale and chopping down all the wood blocks. You could then either wait for all the leaves to decay or help a hand by destroying the leaves.

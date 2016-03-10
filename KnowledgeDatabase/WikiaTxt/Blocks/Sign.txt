@@ -1,0 +1,18 @@
+A Sign is a thin block that can be written on, just as signs are used. This text can be written by the player once the block is placed. When a sign is destroyed, the original text is destroyed and isn't saved in any way. You can write in different languages.
+Only four lines of text can be put on a sign, and there is a character limit for what can be typed. If you want to change what it says from the sign, all you do is remove the sign, by punching it, and right-click where you want to place it while holding the sign. Placing down a sign without writing any text on it will simply yield a blank sign.
+Signs were originally added in the Survival Test but were soon removed. They were re-introduced in Indev and became their normal size with the Secret Friday Update. They were added in 0.6.0 in Pocket Edition and were updated to support bold, italic, and colored fonts in 0.11.0.
+Signs are used in multiplayer for several reasons. They are normally used for marking property, leaving directions, warning for danger, and stating rules.
+Signs originally displayed preset text.
+Signs can be placed on the side of slabs and stairs, unlike torches. Because of their wooden texture, signs can be used to decorate, such as an armrest on a chair.
+If you were to write a "curse word" onto a sign, it would be censored out with a "!?". However, some curse words are not censored if you replace one or two of the letters with *. On the Xbox 360 Edition, the word Censored will appear.
+  On the Pocket Edition, it won't censor anything at all.
+In Pocket Edition, signs were added in 0.5.1, whereas in Xbox 360 Edition, they were added straight away.
+On Minecraft servers, there is a plugin that allows you to create a shop. (PC Only).
+There is a plugin that allows players to be teleported if clicked on a sign. (PC Only).
+The plugin "Lockette" is used to lock certain things from being opened. It is a useful plugin, as it will prevent theft. .
+Text written in Arabic or Hebrew will apear backwards.
+Signs can be placed at multiple angles.
+On Minecraft servers, some servers will have the plugin where you can make a shop by using a sign like this one.
+Servers also use a plugin, called 'Lockette', to prevent people from stealing from chests like this one.
+Signs, along with Ladders, can create "air pockets".
+Add a photo to this gallery.

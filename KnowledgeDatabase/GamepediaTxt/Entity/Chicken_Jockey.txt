@@ -1,0 +1,39 @@
+A Chicken Jockey is the fairly rare appearance of a baby zombie or baby zombie pigman riding a chicken.
+Each baby zombie or baby zombie pigman that spawns has a 5% chance to spawn riding a chicken (including baby zombie villagers). There is an additional 5% chance of it mounting any existing chicken within a 10×6×10 box centered on the baby zombie's spawn location. In a chicken-free environment, this gives each spawned zombie a 0.25% chance of becoming a chicken jockey; if chickens are present, the chance increases to 0.4875%.
+Chicken jockeys may spawn with items equipped. Baby zombie pigmen versions of the chicken jockey will always have their golden sword equipped. Provoking the zombie pigman chicken jockey will cause it to attack, like a normal zombie pigman.
+Chickens drop 0-2 feathers, 1 raw chicken (1 cooked chicken if killed while on fire) and 1-3 experience if killed by a player or tamed wolf.
+Baby zombies drop 0-2 rotten flesh, and rarely carrots, potatoes and iron ingots.
+Baby zombies also have a 8.5% chance each of dropping their iron shovel, iron sword or any equipped armor that they spawned with. The chance of each can be increased by 1% per level of Looting, up to 11.5% chance. The equipment will usually be badly damaged, and may be enchanted.
+If killed by a charged creeper, it drops a zombie head.
+They drop 12 experience when killed by a player or tamed wolf, +1-3 extra experience if the zombie has equipment.
+Baby zombie pigmen drop 0-1 rotten flesh, 0-1 gold nuggets and rarely a gold ingot.
+Baby zombie pigmen also have a 8.5% chance each of dropping their golden sword. The chance of each can be increased by 1% per level of Looting, up to 11.5% chance. It will usually be badly damaged, and may be enchanted.
+Like baby zombies, they drop 12 experience when killed by a player or tamed wolf.
+If a baby zombie/zombie pigman wearing a pumpkin or jack o'lantern is killed using a tool enchanted with Looting, there will be a chance equivalent to the level of Looting used to drop the pumpkin or jack o'lantern, up to a maximum of a 3% chance of a drop.
+Chicken jockeys generally run around, behaving like the zombie, instead of using the chicken AI. Pocket Edition is an exception.
+The chicken does not lay eggs, and will despawn in the same manner as hostile mobs.
+Chicken jockeys fall slowly and do not take fall damage, like normal chickens.
+The chicken moves at the speed of the baby zombie, which is much faster than a normal chicken.
+The chicken will run through 1 block high gaps. If the above block is solid, the baby zombie will suffocate.
+Chicken jockeys can pick up/equip items.
+Chicken jockeys that aren't already targeting a player will follow a player holding seeds like a normal chicken, but cannot be fed.
+Chicken jockeys have difficulty hurting a player in water.
+The baby zombie's hitbox is larger than the chicken's. Attacking the chicken may harm the zombie instead, unless the player carefully attacks its feet.
+ If the chicken moves too close to a wall two blocks high, the zombie will take suffocation damage unless the upper block is transparent.
+Since pigman chicken jockeys spawn in the Nether, chickens can as a result spawn in that dimension.
+When a splash potion of harming is tossed at a chicken Jockey, the chicken dies, but the baby zombie gains some health. If a splash potion of healing is thrown at a chicken jockey, the chicken is healed, but the baby zombie takes damage.
+Chicken jockeys, like spider jockeys, cannot pass through portals. Zombie pigman chicken jockeys can spawn from portals in the Overworld.
+ A normal chicken jockey may spawn in the Nether if a zombie pigman calls a normal zombie as reinforcement.
+If the zombie happens to be a zombie villager, curing it will separate the cured villager from the chicken.
+Name tags will prevent the chickens from despawning, and they can be bred to produce normal egg-laying, non-despawning chickens.
+Chicken jockeys can spawn from zombie spawners.
+The wither will attempt to attack the chicken being ridden by the zombie, however the zombie will also take damage even though it is an undead mob.
+Adult zombie and zombie pigmen can also control a chicken while riding on it, though they do not naturally spawn on chickens.
+Chickens can still lay eggs while being ridden before 14w02a.
+Chicken Jockey named Dinnerbone.
+Baby villager chicken jockey.
+Zombie Pigman Chicken Jockey.
+The chicken hitbox below the zombie.
+Hitting from below leaves the zombie unharmed.
+The four variations of Chicken Jockeys using Grumm or Dinnerbone name tags.
+The zombie on the Chicken Jockey has picked up an egg that the chicken laid. (Note: Chicken Jockeys no longer lay eggs).

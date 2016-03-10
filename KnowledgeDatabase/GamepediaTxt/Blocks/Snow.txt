@@ -1,0 +1,8 @@
+Snow is a full-sized block version of the snow layer.
+When broken with a shovel, snow drops snowballs. If mined with a Silk Touch enchanted shovel, it drops a snow block.
+Unlike snow layers, snow blocks will not melt from higher levels of light, nor get destroyed by water.
+Snow generates naturally in ice plains spikes biomes.
+Snow is crafted from 4 snowballs, allowing the player to create it through their inventory crafting window.
+Snow is also used to make snow golems by putting 2 snow blocks on top of another and a pumpkin on the top as the head. Note that the pumpkin has to be placed last for this to work. This can be done sideways and upside-down, as well.
+Snow may still fall on top of snow blocks, making them look taller than they actually are.
+When a snow block is on grass, the grass block changes to a different "snowy" texture as if a snow layer is on it. However, since snow is a solid block, the grass will change to dirt shortly after.

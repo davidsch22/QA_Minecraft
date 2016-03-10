@@ -1,0 +1,33 @@
+A Cactus (plural Cacti or Cactus) is a plant that occurs naturally in dry areas.
+Cacti can be mined by hand without taking damage. The tool used to mine the cactus does not affect the speed in which it is mined.
+When the spot a cactus is placed in becomes unsuitable, such as when a solid block is placed next to them or their own sand block underneath is harvested or falls, the cactus block will uproot and will drop as an item.
+A cactus will also be removed and drop itself as an item if a piston tries to push it (trying to pull it does nothing) or moves a block into its space.
+Cacti naturally occur in desert and mesa biomes. They mainly generate as one, two, or three blocks tall.
+Cacti grow only on sand at a rate of one cactus block every 2–4 minutes, and to a maximum height of three blocks; though, higher stacks can be placed by the player. Cacti can only be placed either on sand, red sand, or on other cactus blocks, with no horizontally adjacent solid blocks. Bone meal does not work on cacti to speed its growth. Cacti do not need light to grow and are non-flammable.
+When any entity, including players and mobs, touches a cactus, 1 () damage is taken every 0.5 second. Damage from touching a cactus is reduced by armor, but touching it also damages the armor.
+Cacti will also destroy any items that come into contact with them, including cacti blocks harvested above them.
+When a minecart hits a cactus block, the minecart is dropped as an item - this item is often destroyed as a result, although a hopper will pick it up faster.
+A cactus can also be placed in a flower pot, where it is rendered harmless. Cacti are ⁄8 of a block, similar to chests.
+The bottom of a cactus block does not damage the player.
+Cacti can be placed underwater, provided they are placed on sand, and will grow if they break the surface.
+Cacti can be placed next to saplings, but the cactus will break when the tree grows.
+Endermen can move and place cacti. Thus, they can increase the cactus population in deserts by moving cactus blocks as they grow.
+Signs can be placed on the top of cacti.
+It is possible for cacti to generate on blocks other than sand due to generated structures; refer to the gallery for examples.
+Cacti can be used in the desert to see if you are in a newly generated area. If most of the cacti around you is only one block high, then it is most likely new land.
+Death to a cactus will display "[playername] was pricked to death" in the chat messages.
+It is possible to sneak off cacti.
+It is possible to place blocks on top of a cactus.
+Naturally occurring cacti.
+A cactus surviving in lava.
+Cactus placed by an enderman. This is outdated, as they can now only place on sand.
+Cactus found in a mesa biome.
+A small sized automatic cactus farm.
+A natural nine block tall cactus, extremely rare.
+The bottom of a cactus seen with the "floating cactus" bug.
+The bottom of a cactus seen on a falling item.
+The bottom of a cactus seen on a held item.
+Natural cactus generated against a village structure.
+Naturally floating "ghost cactus.".
+A cactus generated on wooden planks in a village.
+Yet another village cactus.

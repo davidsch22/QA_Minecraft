@@ -1,0 +1,4 @@
+Cookies are a food that are easily obtainable, but do not restore a lot of hunger or saturation.
+Villager farmers will trade 6 cookies for 1 emerald as part of their tier 4 trades.
+Cookies can be eaten to restore 2 () and 0.5 saturation.
+Trading for cookies.

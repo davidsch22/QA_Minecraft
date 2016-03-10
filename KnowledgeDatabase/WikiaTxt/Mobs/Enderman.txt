@@ -1,0 +1,38 @@
+Endermen are neutral 3-block tall mobs that live in The End and spawn in huge numbers. They are extraterrestrial creatures that occasionally teleport to the Overworld, but are rare in comparison to other mobs. Their two iconic abilities are the ability to pick up blocks and place them elsewhere, and their ability to teleport. When teleporting, an Enderman will leave a faint trail of purple particles leading to where it teleported to.
+Endermen are also a parody of Slenderman.Who is also tall,teleport,hates being looked at and is missing facial features.Endermen will wander and teleport around randomly, until a player attacks or "stares" at them. If you are playing single player, then "staring" at an Enderman is defined as aiming the crosshair over the Enderman's body from the upper legs and above. If you are playing on a server, then an Enderman will be unalerted if you look at its head, but if you look at its body or upper legs, it will become hostile.
+Since 1.4.2, the Enderman will make a sound upon being provoked. The sound sounds similar to a loud running engine and is a warning to brace for sudden attacks. Even if the sounds have stopped, it does not mean that the Enderman has disappeared. It may have transported far away from the player or gotten stuck somewhere such as a nearby cave. If you leave the world and then come back while being attacked by an Enderman, it may have calmed down or teleported away. All Endermen will calm down at dawn, and while they do not burn in sunlight, will teleport back to the end.
+Endermen will take damage from both water (including rain) and fire or lava, and will teleport away when they take most types of damage, but interestingly, they do not teleport away when coming into contact with fire or lava. If is raining, an Enderman will teleport a few times, before giving up and returning to the end. Endermen cannot get hit by any type of projectile, as they will always teleport away immediately before getting hit.
+Endermen will occasionally pick up blocks at random times (Even when aggressive), then later place them somewhere else. If something unexpected happens while an Enderman is holding a block, such as being attacked by a player or if it starts raining, then the block is lost forever. An Enderman can pick up a block from any space directly adjacent to it (Including above its head or below its feet), and can pick up some pretty unexpected blocks, such as cacti.  .
+One way to protect yourself from Endermen is to build "Enderman Proof Shelters". Two simple Enderman Proof Shelters are 1, a 2-block high, at least 2-block wide area (2 blocks wide because an Enderman could reach in with its long arms), and 2, which is just a pool of water, but also needs to be at least 2 blocks wide. Some Enderman Proof Shelters can be found naturally, but there are other ways to protect yourself from Endermen too.
+The best way to protect yourself from Endermen is to prevent attacks before they happen. One way to do that is to wear a pumpkin in your helmet armor slot, which will prevent Endermen from getting hostile even if you look directly at them, but it also greatly hinders your view. Pumpkins will not stop Endermen from attacking if they have already been provoked.
+If an Enderman is already hostile and attacking you, then cornering yourself might actually be a good idea, as the Enderman will not be able to teleport behind you.
+After you have yourself cornered, remember that the best weapon against an Enderman is not a diamond sword, but a bucket of water.
+In snapshot 14w11a their speed was improved.
+The Enderman was introduced in Beta 1.8, as part of the Adventure Update.
+Endermen would burn in sunlight until the 1.9 pre-release 4.
+At first, when Notch was still designing the Endermen, he thought that they were not "creepy" enough, coming up with the idea that having a situation which the player would want to avoid could make the Endermen significantly more scary. This gave Notch the idea to implement the staring feature where aiming the crosshairs on the Enderman's face would cause a suspense in which breaking eye contact would trigger an attack, as well as the Enderman having the ability to teleport, so that when the player stares at the Enderman they will have to face the consequences.Also, when looking at an Enderman, its mouth will open and its eyes turn to a pure bright violet color, as well as the mouth looking like it goes through the whole head makes it even creepier.
+In the Beta 1.8 demo at PAX, Endermen dropped Diamonds as a placeholder.
+Endermen originally had green eyes and a smoke particle effect. The release of Beta 1.8 changed the eyes to purple and the smoke particles have been replaced with purple particles similar to the particles emitted from Nether Portals.
+In Beta 1.8 Pre-releases, Endermen were able to pick up any block, including bedrock.
+Before the Sound Update, Endermen used zombie sounds as a place holder. On November 13, 2011, Endermen did receive their own audio scheme, most notably a long moan overlaid with static.
+The End Dimension was not actually added until Beta 1.9.pre4frequently.
+Endermen were modified in Beta 1.9pre3 to have 40 hp (instead of 20), requiring 6 hits from a Diamond Sword to defeat. That combined with their teleportation aspect, give more incentive to be careful around Endermen.
+Before Beta 1.9 pre-release, Endermen could be hit by projectiles.
+Endermen were added to Pocket Edition in 0.9.0.
+When Endermen were first added to pocket edition, they were actually attracted to water.
+Enderman/Gallery.
+ If an Enderman gets stuck in a cobweb it cannot teleport away.
+ If you look at an Enderman through a transparent block, it will not become hostile.
+ If you wear a pumpkin close to an Enderman, it may take the pumpkin.
+ The exact size of an Enderman is 0.6 x 0.6 x 2.9 blocks.
+ A duplication glitch can cause an Enderman to pick up a block of Mycelium, but leave a Dirt block behind.
+ The name "Enderman" is a reference to the Urban Myth known as "the Slender Man".
+ If an Enderman dies from a cause other than water and its body falls in water, then it will still teleport immediately before death.
+ If Endermen pick up non-full blocks such as Flowers or Mushrooms, then they will appear as if they are floating.
+ Similarly to enchanted items, hostile Endermen will move in single player even when the game is paused.
+ Endermen were the first 3-block tall mob ever added to Minecraft.
+ Endermen take less damage from fire and lava than they do from water.
+ Endermen were the eleventh mob added to the game, and were added at the same time as Jukeboxes and Note Blocks.
+ It is said that the sounds that an Enderman makes are actually recordings of people saying "Hi", "Hey", and "What's up?", that have been tweaked in different ways.
+ Some fans say that Endermen "Dimension Jump" when teleporting: They switch between dimensions, walk somewhere, and then switch back.
+ If an Enderman has the Invisibility effect, its eyes will still be visible.

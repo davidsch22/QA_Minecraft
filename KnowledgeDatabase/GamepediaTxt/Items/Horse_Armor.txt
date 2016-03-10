@@ -1,0 +1,5 @@
+Horse armor is a special type of armor that can be given to a horse to wear.
+Dungeons, nether fortresses, village blacksmith, jungle temple, desert temple, and stronghold chests may contain any kind of horse armor in stacks of 1. Abandoned mineshafts only contain iron horse armor in minecarts with chests in stacks of 1.
+There is a gradual increase in the defense given from a horse wearing the different types of armor.
+A horse equipped with iron horse armor that is bound to a fence post with a Lead.
+The GUI for horses implemented in 13w21a which allows the removal and switching of armor.

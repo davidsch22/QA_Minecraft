@@ -1,0 +1,2 @@
+The Minecart with Hopper is a Minecart that picks items up off Minecart Tracks. If there is a hopper (it can be a chest, dropper, dispenser, etc.) above a chest and the Minecart With Hopper goes over it the items will get pulled from the hopper and go into the chest. This is useful for mining. It is also strongly recommended that you have a Hopper input system to put your things in (i.e. Minecart track in your basement connected to a Chest or Furnace for Iron/Gold). You can also put a Hopper connecting to a Chest or a Dispenser.
+Like other Minecarts, they are entities.

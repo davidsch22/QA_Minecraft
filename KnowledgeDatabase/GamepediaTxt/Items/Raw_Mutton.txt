@@ -1,0 +1,5 @@
+Raw Mutton is a food item that can be eaten by the player.
+A sheep will drop 1–2 raw mutton upon death, unless it is on fire. More drops can be obtained using the looting enchantment.
+To eat raw mutton, press and hold use while it is selected in the hotbar. Eating one restores 2 () hunger and 1.2 hunger saturation.
+Raw mutton can also be used to heal or breed tamed wolves.
+First image of the item by Ryan Holtz.

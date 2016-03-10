@@ -1,0 +1,10 @@
+Leaves are a type of block that are abundant in normally generated maps, appearing on every tree, and can be collected if the Player uses Shears on them. Leaves are available for use in both Creative and Survival mode. All tree types have different leaves. Leaves can be broken much easier with a of sword, but doing this will wear it down much faster than normal. .
+Leaf blocks are very weak, can only be collected with shears, and can be easily destroyed by hitting them with any tool. Leaves are extremely vulnerable to explosions and are highly flammable. As of Beta 1.2, leaves in snowy areas have a different texture. It is possible, but extremely unlikely for a leaf block to stay on Fire forever after catching on fire.
+Destroying leaves yield Saplings 6.25% (1/16) of the time which can be planted by the player in order to grow new trees. Destroying Oak Leaves can also yield Apples 0.5% (1/200) of the time which can be eaten by the player to gain hunger points.
+As of Beta 1.7 leaves can be collected using Shears. Using Shears collects the leaves with a single hit (unless you are underwater, which will make them almost instant to harvest using shears). However, leaves will despawn after a while if not by a wood log.
+Before Beta 1.7, leaves could not be harvested without mods, and since Beta 1.8, player or Enderman-placed leaf blocks will persist over time without decaying.
+Before 1.6, the above made it possible to place Torches and Ladders on leaves on "Fast" graphics and switch back to "Fancy" graphics without making them come off.
+Similarly, in "Fast" graphics, getting stuck inside leaves (usually by using Bonemeal) will suffocate the player, while on "Fancy" graphics leaves will not.
+In creative mode, if looking in your inventory, all four leaf types are available.
+As of Minecraft Pocket Edition, a player can obtain leaves with no shears in Creative or Survival.
+In Pocket Edition, versions 0.3.0, leaf blocks, harvested by shears, were designed to use the Crafting table as a placeholder apart from the top are the sides. This was fixed in 0.4.0.

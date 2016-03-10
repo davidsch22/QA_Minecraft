@@ -1,0 +1,9 @@
+Moss Stone is a block that resembles cobblestone with moss growing in its cracks.
+Moss stone can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Moss stone can be found naturally in dungeons, jungle temples and in the form of scattered "boulders" in Mega Taiga biome.
+Apart from use as a durable building block, moss stone can be used to craft mossy cobblestone walls.
+A picture of villages was released by Notch before Beta 1.8 was released. In the early screenshots, villages were partly made of moss stone.
+The floor of this shelter has been replaced with moss stone from a dungeon, for aesthetic purposes.
+Moss stone found inside of a jungle temple.
+Naturally occurring moss stone boulders in a Mega Taiga biome.
+An official screenshot of a village released by Notch.

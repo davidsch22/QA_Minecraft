@@ -1,0 +1,28 @@
+Ghasts are huge, floating Nether mobs that shoot explosive fireballs at the player.
+To spawn naturally, ghasts require a solid block below them and 5×4×5 free space in order to spawn, and only spawn in the Nether, in any light level.
+Ghasts drop 0-2 gunpowder and sometimes a ghast tear. They also drop 5 experience when killed by a player or tamed wolf.
+Ghasts normally float around the Nether with their eyes and mouth closed and periodically make high-pitched, cat- or infant-like sounds. They open their red eyes and mouth when attacking. They make a chirp-like noise when shooting and scream pitifully when taking damage. The sounds that ghasts make have a minimum intensity regardless of their distance, meaning that they can sound closer than they actually are. They have a size of 4×4×4 blocks, as well as tentacles about the size of a player, although longer and skinnier.
+Ghasts have an extreme attack range, explosive attack power, and mobility. Unlike most other aggressive mobs, the ghast does not have a pursuit mode - it does not attempt to draw closer to the player when at long range (and likewise is not particularly likely to float away). Compared to other mobs, the ghast has a very long search range and can target a player up to 100 blocks away. When the player comes within about sixteen blocks, the ghast will open fire and attempt to gain altitude.
+Ghasts will not fire at the player without a line-of-sight, which can be blocked by solid transparent blocks.
+The ghast's fireball attack has a straight trajectory unaffected by gravity and a theoretically infinite range. Fireballs do not track the player once fired, are slow, and can be deflected if the player hits them with a projectile or melee attack. At close range, it is one of the most powerful mob attacks in Minecraft, fourth only to the explosion of a creeper, the melee attack of an iron golem, and the explosion of a wither skull. A direct hit will deal 6 () damage from the impact, and up to 9 (), 17 ( × 8.5), or 25 ( × 12.5) damage from the explosion, depending on difficulty. When two ghast fireballs collide, one is deflected to a random direction while the other explodes upon impact. Blocks are also set on fire by the explosion. If a ghast is killed, any fireball launched by that ghast will disappear.
+The minimum blast resistance required to absorb all blast force of the ghast's fireballs is 20.17 (about the equivalent of a cobweb).
+There is a way to summon ghast fireballs via /summon. It is used with /summon Fireball, but in order to actually see it or move it via hitting it you need to do /summon Fireball ~ ~3 ~ {direction:[0.0,0.0,0.0]}. There is also a way to amplify the explosion by doing /summon Fireball ~ ~3 ~ {ExplosionPower:*,direction:[0.0,0.0,0.0]}. * = Any number, 1 is the default ghast explosion. At high levels it can destroy even blocks that can't be destroyed via explosions (liquids, obsidian, even bedrock), however the higher the power the more memory is used, and the longer it takes to load the explosion, so caution is advised at powers above 100.
+In Creative, you can go inside of a ghast by falling through the top of it or flying up underneath it. If you stand on top of the head you will see inside of it.
+Ghasts can cause other mobs to attack it, but the ghast will never target other mobs; it will only target the player. This is because they have no pursuit mode. Unlike other mobs, ghasts will fly away when hit in Creative.
+If the player is able to fly inside an aggressive ghast, the mob may die of shooting fireballs at itself. They are also careless about shooting at short range where they will be hurt by the blast.
+Ghasts are the largest naturally occurring mob by volume - they are eight times as big as the largest natural variation of slime, but the Ender dragon is longer.
+If a ghast is trapped in a 1-thick cube, it will shoot fireballs through the cube. This is because all mobs that shoot, spawn the projectile one block in front of it to prevent the projectile from hitting the mob.
+On rare occasions, a ghast will spawn in such a way as to see through blocks (usually trapped on all sides in a tight area). When this happens and the ghast has “line of sight" through those blocks, it will launch a fireball in the player's direction. This can be extremely confusing, causing the player to brace for impact, even if no ghast can be seen. If the player stays in one place, the fireballs can eventually bore a hole through Netherrack to blow up the player.
+Some rooms in Nether fortresses are big enough for a ghast to spawn in. However, this ghast will likely be trapped, as there may not be an exit large enough for it to fit through.
+If you tweak a mob spawner to spawn ghasts, the model inside the spawner is larger than the frame.
+Ghasts can be killed in one shot by any bow with at least Power I, if you charge the bow fully.
+C418 revealed in an AMA on Reddit that ghast sounds are taken from his pet cat, which he makes when disturbed while sleeping.
+In the game files, there is a sound file called "affectionate_scream", that is currently unused.
+Two ghasts are featured in the LEGO set "Minecraft Micro World - The Nether", along with a Zombie Pigman.
+Ghasts, along with guardians, are the only hostile mobs that flee when attacked.
+Unlike a blaze fireball, a ghast fireball that hits the player directly will not set the player on fire.
+A rebound Ghast Fireball will instantly kill a Ghast on impact, no matter how much health the Ghast has.
+A ghast preparing to shoot a fireball.
+A ghast up close, shooting a fireball at the player.
+A ghast opens its red eyes when it spits out fireballs.
+Ghasts. (Note old snowball texture).

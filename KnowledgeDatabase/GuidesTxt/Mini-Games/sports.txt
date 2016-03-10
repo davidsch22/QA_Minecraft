@@ -1,0 +1,19 @@
+ Each of these games are played pretty much the same way in minecraft. The games are very easy to build and set up and the rules are very simple.
+The game is played with 2 teams, though they shouldn’t be too large, depending on the size of the field of course. Both teams start on their own side of the field. The game can either be started by giving one team the ball (a block), perhaps by tossing a coin, or the ball could be dropped in the middle of the field by a dispenser.
+Once the ball has been brought in the field the team with the ball will have to try to throw it into the hole on the opponent’s side by throwing the ball to each other. The other team will have to try to block the throw and score a point in the same way on the other side.
+This is the basic concept, but various different rules could be added to make it easier or more difficult to win the game.
+In this version the player who’s holding the ball is not allowed to move (as you can’t dribble). The hole is also placed higher, as part of a wall. This requires a more tactical way of playing and fast throws to your team mates.
+You can add more rules from basketball or handball, though this could make it too difficult to play.
+Some rules are.
+– You can only be a certain amount of seconds next to the opponent’s hole.
+– When your team has ball possession, the ball has to move to the opponent’s side of the field within 10 seconds.
+– No pushing, touching, etc.
+In this version you use a mob instead of a block. The mob will be knocked back with swords (with the knock back enchantment) and can lead to very funny games. Note that the mob will have to be made invulnerable or it’ll die very quickly.
+Alternatively, instead of using a mob, get a player (prisoner?) and swing away.
+This version generally requires a bigger field, as you can move incredibily fast on ice (by jumping while you run). This can lead to amazing games, especially if you give players a sword with a knock back enchantment to “tackle” opponents.
+In this version players can only throw the ball backwards. The hole will be higher, as part of the wall. This is a fun version that requires some good tactics.
+In this version players can only throw backwards, but everybody also receives a sword with a knock back enchantment, to simulate tackling. The hole will be replaced with a line, which the players have to cross. You can think of tackling as a way to push back the player, away from your line, but a tackle does not mean the player has to drop the ball. This happens when the player dies (and respawns in a seperate part of the field (in a bed?)).
+This version is my personal favourite and is amazing on large fields with medium sized teams. If you really want to go all out, make each team member wear the same clothes as a skin and do the haka before you start.
+If you go all out, please record it and send it to us. We’ll post it in this article (if it’s good).
+This version is played in a pool, though generally follows the same rules as the normal version. If you want to mimic the real life version, allow players to hit each other underwater.
+Support link – Schematic Direct link – SchematicSupport link – World save Direct link – World save.

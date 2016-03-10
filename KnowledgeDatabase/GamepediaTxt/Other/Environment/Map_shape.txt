@@ -1,0 +1,7 @@
+The map shape is the general dimensions the level generator uses to create maps. Added in 0.31, it will alter the length, width, and height of the map. There are three kinds of shapes.
+The default map shape. It creates a square (equal length, width, height) map.
+Special Note: none.
+The second map shape. It creates a long (2x the length, 1/2 the width) map.
+Special Note: This shape works well for the hell theme map and the floating type map as it gives you additional surface space to work with.
+The third map shape. It creates a deep (4x height, 1/2 as width and length) map.
+Special Note: This shape works well for the Inland and floating Map types as it gives much more dirt/stone to work with on Inland and it gives you multiple layers of floating islands for Floating.

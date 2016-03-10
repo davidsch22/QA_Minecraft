@@ -1,0 +1,12 @@
+Iron Golems are tough Utility Mobs built with four Blocks of Iron and one Pumpkin or Jack o' Lantern that are immune to drowning and fall damage. Iron Golems will naturally spawn in Villages with at least 21 Doors and 15 Villagers. Iron Golems are better known for being created by players, and can be created by building a structure of 4 Iron Blocks, and then placing a Pumpkin on top.
+Iron Golems will become aggressive against anything that attacks them or a Villager, except for the player who built them, and will only become unaggressive if they defeat the player or mob that attacked them, or if all players leave the game. Iron Golems will always stay near Villagers, and will attack any hostile mob that will not blow up on sight, but disadvantegely, will sometimes attack neutral or passive mobs as well.
+Note: You must build this structure vertically to create an Iron Golem.
+Note: Iron Golems cannot be created in single player mode version 1.8.4.
+When created, Iron Golems will always face south.
+Iron Golems holding Roses will turn Villager children into adult Villagers.
+Iron Golems sink in water.
+Iron Golems may be based on the robots from Hayao Miyazaki's movie Castle in the Sky.
+Iron Golems would attack Creepers in 1.8 only.
+Iron Golems are a reference to The Iron Giant.
+Enderman can create Iron Golems, but this is extremely rare.
+Iron Golem/Gallery.

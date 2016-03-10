@@ -1,0 +1,7 @@
+ Farmland is a block that is created when you use a Hoe on a dirt block by right clicking. You will want to have the farmland block within at least a 4x4 radius from a Water supply so that when you plant seeds on it they will grow. When the farmland block is next to water, it turns to a dark brown indicating it is moist and plants will grow. When Water is not near, the block will stay a light brown color. When you break a farmland block, you get a Dirt block. You can put seeds on them.
+Jumping on farmland would result in it turning back to dirt. Also, before 1.1, walking on farmland would result in it being converted to dirt.
+Before 1.2.5, it was possible to obtain farmland through silk touch enchantment. This was removed in 1.2.5.
+When planting melon or pumpkin seeds, they don't need farmland to harvest blocks.
+You can avoid converting your farmland to dirt by sneaking. This can also be diverted by changing the Mobgriefing setting to false.
+Farmland that is near water can go one block away from the source whilst still being fertile for planting.
+Farmland can be made while under another block, though it will turn back into dirt as soon as you do.

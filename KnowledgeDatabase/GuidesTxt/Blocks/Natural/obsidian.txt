@@ -1,0 +1,12 @@
+Dec value: 49.
+Hex value: 31.
+Minimum tool requirement to break: Diamond pickaxe.
+Blast resistance: 6000.
+Maximum stack 64.
+Transparency: No.
+Obsidian is the strongest, obtainable block in game. It is one of the only blocks resistant to explosions and is used to create a nether portal.
+Obisidian can often be found deep underground, as it’s created when water hits a lava source block. If water hits a lava flow, that lava will turn into cobblestone. Obisidian occurs naturally in the End, in which it’s created as huge pillars with Ender crystals on top of it. Obsidian can also be found in chests in the blacksmiths of villages.
+Obsidian will spawn in the Nether, in the form of an active portal. This could potentially lead to infinite amounts of obsidian, though it requires at least 2 players for this to work efficiently. Note that obsidian will only form when water flows on top of a lava source block. If water flows on top of flowing lava, or if lava flows on water, cobblestone and stone will be generated instead.
+The only way to obtain obsidian is by mining it with a diamond pickaxe, which takes almost 10 seconds. It is possible to destroy obisidan with anything else, but this will take over 4 minutes and will not cause it to drop as a resource block, so it’s just a waste of time. Mining obsidian underground can be dangerous. Lava can often be found under the obsidian, which could result in a loss of obsidian or in the dearth of the player. Due to the long time it takes to mine obsidian, getting attacked by other monsters, especially creepers, can result in a quick death.
+Nether portals are created by placing obsidian in a 5×4 rectangle, the corners can be missing. So you need 10-14 pieces of obsidian. Setting the top of the lowest blocks on fire will activate the portal, allowing a player to travel to the Nether. While the obsidian part of the Nether portal are explosion proof, the active part can be de-actived (or re-actived) by the explosions caused by ghast’s fireballs.
+Obsidian blocks are currently only used to create enchantment tables, which have the same explosive resistance as obsidian, but can be mined with even a wooden pickaxe. Obsidian walls and rooms are great ways to prevent damage to their surroundings if anything explodes. However, removing large amounts of obsidian to redecorate can take a long time. Both these properties are often used and abused in griefing and anti-griefing methods.

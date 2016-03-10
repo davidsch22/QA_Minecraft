@@ -1,0 +1,26 @@
+Squids are 8-armed mobs that spawn in water.
+Squids spawn in water between layers 46 and sea level, and can be found in any biome.
+In Pocket Edition, squid spawn only in ocean biomes. They also have a chance to spawn as babies.
+When killed, each squid will drop 1-3 ink sacs. They drop 1-3 experience when killed by a player or tamed wolf.
+Squids are always passive towards the player, akin to the other passive mobs found on land.
+When moving about, the squid's tentacles open and close, giving them an appearance of pushing themselves forward. Squids hover in place when first spawned into the world and wander around aimlessly, swimming up and down through each layer. They are not attracted to light, and do not deliberately interact with the player. However, if attacked, squid will attempt to swim away from the player.
+Squids suffocate if they are beached on land for too long. While on land, they do not move, and stay stationary until they suffocate. They can take fall damage and burn like any land mob, but, due to being aquatic they cannot drown.
+Squids cannot swim in lava, even if given a Fire Resistance potion. They simply pass through the lava and behave as if on land.
+Squids (unlike land-based mobs) can swim against a current and not get pushed by it.
+Guardians will attack squids in the same manner as they would a player, regardless of the squid having the Invisibility potion effect.
+In Pocket Edition, squids produce a cloud of black ink particles and rapidly swim away in the opposite direction from the player when attacked.
+Hitting a squid underwater causes them to rise approximately 1/3 to 1/2 a block.
+Squids cannot be damaged by attacking their tentacles.
+When out of water, squid are extremely resistant to knockback.
+Squids behave like some land mobs and attempt to ride a minecart, but this is not always useful as rails and water cannot occupy the same block.
+Squids are the first passive mob that spawn at any light level, in water, and without grass.
+When the world is loaded, all squids are aligned with the tentacles facing east.
+A squid.
+Squid and baby squid in Pocket Edition, along with an 'ink cloud'.
+The teeth on a squid.
+A Squid riding a Minecart.
+Squids that have spawned from the side of a hill.
+A squid beached on the land. After a few seconds it will die.
+A squid that has spawned in an NPC farm.
+Tutorials/Squid farming.
+Ink Sac.

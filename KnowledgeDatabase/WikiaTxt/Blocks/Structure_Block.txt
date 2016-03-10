@@ -1,0 +1,1 @@
+The Structure Block originally in the screenshots "Mystery Block" is a block added in the 1.9 snapshots. Its true purpose is unknown, but is used to make structures as shown by the screenshots by Mojang. So far, it can only be obtained with the setblock command. It is also a light producing block. .

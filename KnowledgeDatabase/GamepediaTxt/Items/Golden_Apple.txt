@@ -1,0 +1,14 @@
+The golden apple is a special food item that can be eaten by the player.
+Enchanted golden apples (sometimes known as notch apples) are a variant of golden apples that require more materials to obtain, but have stronger effects.
+Regular golden apples can be found in chests in dungeons and strongholds. Each chest has about a 0.66% chance to contain a golden apple.
+To eat a golden apple, press and hold use while it is selected in the hotbar. Both restore 4 () points of hunger and 9.6 hunger saturation.
+The regular golden apple provides absorption for 2 minutes (providing 4 () points of absorption health) and regeneration II for 5 seconds (long enough to heal 4 () points of damage). The enchanted golden apple provides absorption for 2 minutes, regeneration V (1 () every 3 ticks,  × 3⅓ per second) for 30 seconds, fire resistance for 5 minutes and resistance (20% reduced damage from all sources except the Void) for 5 minutes.
+Golden apples can be eaten even when the player's hunger bar is full.
+A total of 200 ( × 100) health points can be restored by eating an enchanted golden apple. The healing speed is enough to endure nearly any damage except from the Void.
+A regular golden apple can be used to convert a zombie villager into a villager.
+Both types of golden apples can be used to improve the chances of taming a horse by 10%, for breeding horses and for speeding up the growth of baby horses by 4 minutes.
+Golden apples have the ID minecraft:golden_apple (322) and are further defined by their damage value.
+A comparison of the two golden apple variations.
+The effects of consuming an enchanted golden apple.
+A chest in a stronghold containing a golden apple.
+A golden apple found in a dungeon.

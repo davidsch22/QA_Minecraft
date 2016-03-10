@@ -1,0 +1,7 @@
+ Fence Gates are an interactive block, similar to a door, that were first implemented in the Adventure Update (Beta 1.8) and were also implemented into Minecraft XBLA. Fence gates enable easy access to fenced in areas without climbing over blocks or ladders to gain access. They can only be opened by right clicking the gate and will always open away from the player.
+Like fences, fence gates count as one and a half blocks tall for player and mob collisnons, and one block tall for all other purposes. This means that when closed, the player cannot jump over a fence gate.
+Fences have had their hitboxes made smaller, allowing players to move remarkably closer to the gate itself.
+Fence gates are constructed by using three 2-high columns of sticks, planks, and then sticks again.
+When used with a cobblestone wall, fencegates will not be connected, but will still keep mobs from moving past it.
+Fence gates require a block below them to be placed, much like pumpkins.
+Fence gates will still work with, and be connected to, Nether Brick fences.

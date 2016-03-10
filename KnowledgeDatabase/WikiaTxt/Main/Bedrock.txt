@@ -1,0 +1,18 @@
+ Bedrock, also known as Hard Rock or Adminium, is a block that is impossible to collect or break when in Survival Mode. Its purpose is to prevent passage into The Void. Bedrock is the barrier to and is right above The Void, and its layer can be 1 to 6 blocks high on the Y-Plane. .
+Bedrock is a block with a gray and charcoal pattern found at the bottom of all Minecraft Maps and at the top, bottom, and a few sides of the Nether as well (Xbox and PS3 Edition only). It exists in randomly generated layers, creating a usually-impassable barrier that prevents players from falling past the bottom of the map. If the player is able to wriggle past this layer, or destroy it using Creative mode / hacking tools, the player will fall into The Void and die after falling past Y=-63, although it is possible to find a way out if the player quickly turns on Fly-mode or noclip and flies straight up. If they are too slow, the square of land they had fallen through will turn as black as the rest of The Void. In a Superflat world, bedrock can be found after digging down three layers of Dirt. (According to updates after 1.4 when Superflat worlds were editable, it now varies of what map you seed up).
+Bedrock is effectively, but not completely, indestructible. In Creative Mode, the player can create and destroy it as easily as any other block. In addition, game hacks can also remove Bedrock, as can server administrators. As far as Explosions are concerned, Bedrock has the maximum possible blast resistance value of 18,000,000, which means that it would take the explosive force of 4,500,000 blocks of TNT to destroy Bedrock. Such an explosion would also destroy a large section of the map and crash the game, stating that Java has run out of memory.
+Bedrock can also be found in The End. On top of some of the Obsidian towers in The End, there is a block of Bedrock with an Ender Crystal floating above it, which is used to heal the Enderdragon.
+Furthermore, Bedrock cannot be broken by any means in Survival Mode. This is due to the hardness being -1, causing the block to take no damage regardless of the level of efficiency on a Pickaxe or the time taken to mine the block.
+Bedrock first found it's way into the game in Classic v0.0.12a.
+The Pirate Speak language setting calls Bedrock "The Har'est Rock.".
+The particles that appear to be emitted from Bedrock are actually emitted from The Void, since the particles go through the bottom Bedrock layer. Bedrock created at a level much higher than the Void does not emit particles.
+Bedrock is often used as a spawn jail, since it's nearly impossible to break. It's used as punishment for griefers after removing the creative powers from them.
+In Minecraft Classic, Bedrock can always be found at the end of a map.
+TNT Minecarts will explode if they hit Bedrock.
+If the player uses the bottomless pit preset on a Superflat world, it is possible to bypass this material.
+Bedrock is one of the two types of blocks found in all three Minecraft dimensions, the other being Obsidian.
+A trick with Dark Oak trees used to allow players in Survival to break through Bedrock. This was later changed in the 1.8.2 update.
+Bedrock spawned on the surface.
+A hole in the bedrock.
+Under the bedrock surface.
+Add a photo to this gallery.

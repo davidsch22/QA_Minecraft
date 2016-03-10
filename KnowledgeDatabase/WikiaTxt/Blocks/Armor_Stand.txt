@@ -1,0 +1,5 @@
+ Armor Stand is an item in Minecraft that was added in update 1.8. Its purpose is in holding Armor which can be done with a simple right click, but it can hold any blocks that you can put on your head (like Pumpkins, Heads, etc.). Using NBT tags, you can make it smaller or you can ad them hands and make them hold items. Because it is an entity, it can be pushed by Pistons, can be picked up by a Minecart and will fall if the block bellow it is broken. Like Signs or Banners, you can rotate them (but only in 8 directions).
+Until 1.8 you could only get Armor Stands using mods (for ex. Bibliocraft).
+You can only place Armor Stands in the middle of a block, but you can move it around a bit using pistons and water.
+The first photo of an armor stand by Searge.
+Add a photo to this gallery.

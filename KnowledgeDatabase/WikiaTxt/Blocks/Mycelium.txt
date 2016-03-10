@@ -1,0 +1,7 @@
+Mycelium is a block similar to grass, and will grow over any dirt in its area. even if it has a sapling or another plant on it, but it is only found naturally in mushroom biomes. This can be stopped by creating an obstruction to the Mycelium's expansion (such as a two-block change in terrain height or a non-dirt solid block). .
+Mycelium was first added in the first Beta 1.9 release, useable only in creative mode.
+As of 1.2.4, mycelium is the only block players can spawn mushrooms on while in sunlight.
+They were added to Pocket Edition in the 0.9.0 Update alongside Mushroom Biomes.
+When harvested, it normally drops a dirt block, but with the Silk Touch enchantment, a block of mycelium can be collected.
+Players cannot convert mycelium into farmland. It must break and turn it into dirt first.
+Mycelium emits particles similar to those underwater and near the Void.

@@ -1,0 +1,12 @@
+ Creating pixel art is very easy. All you do is replace every pixel in an image with a block that resembles the colour of that pixel the most. People usually use only wool, as the matching textures often look better, but you can use all blocks.
+There are tons of pixelated images on the internet, both original artwork and images of famous cartoons, movies and other forms of entertainment.
+However, you can also change pictures in a higher definition to a pixelated version, this way you can create images of pretty much everything on your server.
+However, note that it’s often best to stick to 1 colour when recreating something with different shades of the same colour. There are 2 different green wool colours, but mixing them will often make the end result look weird and ugly, so stick to whatever shade of green is used most in the original image.
+The best way to reduce the amount of colours and pixels in an image is by saving it as a 16-bit format, which can be done in paint and other editing programs. This will reduce the amount of colours in the image, which will make it look less sharp, but it will make creating this image a lot easier in minecraft, especially if you only plan on using wool.
+You can also save your image as a monochrome bitmap, which takes out all the colours and leaves you with a pixelated, black image, which is very easy to recreate in minecraft.
+You may want to resize your image, which will further reduce the amount of pixels and leave you with a manageable sized image you can recreate in minecraft.
+You don’t have to use just 1 block for every pixel, you could also use 2×2, 3×3 or even more blocks per pixel to create bigger versions. The reverse is also true, but it’s much more difficult to create smaller versions without resizing the image in an editor, like paint.
+3D pixel art isn’t too different from 2D pixel art, you simply repeat the steps in more dimensions.However, there’s one problem with 3D pixel art, which is that the corners won’t always be the same as the image version.
+An image uses 2D pixels, while we use 3D blocks, which means there won’t be any room to use 2 different colours on the corners, but using just 1 colour will usually be fine.
+You could also make the recreated image wider, by simply creating both the sides without making them meet at 1 corner. Instead, leave an empty row of blocks at the corners, like the in the image below.
+This is best used on enormous builds, though creating normal corners will usually look better.

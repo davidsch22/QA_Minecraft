@@ -1,0 +1,17 @@
+Blazes are mobs with yellow skin and black eyes found in the Nether.
+Blazes can spawn naturally in Nether fortresses at a light level of 11 or less.
+Blazes spawn from the spawners found in Nether fortresses. They can spawn in a 9x9 area around the spawner on the same level, one level higher and one level lower.
+When killed by a player or tamed wolf, a blaze may drop one blaze rod. Blazes which are killed by other causes will not drop anything. In console editions, they also drop 0-2 glowstone dust.
+They drop 10 experience when killed by a player or tamed wolf.
+Although blazes are able to fly, they will stay on the ground or sink down slowly in the air when not attacking. Blazes will not attempt to swim upwards in lava, unlike zombie pigmen. When they see a player, they will start flying and attacking. They will catch fire briefly before shooting 3 fireballs in rapid succession. A short cool down period occurs between attacks. If you punch a blaze in Creative mode they will also fly into the air and shoot fireballs at the player.
+Blazes shoot fireballs at the player, dealing 5 () on all difficulty levels. The fireball will set anything it hits on fire, including solid blocks, mobs, and the player, causing an additional 4 () damage. A blaze shoots its fireballs with roughly the same lack of accuracy as a dispenser; however the blaze's shots maintain the same speed all the way to the target, unlike the dispenser's which starts slow and accelerates. If you hit a blaze while it is on fire, this will sometimes cancel out the fireball attack.
+In addition to normal weapons, blazes can be hurt by snowballs, taking 3 () damage per hit. They are also damaged by water and rain by 1 () every second. Like all Nether mobs, they are immune to fire and lava.
+When throwing a Potion of Invisibility on a Blaze, the smoke will stay visible.
+Blazes can fight each other if one accidentally hits another with a Fireball when not fighting a Player.
+A blaze without particles. You can clearly see there's no main 'spine'.
+A close up look at the blaze spawner in a Nether fortress.
+A Blaze up close. There is no core of the body, just smoke and fire.
+A Blaze on fire, preparing to shoot its fireballs.
+A Blaze that was spawned into the Overworld is taking damage from snowy weather.
+Zoomed out view of the blaze spawner, showing the spawner area and a spawned blaze.
+Multiple blazes shooting fireballs at the player as they hover around their spawner.

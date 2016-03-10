@@ -1,0 +1,20 @@
+Leaves are blocks which grow as part of trees.
+Leaves can only be obtained with shears or Silk Touch enchanted tools.
+Leaves from trees spontaneously decay (disappear) when they receive a block tick, if they are not connected to any wood block, either directly or via other leaf block, with a maximum distance of 4 blocks. Player-placed leaf blocks will never decay.
+Leaves which decay or are destroyed without using shears usually drop nothing, but yield saplings 5% (1/20) of the time. Jungle leaves drop saplings 2.5% (1/40) of the time. Oak leaves also have a 0.5% (1/200) chance of dropping an apple. Rates are increased by the Fortune enchantment. Leaves that are burned do not yield saplings or apples.
+Leaves take on a different shade of green depending on the biome in which they are placed.
+Leaves are always transparent to light but cannot be seen through when the graphics mode is set to "Fast"; the transparent regions are instead black. They diffuse sky light, causing the shadows they cast under trees.
+When leaves are pushed by a piston, they are destroyed without dropping an item.
+Leaves use two different block IDs. They use minecraft:leaves (block 18) for oak, spruce, birch and jungle; and they use minecraft:leaves2 (block 161) for dark oak and acacia. Leaves use block data values to determine their type and state. They also have block states which will replace data values in the future.
+Block 18.
+Block 161.
+Block 18 (minecraft:leaves).
+Block 161 (minecraft:leaves2).
+In Alpha, leaves would decay using an algorithm that checks whether it has a solid or leaf block underneath it or is adjacent to a solid block. If it doesn't, it must be connected to a leaf block that is also supported as long as it is no further than five blocks away from said support. Alpha-style decay.
+ The extent a single "branch" of leaves can survive.
+ Leaves can be connected an infinite distance away from a support block.
+Occasionally, leaves will grow through other blocks, acting as though they are still connected to the tree. They may also completely replace blocks they try to grow into.
+Leaves do not prevent chests from being opened.
+Some trees seem to occasionally drop apples or saplings without being destroyed due to creation of leaf blocks not supported by wood.
+The default texture for jungle leaves have a yellowish tint in some areas.
+A red mushroom is seen growing on the top of a block of leaves.

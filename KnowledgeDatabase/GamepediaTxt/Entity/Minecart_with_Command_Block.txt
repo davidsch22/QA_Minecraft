@@ -1,0 +1,5 @@
+Minecart with Command Block is a command block inside a minecart.
+Minecart with command block is only obtainable using commands. It can be broken like any other minecart, but the command block is lost.
+The minecart with command block combines the functionalites of both minecarts and command blocks. It runs its command repeatedly (each 4 game ticks) when on an active activator rail. When it passes over a detector rail with a comparator connected next to it, it will output the command block's result.
+A minecart with command block in 13w39b.
+A minecart command block testing the block in the red area with air.

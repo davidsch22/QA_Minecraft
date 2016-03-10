@@ -1,0 +1,19 @@
+Arrows are ammunition for bows and dispensers.
+Skeletons may drop between 0 to 2 arrows upon death, and the maximum amount dropped can be increased by 1 per level of looting used. However, arrows shot by a skeleton cannot be picked up.
+Villager fletchers will sell 8 to 12 arrows for 1 emerald as part of their tier 1 trades.
+Dispensers found in jungle temples contain arrows in stacks of 4 to 14.
+When fired, arrows will fly in a ballistic trajectory affected by gravity and drag in air or water and will travel approximately 3 blocks when fired parallel to a flat plane with no charge, 15 blocks average with medium charge, and 24 blocks average with maximum charge. Arrows in water get much more drag than in air, and leave a trail of bubbles in their wake. Arrows (with bow at full strength) can travel 120 blocks when fired from the optimal angle. The maximum height an arrow fired by a bow can reach is around 66 blocks.
+An arrow's damage is determined by its speed. When fired from a fully-charged bow, arrows do 9 () of damage, with a small chance to damage for (10 (). They inflict 6 () damage from a medium-charged bow, and 1 () from a bow with no charge. Arrows fired from dispensers do 3 () of damage.
+Immediately after hitting the target, there is a 0.5 second cooldown period during which the target will be immune to further damage. Arrows hitting the mob in this state will lose all speed and drop to the ground.
+Arrows will also stick into objects they come in contact with and will remain there for exactly a minute before disappearing; the distance from the object and the angle determine how far into the target the arrow will go. Arrows that have been fired by the player and stuck into terrain are retrievable and never break. Arrows shot by skeletons are special entities and cannot be collected.
+If an arrow is stuck in a block and the block in which the arrow is stuck in is broken or disappears (e.g., leaves), then the arrow will fall and damage entities below them.
+Arrows can bounce off entities like minecarts and mobs immune to damage.
+Arrows shot through lava (but not fire) will catch on fire and show an appropriate animation until they pass through water. Like arrows shot from a bow with the Flame enchantment, they can set other entities they hit on fire and ignite TNT.
+Arrows shot at rails will stop a minecart from passing over that block until the arrow despawns or is collected.
+An arrow shot at a boat or any kind of minecart will cause the vehicle to break, dropping any components (including container contents).
+An arrow can activate a wooden button, wooden pressure plate, or tripwire. If the arrow sticks in the switch they will remain activated until the arrow despawns after one minute. Other switches are not affected by arrows.
+When arrows are fired into the sides of blocks, they change their orientation to point more downwards than their original flight path might indicate. This can cause them to intersect and thus trigger switches above them that they didn't actually hit, or block rails above them.
+Arrows shot into a repeater, comparator, or redstone lamp will shake when going from an off to an on state.
+Arrows are affected by explosions while they are in flight. Since explosions increase the speed of an arrow, they can also increase the damage dealt by them.
+If an arrow is lodged in a block which has multiple states, it will dislodge itself when the block updates. This causes the arrow to shift slightly, and to replay the impact sound effect.
+Arrows fired at Nether Portals will often skip through the portal block completely and fail to collide, thus continuing through to the opposite side of the block.

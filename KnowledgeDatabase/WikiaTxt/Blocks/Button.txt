@@ -1,0 +1,6 @@
+ The Button is a non-solid block that can be interacted with by The Player. It can be crafted with wood or stone. Buttons can be found naturally in strongholds right next to iron doors.
+Like torches, buttons can be placed to a side of a dispenser, crafting table, or furnace in the same fashion (done by crouching).
+When used with redstone, it can activate mechanism-related items, such as doors, pistons or TNT. When pressed, it will send a short pulse of power (lasting approximately 1.0 seconds, or 10 ticks) to any redstone powered item.
+Inside Snapshot 12w34a, a Wood variation of the regular button was added, and is created by placing a Wood Plank anywhere in the Crafting Grid.
+In snapshot 14w04a, buttons can be placed on the ceiling and on the floor.
+Wooden Buttons have a longer delay than Stone Buttons. Stone Buttons have a 1 second or 10 tick delay, and Wooden Buttons have a 1.5 second or 15 tick delay.

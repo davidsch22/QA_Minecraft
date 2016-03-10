@@ -1,0 +1,2 @@
+Block 70 is a block in Minecraft: Pocket Edition that has a colorless texture and says "update". It breaks instantly with any tool. It also has an ID of 256. Can be obtained with World Edit, Creative mode mods, etc.
+ Block 70 is a place holder for future items.

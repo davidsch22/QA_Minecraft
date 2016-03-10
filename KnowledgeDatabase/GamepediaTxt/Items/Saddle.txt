@@ -1,0 +1,13 @@
+Saddles are items that can be placed on ridable mobs.
+Saddles can be found in chests inside dungeons, abandoned mine shafts, Nether fortresses, desert temples, jungle temples, and in blacksmith chests in villages.
+Saddles can be obtained as a "treasure" item from fishing.
+Villager leatherworkers will sell saddles for 8-10 emeralds as a third tier trade.
+Saddles may be used to ride horses, donkeys, mules, and pigs.
+Using a saddle on a pig will equip the saddle, allowing the player to ride the pig, though controlling the pig requires usage of a carrot on a stick. The saddle can only be retrieved by killing the pig.
+Tamed horses, donkeys, and mules can be ridden without them wearing a saddle, but a saddle is required to control them. Once tamed, they can be equipped with a saddle by placing it in their inventory which can be opened by pressing use while holding a saddle or sneaking. The saddle can be unequipped by removing it from the steed's inventory.
+A saddle is considered "armor" by the game, but the value of protection to the pig is equal to null, making no additional protection to the pig. A saddle can still be seen if the pig is invisible.
+Punching a pig or horse while holding a saddle causes the mob to wear the saddle, and it will be taken out of your inventory, even in creative mode.
+A player riding a pig (before Beta 1.8).
+A player riding a horse.
+The horse interface implemented in 13w21a that allows for the removal of saddles, but only on horses, donkeys or mules.
+Transportation.

@@ -1,0 +1,14 @@
+Bedrock is both an indestructible and unmineable block.
+Bedrock cannot be broken using any tools. It also cannot be moved by pistons or destroyed by explosions that are present in normal gameplay. Bedrock can only be obtained by the creative inventory and commands.
+Bedrock comprises the bottom-most 5 layers of the Overworld in a rough pattern, although to the 4th layer is predominately flat bedrock with no gaps, which makes the very bottom 5th layer inaccessible.
+In the Nether, bedrock comprises both the top and bottom 4 layers in a rough pattern. At the top of the Nether, bedrock prevents you from going past layer 127. It can also be found at the sides of the Nether in the console edition.
+Bedrock in the Overworld and the Nether always generates in the same pattern no matter what seed is used.
+In the End, defeating the Ender Dragon spawns a portal with a Bedrock frame. A single piece of flaming bedrock also appears underneath ender crystals.
+Bedrock's primary usage is as a solid unbreakable block. It also prevents mob spawns and is the only solid block that beacons beams can shine through.
+In the console editions, only the lowest layer (and highest in the Nether) of naturally spawned bedrock is unbreakable.
+In maps generated before the Halloween Update, there were occasional gaps in the bottom layer of Bedrock that the player could fall through.
+It is possible, but rare, for ore to be found encased in Bedrock.
+In Minecraft 4k, there is bedrock on the bottom of the map with no texture.
+Strongholds can cause a bedrock not to form within its bounds.
+Three of the five bedrock barriers of a Classic map visible, with a stone block for comparison.
+A lake that spawned at bedrock level. It's possible, albeit rare, for one to make a hole into the void.

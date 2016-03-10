@@ -1,0 +1,12 @@
+Dec value: 60.
+Hex value: 3C.
+Minimum tool requirement to break: None.
+Blast resistance: 3.
+Maximum stack 64.
+Transparency: Yes.
+Farmland is obviously used to plant seeds on. Currently there are only 3 types of seeds, normal (wheat), pumpkin and melon seeds.
+Farmland is created by using a hoe on either a grass or dirt block, but will revert to dirt if there is no water block within 4 blocks from the farmland block. Farmland will also revert to dirt when a player or mob jumps on it, making slimes (in flatlands) and spiders devastating. A player who does need to jump can use sneak to prevent the farmland from being trampled. .
+Farmland is available naturally in villages, though wheat is grown on them. Farmland will start out looking like a shorter dirt block with lines. Once hydrated, the block will be dark brown. Rain will hydrate farmland at a slow pace, but isn’t a reliable method to keep your farmland wet.
+Efficient land use farming is all about getting the highest yield out of the smallest possible amount of land. The general idea is to take advantage of the fact that water will hydrate land up to 4 blocks away in all directions. This allows a 9×9 field of farmland to be hydrated by a single block of water in the middle. This means up to 80 blocks can be used for planting crops, instead of perhaps 45 blocks using the method most people use, which is a line of farmland followed by a line of water.
+Farmland offers a few useful features for redstone circuits and other traps or tricks. Firstly, farmland doesn’t pass any power pulse, while dirt blocks do. This could act like a type of secret switch, as only the creator will know which dirt block need to be tilled. Because farmland reverts to dirt when jumped on, using the above mentioned feature, jumping or falling detectors can be made.
+Any dirt block can be tilled, this includes dirt blocks under other blocks. Though plants can’t be grown on these blocks, the small gap between the block can be used to click something on the other side, like a lever which opens a secret door.

@@ -1,0 +1,7 @@
+Diamonds are one of the rarest materials in Minecraft.
+Desert temple, jungle temple, nether fortress, village blacksmith chests, and stronghold slab altar chests may contain diamonds in stacks of 1-3. Abandoned mineshaft chests may contain diamonds in stacks of 1-2.
+Diamond ore mined using an iron or diamond pickaxe will drop a single diamond. If the pickaxe is enchanted with Fortune, it can drop an extra diamond per level of fortune, allowing for a maximum of 4 with Fortune III. If the ore is mined using a pickaxe enchanted with Silk Touch, it will drop itself rather than a diamond.
+Diamonds are used to craft the most durable tier of tools and armor.
+Villager armorers, tool smiths and weapon smiths buy 3-4 diamonds for one emerald as part of their third tier trades.
+Diamonds are a well-known item because they are one of the most shown things on merchandise.
+In real life, diamond is very fragile in certain directions, so it is not a good material for tools or armor, except for cutting other materials.

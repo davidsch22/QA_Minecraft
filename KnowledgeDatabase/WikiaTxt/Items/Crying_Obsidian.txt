@@ -1,0 +1,5 @@
+Crying Obsidian refers to a leaked, abandoned project by Jeb to implement a change-spawn obelisk.
+This texture was added in Beta 1.3 but was never used in the game. It closely resembles obsidian. It also appears to be a sandstone or a bedrock texture modified to look like obsidian. It is also known as "Bleeding Obsidian" among many members for its appearance when it is actually Crying Obsidian.
+Its original intended use was to set a spawn point, but was scrapped with the introduction of beds.
+This block can be added to your game through modifications (or, 'mods'), although these blocks will not appear in multiplayer worlds unless the multiplayer server has the same mod installed.
+In Beta 1.5, the texture slot for crying obsidian was replaced by a grayscale replacement of the side of grassy dirt blocks, which is used for biome-compliant grassy dirt block sides, such as Mycelium.

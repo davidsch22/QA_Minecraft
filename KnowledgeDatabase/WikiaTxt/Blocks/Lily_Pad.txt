@@ -1,0 +1,6 @@
+ The Lily pad first appeared in the Beta 1.9 prerelease. It can only be placed in Water and drops when destroyed. Players can place Sugar Cane and other flora on the Lily Pad. You can also stand on the Lily pad and not fall in the water. You can jump on them too.
+Lily pads are destroyed when the water beneath it freezes and becomes ice.
+Lily pads are destroyed when water flows on it. This can be used to climb by alternating the placement of lily pads and water source blocks without leaving the placed lily pads.
+If a lily pad is placed on the water in a farm, the water will still irrigate the nearby tilled land. This is because they are transparent.
+A boat can break lily pads,eventually lily pads will break the boat.
+If you sprint while placing a lilypad down you can practically sprint jump on water.

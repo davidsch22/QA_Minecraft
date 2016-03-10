@@ -1,0 +1,27 @@
+Skeletons are undead, ranged hostile mobs equipped with bows.
+Skeletons can spawn almost anywhere in the Overworld at a light level of 7 or less. In the Nether, they can also spawn in nether fortresses at a light level of 7 or less in place of a wither skeleton.
+Spiders rarely spawn with a skeleton riding them, creating a spider jockey.
+Skeletons also spawn from spawners found in dungeons.
+Skeletons drop 0-2 bones and 0-2 arrows upon death. Any picked-up equipment has a 100% chance of dropping and will drop with the same damage level it had when picked up. When killed by a player any naturally spawned equipment (including the bow) has a 8.5% (9.5% with Looting I, 10.5% with Looting II and 11.5% with Looting III) chance of dropping and will drop with a random durability. A skeleton will drop its head if killed by a charged creeper's explosion.
+Skeletons drop 5 experience when killed by a player or tamed wolf, +1-3 extra experience if the skeleton has equipment.
+On Halloween, some skeletons will spawn wearing a pumpkin or jack o'lantern. If these skeletons are killed using a tool enchanted with Looting, there will be a chance equivalent to the level of Looting used to drop the pumpkin or jack o'lantern, up to a maximum of a 3% chance of a drop.
+Skeletons spawn in dimly lit areas, and will burn in sunlight. When skeletons are nearby, their presence is indicated by the intermittent soft rattling sound of their bones. Skeletons will chase any player they see within 16 blocks, and will climb stairs, navigate mazes, and traverse other complex obstacles in order to get within shooting range. When they are within 8 blocks of the player with a clear line of sight, they will stop chasing and start shooting the player with arrows. If the player moves more than 16 blocks away from the skeleton, it will cease pursuit. Skeletons can attempt to avoid damage from the player by continuously circling around them while shooting at them.
+The skeleton's accuracy is based on the difficulty. Skeletons have an "error" of 10 on easy, 6 on normal, and 2 on hard. This is compared to the player's "error" of 1. When their target is closer, skeletons shoot faster, but do less damage. To account for gravity, skeletons aim 0.2 blocks higher for every block horizontal they are from the target.
+If a skeleton's arrow hits certain hostile mobs, that mob will then attack the skeleton the same way it would attack the player, given it was not hit by the player first. If a skeleton is attacked by another mob (usually another skeleton), it may attack that mob, reorienting on the player once that mob is dead.
+Skeletons normally attack with a bow, however some can spawn with the ability to pick up items, and will switch to a melee weapon if they pick one up. If the skeleton already has a sword and finds a better one, they will drop the current sword and use the better one. When killed, the sword will be dropped again, with its durability unchanged. They will also wear any armor items and mob heads they pick up, and wear pumpkins or jack o'lanterns as headgear. When wielding anything but a bow, they will move at about the player's walking speed. If spawned with no weapon at all (presumably by using spawn commands) a skeleton acts like a zombie (though faster), coming at the player with arms outstretched and damaging the player by touching them.
+Skeletons are also able to climb ladders, but only when forced to, as their AI does not handle ladders in a special way.
+Like zombies, skeleton burning occurs at dawn when the sun is 15 degrees or greater above the ground, unless the skeleton is either in shade, water, or wearing a helmet. If not wearing a helmet, they will attempt to find shade or water to keep from burning. Unlike zombies, which will always chase the player if they see one, skeletons will not exit the shade area even if attacking a player.
+Skeletons run from wolves, as wolves attack and chase skeletons. When skeletons are safe from sunlight, they will shoot at any wolves that attack it. Skeletons will also shoot at iron golems. Creepers killed by a skeleton's arrow will drop a music disc.
+If alerted to a player's presence, skeletons can fire arrows backwards, occasionally hitting themselves.
+Skeletons cannot see the player through glass, fences, or other transparent blocks.
+When holding a sword, skeletons are actually much faster than zombies and sprint at you as fast as a wither skeleton or zombie pigman, but they move at zombie speed when holding a bow. This is because they share the same Entity ID as a wither skeleton.
+A skeleton in Beta 1.8. You can see it wielding its bow with both hands.
+Dying skeleton mob.
+Two skeletons shooting each other. The skeleton on the right is a spider jockey.
+A skeleton in 1.4.5 in full gold armor.
+A skeleton in 12w34b with leather armor.
+A skeleton in the Nether used as the 12w36a snapshot image.
+A skeleton naturally spawned with iron armor is able to survive in daylight.
+A skeleton from the Pocket Edition (before 0.11.0). Like in beta 1.8, it holds its bow with both hands.
+A skeleton kills an attacking wolf.
+Bone.

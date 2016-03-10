@@ -1,0 +1,6 @@
+Glass is a decorative fully transparent block.
+Glass will only drop itself if it is broken with a tool enchanted with silk touch; otherwise it will drop nothing.
+Villager librarians will trade 3 to 5 glass for 1 emerald as part of their tier 3 trades.
+Most blocks dependent on a block cannot be placed on glass. The only exceptions are torches and redstone torches, which can be placed on top of glass, but not attached to their sides.
+Glass blocks adjacent to other glass blocks are invisible when viewed through glass.
+When placed underwater, glass will appear to have water flowing down it's sides.

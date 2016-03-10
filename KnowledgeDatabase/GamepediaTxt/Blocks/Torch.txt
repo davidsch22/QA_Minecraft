@@ -1,0 +1,15 @@
+Torches are non-solid blocks that emit light.
+A torch will break instantly and drop itself when broken using anything. The tool will not take any damage when breaking the torch.
+Torches will also be broken if flowing water runs over its location, or if pushed by a piston.
+Torches can be found randomly among the supports in an abandoned mine shaft's corridors. Torches can also be found in various rooms of strongholds, and as a part of village lamp posts. Torches generate around bonus chests if each side has a block at the same height around it.
+Torches can be placed on the top or the sides of most solid blocks, although some will require sneaking (see placement for exceptions). Being non-solid, torches have no collision box.
+Gravity affected blocks like sand and gravel will not fall if the block below them has a torch on it, and will break if they fall onto a torch.
+Torches give off a light level of 14. Torches also melt snow layers and ice within 2 blocks (taxicab distance).
+In general, torches can only be placed on solid, opaque, full blocks; exceptions are listed below.
+Notch originally planned for torches to become temporary light sources that would eventually burn out. Torches would then need to be relit with flint and steel. All torches placed before the planned feature would become lanterns, due to changing the data value. This was originally planned to take effect on October, 31, 2010 with the Halloween Update, but it did not happen.
+www.thinkgeek.com released a real physical torch that could be purchased for $24.99, and was able to be placed on walls.
+An image of a floating torch in a mineshaft.
+A torch placed on a wall.
+Redstone Torch.
+Redstone Lamp.
+Minecraft 2.0.

@@ -1,0 +1,8 @@
+Cooked Chicken is obtained when Raw Chicken is cooked in a Furnace, or when a Chicken is killed in Fire. It restores  when eaten.
+Can restore a good amount of hunger points.
+Lots of saturation.
+Chickens are farmed easily, plus when farming, they may occasionally lay eggs which will create more Chickens.
+Chickens somewhat appear randomly and if you can't find one, no chicken.
+They require seeds to breed.
+Cooked chicken must be cooked in a furnace (8 cobblestone), and require some fuel or you would have to kill with fire.
+Each chicken will always drop one raw chicken when killed, even if it is killed by a weapon with the looting enchantment (which makes other passive mobs drop more of their drops).

@@ -1,0 +1,12 @@
+Dec value: 03 Hex value: 3.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: No.
+Dirt can be obtained by digging up either dirt, grass, mycelium or farmland. Though using a tool with the silk touch enchantment will give you grass and mycelium instead of dirt. Using a shovel is the fastest way of harvesting dirt, though due to the speed of even stone shovels, using a diamond shovel is often considered a waste, especially when you’re low on diamonds.
+A few layers of dirt covers almost everything on land, with the exception of desert biomes, though it’s almost always covered by a layer of grass. Any dirt block adjacent to grass blocks in sufficient light will turn into grass block. The same spread to dirt happens with mycelium blocks.
+Dirt can also be found underground, on all depths, and is found on also found on the bottom of almost any body of water.
+Unlike sand and gravel, dirt is unaffected by gravity, which can often lead to random floating dirt blocks.
+Dirt can be turned into farmland by tilling it with a hoe. Farmland is required to plant seeds. Along with grass and sand blocks, dirt can be used to plant and grow sugar cane, as long as a block of water is directly next to it.
+Dirt is not used in any crafting recipes and because farming rarely requires huge amounts of dirt, dirt blocks are often used for terra forming or as a quick blockade against monsters.
+Dirt’s explosive resistance is very low, which means you’re often left with a big hole when an explosion occurs.

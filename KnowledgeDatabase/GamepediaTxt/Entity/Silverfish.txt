@@ -1,0 +1,16 @@
+Silverfish are small, bug-like hostile mobs.
+Silverfish have no drops other than 5 experience when killed by a player or tamed wolf.
+Silverfish spawn from broken monster eggs, which generate in strongholds and extreme hills biomes.
+When spawning from monster spawners, they can only spawn in light level 11 or lower, except on top of stone and its variants, where they can spawn at any light level. They also cannot spawn within a 5 block distance of any player.
+Silverfish are the second smallest mobs in Minecraft, after the endermite; their height is less than that of a slab. Because of this, they take suffocation damage from standing on soul sand.
+Silverfish have the ability to "call" other silverfish in the area upon being hit. These silverfish have the ability to see through walls, and will pathfind until they reach the player.
+When idle, silverfish will enter a nearby stone block, transforming it into a monster egg.
+When they are attacked or take poison damage, they may cause other silverfish within a 21×11×21 area to break out of their monster eggs (unless they are killed in one shot).
+In real life, silverfish are small, relatively harmless, wingless arthropods that are often found in dark areas in buildings and the wooden pilings of seaside piers and trees. They are infamous for damaging paper-based products. During cold temperatures they are known to enter a sort of "hibernation" by expelling most of the water in their body. During this state they greatly resemble small stones or gravel, likely inspiring their Minecraft counterparts.
+A silverfish.
+A swarm of silverfish.
+Silverfish spawner room in a stronghold.
+A silverfish riding a minecart.
+Many silverfish in a village. (Click for animation).
+A giant stone silverfish as seen in the 13w26a banner.
+Endermite.

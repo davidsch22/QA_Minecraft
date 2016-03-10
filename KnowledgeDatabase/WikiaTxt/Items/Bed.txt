@@ -1,0 +1,15 @@
+ Beds are crafted 2 long blocks that can be slept in by right clicking on them, which will change the world time to morning if everyone in the world is sleeping, and it will also automatically set your spawn point to right next to the Bed. There are 4 occasions when Beds cannot be slept in: if it is daytime, if there are neutral or hostile mobs nearby, if there is somebody else already sleeping in the bed, or if the Bed is in the Nether or End, and the first 3 will result in a chat message popping up that will tell you why you cannot sleep, while trying to sleep in a Bed in the Nether or End will result in the Bed exploding.
+It is possible to destroy a bed while you are on it by simply aiming slightly downward. After you do, though, touching a 2x1 wall or ceiling will cause damage, and walking into a corner will show suffocation. This will continue until you go back to sleep for the night.
+The exploding bed is a reference to one of the lyrics in Notorious B.I.G's song "Suicidal Thoughts".
+During the Beta version, if you place your bed near a wall, a Zombie or a Skeleton will spawn beside you, though it couldn't attack you. This glitch was removed in Beta 1.9 pre-1.
+Sleeping in a bed with an opaque block directly above it will result in suffocation.
+In the Minecraft: PE code, there is a block which is half a Bed. It can only be obtained through mods in creative.
+Some the Technical Blocks can be obtained this way.
+If you destroy the blocks beneath the bed, the bed will float in the air.
+You can use any type of wood and wool and you will still get the normal bed.
+The Sky Dimension was a planned dimension in Minecraft, intended to be the opposite of the Nether. To get there, you would sleep and there would a chance you would go. You can see the name Sky in the End.
+What happens if you try to sleep in a Bed in the Nether.
+A bed in a cobblestone house.
+A bed.
+A bed with a glitched texture.
+Add a photo to this gallery.

@@ -1,0 +1,12 @@
+A flower pot is a decorative block that allows plants in it.
+Flower pots can be mined using any tool, or without a tool.
+A flower pot will also drop itself as an item when pushed by a piston.
+One flower pot spawns in every witch hut, containing a red mushroom. This is not the best source in the game, though, as witch huts spawn only rarely.
+A flower pot can be used to hold various plants. Plants that can be placed in a pot include any one block high flowers, saplings, mushrooms, and cacti.
+Flower pots can be placed on upside-down slabs and upside-down stairs. They can not be placed on normal slabs and stairs. Flower pots are 3/8 block high and can be stepped on. It is not possible to walk from the top of a flower pot onto a full sized block without jumping. It is possible to jump from a flower pot onto a fence.
+The flower pot is based on a suggestion from Reddit, like Ender chests and item frames.
+When placed in a flower pot, cacti will not harm the player or destroy items.
+Flower pots break falling sand and gravel blocks.
+When aiming at the side of a transparent block behind or above a crafting table the pot will not be placed on said block but on top of the crafting table instead.
+The first image of flower pots, released by Dinnerbone.
+Five flower pots in a player-created village.

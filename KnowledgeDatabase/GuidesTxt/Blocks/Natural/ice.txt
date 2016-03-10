@@ -1,0 +1,14 @@
+Dec value: 79 Hex value: 4F.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Ice is created in any snow biome, but only on exposed water. Trees or other blocks haning above water will prevent it from turning into ice. Any exposed water in snow biomes will eventually turn into ice, this process happens faster when it snows.
+Ice will cause players and mobs to glide a little when they walk. Any blocks dropped on it will also continue to glide, this property is often used in mini-games, like golf.
+A pickaxe is the fastest tool with which you can break ice, but even using your hands is quite fast. The only way to obtain an ice block is through the use of the silk touch enchantment.
+Breaking ice will turn it into water, but only if there’s another block below it, including other water blocks. Heat sources like torches and activate furnaces will melt the ice around it, causing it to turn into a water block.
+The unique gliding feature of ice offer a lot of potential uses, varying from traps to increased movement speed. The sliding effect of ice allows for the fastest travel in minecraft. By sprinting and jumping over ice, players can travel vast distances in matter of seconds. This is very useful for escaping hostile mobs or even players who are unaware of this trick. Like normal sprinting, this trick will deplete a player’s hunger bar very quickly.
+Riding a pig by using a saddle will also greatly increase the speed of the pig, but because a player is not able to control the pig, some form of pathway will have to be made to make travel a little easier. Using water flows on ice will make for great item transportation systems.
+It will speed up the process and items coming out of the water flow will continue to slide a few blocks before coming to a stop.
+Soul sand’s slowing effect will greatly be increased when it’s placed on ice, which can make for some of the most annoying traps in minecraft.
+Falling through a hole and ending up in a large, slow maze will probably annoy even the most patient people. Placing slabs on ice will cause the sliding effect to be transfered to the slab, which could be used to create hidden escape paths.

@@ -1,0 +1,13 @@
+Dec value: block: 92; item: 354;.
+Hex value: block: 5C; item: 192;.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: Yes.
+Cake is the only food type that can be placed as a block. It can only be eaten by right clicking it after placing it, it’s impossible to eat it while it’s in your hand, like other food. Cake can be eaten up to 6 times. Each time a small slice is removed which heals 1 food bar.
+After everything is eaten the cake will simply disappear completely. .
+Cake will also restore your hunger saturation by 0.4 per bite, which is very low compared to other foods. Cakes cannot be picked up again after placing it. Breaking it will completely destroy it. Oddly enough, cakes cannot be destroyed by water or lava.
+Cakes are made with 3 buckets of milk, 3 wheat, 2 lumps of sugar and 1 egg, making it one of the most complex blocks in minecraft. After creating your first cake you’ll get the “The lie” achievement. The high ingredient requirement also makes it one of the least used food items. Simply killing and cooking a cow or chicken is way faster and heals almost as much as the entire cake.
+However, cake can be eaten instantly without switching your selected item, making it a decent choice to refill your hunger bar during a fight, which could be useful to prevent extra damage from starvation.
+Cakes are most commonly used as decoration, usually as part of a kitchen counter or a party buffet. Cakes have commonly been used as part of adventure maps, usually as the final reward or as part of a joke, which almost always leads to the same punchline “The cake is a lie.”.
+Like slabs and other half blocks, placing cakes on ice will transfer the gliding effect through the cake. This can be used to create a large ice cake skating ring. The speed boost you get by sprinting and jumping on ice is also transferred through the cakes, so cake can be used to create an edible escape path.

@@ -1,0 +1,8 @@
+The Jukebox is an interactive block used to play Music Discs. Music Discs can be obtained as a drop when a Skeleton kills a Creeper, or can be found in dungeon chests. The discs can be ejected by right-clicking.
+Right clicking on a jukebox while a Music Disc is equipped will make it play music corresponding to the type of music disc the player used. Right clicking on the jukebox again will stop the music and eject the disc. Music discs only play once before they must be ejected and reinserted. There are currently 12 types of music discs that can be used on the jukebox. Sound from the jukebox travels roughly 75 blocks, but the distance is apparently different vertically. It supports a range of songs, including Cat and 13.
+It is possible to place torches on Jukeboxes.
+Jukeboxes cannot be moved by pistons.
+Jukeboxes are crafted with the same recipe as a wooden chest, but with a diamond in the middle.
+There once was a glitch where the Jukebox played "Hood Took Me Under" by Compton's Most Wanted/MC Eiht.
+The PS3 Edition's tutorial world contains a Jukebox and all the music disks in the game. Most of the disks are hidden, but the jukebox and one of the disks are located right near where the player starts, in an obvious chest.
+The fact that a Diamond is used to craft a Jukebox is likely a reference to how Phonographs often have Diamond tipped needles.

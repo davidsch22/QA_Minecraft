@@ -1,0 +1,17 @@
+A Note Block is a musical block.
+Note blocks are most quickly broken with an axe.
+Note blocks play a colored musical note when hit or when powered by redstone. A note block must have at least one block of air above it to play a sound. Notes can be heard up to 48 blocks away.
+Note blocks will play when next to a powered block. Each time a note block plays a note, a note particle will fly out of the top, with the color depending on the pitch (but not the instrument).
+Pressing use on the block increases the note pitch up a half step, with a total of two full octaves being available to play for each instrument (bass is two octaves lower than the standard range, giving you four octaves of effective range if you combine instruments). The range of notes span from F♯3 to F♯5. After reaching the highest note, pressing use again resets it back to F♯3, as does breaking the block and picking it back up. The exact pitch to pressing assignment is shown below.
+Note blocks cannot be moved by pistons.
+Alternatively, there is a graphical version available.
+You can roughly check the tuning of a block by looking at the note icon.
+The instrument played depends on the material of the block underneath the note block.
+Note blocks can be powered in a variety of different ways following normal redstone principles, however some ways of powering note blocks are more convenient than others or produce unexpected results. When a note block is powered by a switch on its side it does play but is often very difficult to hear since the sound of the switch activating is so loud.
+ Since note blocks need a space above them, note blocks powered by pressure plates or redstone directly above them do not make a sound.
+Note blocks start at the pitch F♯/G♭, which is unusual since the note has no significance in any known musical instrument.
+The sound files for the note blocks can be found in assets/sounds/note, you can see that the piano sound is named "harp" and also that there is an unused sound called "pling".
+You can tune a note block even if there is a block above it, however the note will not be seen nor will any sound be made.
+Jukebox.
+Minecraft Note Block Studio - A music editor for Minecraft.
+Search YouTube for the many songs played on note blocks.

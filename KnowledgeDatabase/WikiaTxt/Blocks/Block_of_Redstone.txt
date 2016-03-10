@@ -1,0 +1,2 @@
+ A Block of Redstone is a type of decorative and functional block that was added in 1.5 that can be crafted with 9 Redstone Dust. Redstone Blocks have all the properties of a normal block, but they also serve similarly to Redstone Torches, except for the fact that they can be placed on ceilings or float in midair, and that they cannot be shut off.
+Add a photo to this gallery.

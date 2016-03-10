@@ -1,0 +1,11 @@
+Bread is a food item that can be eaten by the player.
+Stacks of bread can be found in several types of naturally generated chests Bonus chests: 2–3 bread per stack.
+Stacks of bread can be found in several types of naturally generated chests Dungeons: 1 bread per stack.
+Stacks of bread can be found in several types of naturally generated chests Mineshafts: 1–3 bread per stack.
+Stacks of bread can be found in several types of naturally generated chests Villages: 1–3 bread per stack.
+Stacks of bread can be found in several types of naturally generated chests Strongholds (slab altars and store rooms): 1-3 bread per stack.
+Villager farmers will sell 2–4 bread for one emerald as part of their initial tier of trades.
+Villager farmers may craft wheat they harvest into bread and throw it at other villagers.
+To eat bread, right-click and hold while bread is selected in the hotbar. Eating bread restores 5 () hunger and 6.0 hunger saturation.
+Bread can be used to make villagers willing to breed by dropping bread so they pick it up. When their inventory fills up, they might throw some bread at other villagers.
+Note: At around 0:19 in the video, the narrator says that bread restores three hunger points. That is not true, as bread restores 5 () hunger.

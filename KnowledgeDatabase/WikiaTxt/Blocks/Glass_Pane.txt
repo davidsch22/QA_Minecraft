@@ -1,0 +1,4 @@
+ Glass Panes are transparent blocks which can be used as an alternative to Glass. Glass panes were released in 1.8. They are also similar to iron bars and fences. Prior to 1.9 Pre-Release 2, when destroyed, the player could pick it up again. .
+They cannot currently be placed horizontally. Glass panes are present in buildings of villages. When placed without anything on the sides of it it will appear in the shape of an ┼ but when something is placed on the sides of it it will become flat or into a ┌ shape or a ┬ shape depending on the items surrounding it. .
+Glass Panes are much brighter than Glass Blocks, thus making them more suitable for high-visibility structures.
+If two glass panes are placed with one empty space in between, a Spider (which is 2 blocks wide) can still fit through.

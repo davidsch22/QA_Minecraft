@@ -1,0 +1,14 @@
+Dec value: 07.
+Hex value: 7.
+Minimum tool requirement to break: Unbreakable.
+Blast resistance: 18,000,000.
+Maximum stack 64 Transparency: No.
+Bedrock is the bottom layer in the Overworld dimension and the top and bottom layer in the Nether. The bedrock layers form the height boundaries of the world, as it’s indestructible, unless you’re in creative mode or if you’re using mods.
+The bedrock layer in the Overworld is 5 blocks thick, though the first 4 layers aren’t completely filled with bedrock, other blocks like stone, dirt or the occasional ore.
+In the Nether both the layers are 4 blocks thick.
+The only bedrock blocks created naturally in minecraft after the creation of the world are in the End. After destroying an Ender crystal, it’ll explode and leave 1 piece of bedrock. After killing the Ender dragon, a bedrock portal will appear on the ground directly under where it was killed, allowing players to get back to the Overworld.
+Void fog can be found on top of the bedrock layer in the Overworld. Void fog is a thick, black fog which lowers the players visibility the lower the player gets, starting from layer 16.
+The only bedrock blocks created naturally in minecraft after the creation of the world are in the End. After destroying an Ender crystal, it’ll explode and leave 1 piece of bedrock. After killing the Ender dragon, a bedrock portal will appear on the ground directly under where it was killed, allowing players to get back to the Overworld.
+Due to its indestructibility, bedrock is often used on multiplayer servers to protect buildings. Strangely, this happens a lot on servers which already have plugins installed to prevent players from destroying any block in specified zones.
+Breaking bedrock will reveal the void, which is nothing more than blue emptiness. Falling into the void will result in death and nothing can be done about it.
+Due to the top layer of bedrock in the Nether is was often thought the Overworld and Nether were connected passed these layers, this isn’t true. The Overworld and the Nether are 2 seperate dimensions, as proven by destroying the bedrock.

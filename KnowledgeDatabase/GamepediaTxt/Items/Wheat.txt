@@ -1,0 +1,8 @@
+Wheat is an item primarily obtained by farming.
+Dungeon chests have a chance to contain wheat in stacks of 1 to 4.
+When a fully grown wheat crop is harvested, it will drop 1 wheat and 0 to 3 seeds. The wheat crop has a total of eight stages from the time it is planted until it can be harvested. If the crop is harvested before it is fully grown, it will only drop seed(s).
+Holding wheat in your hand causes cows, sheep, and mooshrooms that are close by to follow you, until you stop holding the wheat or create too large a distance between them, thus leading them to lose interest.
+Wheat may be used to breed cows, sheep, and mooshrooms by first herding two of them together and then using the wheat on them to begin "Love Mode.".
+Wheat can heal a horse 1 () health or lower its temper by 3% when attempting to tame it. It can also increase a foal's grow by 20 seconds.
+Farmer villagers buy 18-22 wheats for one emerald as part of their first tier trades.
+Wheat is used to make several different types of food, but the benefit you get from each unit of wheat varies widely depending on what you use it for. This chart compares the number of hunger points you can expect to regain for each unit of wheat you use, depending on how you use it.

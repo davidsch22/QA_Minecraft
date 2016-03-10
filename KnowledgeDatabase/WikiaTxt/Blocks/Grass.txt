@@ -1,0 +1,13 @@
+This article is about the solid block, Grass. For tall grass, see Tall Grass.
+ Grass, named Grass Block in the inventory, is a block that was introduced very early in the game. When covered by snow, the side texture is white. On natural maps, grass appears on the topmost blocks of dirt with no fluids or opaque solid blocks above them. Grass blocks can be obtained by mining it with a tool enchanted with Silk Touch.
+In mining, grass behaves just like dirt as it drops dirt resources and is best dug with a shovel; however, it makes a different sound when harvested and takes slightly longer to dig up.
+Grass is one of the first block seen when a player enters a Minecraft World or Minecraft Server. Grass grows spontaneously only during map generation. Afterward, it can only spread from a nearby block. Grass can spread to any immediate adjacent dirt blocks at the same height, including diagonally.
+Sometimes a dirt block will turn into a grass block if there is enough light.
+Dirt can grow into a grass block as quickly as seconds or as long as a few minutes. For a dirt block to grow into a grass block, a grass block must be next to the dirt block.
+Passive Mobs (Pigs, Cows, Chickens, and Sheep) spawn only on grass blocks, with light level 9 or brighter in the space directly above. One can create a farm that will spawn fauna using grass, or exclude passive Mobs from an area by ensuring there is no Grass before 1.8 update.
+Passive Mobs tend to wander towards grass blocks. They also wander towards light, but they ignore light over Grass blocks and prefer them to any light levels below 10.
+Using Bonemeal on a grass block will grow Tall grass and Flowers.
+Despite common misconception, grass will grow onto a block with a torch placed upon it.
+In Survival Test mode, sheep would eat grass to regrow wool on their bodies, reverting it to dirt. Often, the grass would regrow just as quickly as sheep would eat it.
+It is impossible to mine a grass block (when mined it comes out a dirt block) without the Silk Touch enchantment.
+ Grass is one of the first to blocks designed, the other being Cobblestone.

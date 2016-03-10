@@ -1,0 +1,10 @@
+Wheat is an item obtained through farming and crafting. Seeds for growing wheat can be obtained by breaking tall grass (30% chance) or can be found in chests in dungeons. .
+When harvesting wheat, the player will collect 1-2 wheat and 0-3 seeds, which can be replanted to grow more wheat. Creating a wheat field around the player's shelter can be highly beneficial, as it provides a steady source of food (Bread, Cake, etc), and is essential for breeding certain animals, should the player decide to build a farm. Before planting wheat, the user must till the ground with a hoe. Wheat grows most efficiently when planted on a damp tilled dirt block, the 'damp' state is achieved by having a water source within 4 blocks of the tilled dirt block and/or rain.
+Wheat does not appear in the statistics page, as it appears as seeds due to wheat being a re-textured version of seeds when planted.
+1-4 wheat can be found in reward chests in dungeons.
+If you are holding wheat, cows, mooshrooms, and sheep will follow you.
+As of Beta 1.9 Pre-release 2, wheat can be used to breed animals (Sheep and Cows).
+When you click on two animals near each other with wheat, hearts will appear (Sometimes Called Love Mode) and it will make a baby. Although, this doesn't work on all animals, one such animal being the Squid.
+If you use the 'Pick Block' option on a full grown crop,it will give you the 'crops' item. This item is not found in the creative inventory. The crops item is used like seeds so when you place it on tilled dirt, it will grow.
+Villagers have farms which have wheat, potatoes and carrots.
+ Wheat is one of the most common trading items from Villagers.

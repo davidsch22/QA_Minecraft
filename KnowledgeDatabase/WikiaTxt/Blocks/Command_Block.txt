@@ -1,0 +1,22 @@
+The Command Block is a redstone-powered block that was made available in the 1.4 patch for Minecraft. The Command Block will perform server commands when attached to a redstone circuit. This block cannot be crafted and only server administrators are allowed to place them. Command blocks can only be obtained when cheats are activated, and can still only be used in creative mode, preventing survival players in a server from accessing "staff" abilities. Command blocks are invincible outside of creative mode. With Command blocks you can preform commands that players can not preform.
+To get a command block using cheats, type /give @p minecraft:command_block <amount>.
+When attached to a redstone circuit, the Command Block can perform a variety of server commands, such as changing the difficulty or giving players items. There are also gamerules, which are unique commands.
+This table shows the list of gamerules.
+Gamerules are case sensitive.
+You must type in /gamerule before the name of the actual gamerule. true/false tells whether you want to disable the gamerule (false), or enable it (true).
+An example of a gamerule command is /gamerule mobGriefing true.
+This table shows that commands can be restricted to players on the server.
+An example of a command is.
+This command will give the nearest player a stack of Cobblestone.
+Command Blocks can also be used on other entities as of release 1.8, not 1.7. Watch the snapshot videos. They are the 1.8 ones that talk about the @e selector. using the shorthand @e. This can be used to create custom spawners, and therefore is a very useful tool for mapmakers. Here is an example.
+This command  will teleport all entities to the coordinates X=10, Y=64, Z=255.
+You may also check for a specific quality of a Player or Entity.
+This command will teleport the nearest Player in a radius of 10 up 10 blocks.
+You can spawn in a command block with cheats enabled by typing "/give (player name) 137" or /give (player name) "minecraft:command_block".
+ You can spawn mobs that are in the game but cannot be spawned naturally. For Example, /summon Giant ~2 ~ ~ will summon a Giant Zombie 2 blocks away from the command block.
+ If you set the command to /testforblock x y z a open, where x,y,and z are the coordinates of the bottom half of a door, and a is the blockid for the door, by placing a comparator facing away from the command block, you can test if a door is open or shut.
+ Command blocks can hold an unlimited amount of text.
+A Command Block attached to a redstone circuit.
+Items given to a player from a Command Block.
+The interface for a Command Block where the server command can be tested.
+Add a photo to this gallery.

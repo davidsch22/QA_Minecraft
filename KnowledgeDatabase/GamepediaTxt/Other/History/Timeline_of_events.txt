@@ -1,0 +1,191 @@
+This page's purpose is to retrace the history of all events related to Minecraft, Mojang and its employees in a less targeted manner than the different Version history pages.
+29 – Infiniminer is released, a game by Zachtronics Industries (creators of the critically acclaimed 2011 puzzle game SpaceChem), whose concept mainly inspired Notch for Minecraft. It was regularly updated and became open-source less than a month later.
+10 – Development on "Cave Game" started (PC Pre 0.0.0) using RubyDung, an abandoned game project of Notch, and Infiniminer as bases for the code.
+13 – PC : First video of "Cave Game", Block placement, first Mobs (Humans), physics created (Pre 0.0.9a).
+14 – PC : "Cave Game" renamed to "Minecraft : Order of the Stone" after a suggestion by RinkuHero from The Independant Games Wiki on an IRC with Notch, "Minecraft" being an analogy to the famous real-time strategy game StarCraft (Pre 0.0.9a).
+16 – PC : Early private testing, among TIGSource members (0.0.9a).
+17 – First release of the game (PC 0.0.11a). Game name shortened to simply "Minecraft".
+21 – Accounts can now be registered.
+24 – An official Minecraft Forum is opened.
+1 – PC : First Multiplayer test (0.0.15a). Notch starts his new job at Jalbum.
+8 – PC : Multiplayer released (0.0.16a).
+14 – PC : Custom Skins released (0.0.18a).
+4 – PC : First elements of Survival (0.24).
+18 – PC : Introduction of Health (0.24).
+9 – Passwords can now be changed.
+20 – Beginning of SURVIVAL TEST (PC 0.26).
+22 – Hayden Scott-Baron becomes the Minecraft Artist.
+23 – Minecraft PC passes to Indev development stage (Indev 0.31) (which requires a 5.00 € Premium Account to be accessed), introduction of Torches and dynamic lighting.
+13 – PC : Introduction of finite Water (Indev 0.31). Minecraft passes 100,000 registered users.
+21 – Minecraft can now be gifted to non-premium players.
+29 – PC : Introduction of the Crafting system (Indev 0.31).
+5 – Hayden Scott-Baron leaves Minecraft development.
+27 – Minecraft PC passes to Infdev development stage, introduction of infinite maps.
+1 – Notch gets back to work 100% on Minecraft after a pause after having left his job at Jalbum a few weeks before.
+17 – Minecraft passes 20,000 sales.
+18 – PC : Seecret Friday Update 1 released. Minecart system introduced.
+25 – PC : Seecret Friday Update 2 released. Dungeons introduced.
+30 – Minecraft PC passes to Alpha development stage (Alpha 1.0.0), price raised from 5.00 € to 10.00 €, it is now possible to play on a client window.
+3 – PC : Seecret Friday Update 3 (Alpha 1.0.1) released. Redstone introduced.
+9 – PC : Seecret Friday Update 4 (Alpha 1.0.4) released. Winter Mode introduced.
+16 – PC : Seecret Friday Update 5 (Alpha 1.0.6) released. Boats and Large Trees introduced.
+22 – PC : First over-the-internet test of Survival Mode Multiplayer.
+23 – PC : Seecret Friday Update 6 (Alpha 1.0.11) released. Bricks and Slimes introduced.
+30 – PC : Seecret Friday Update 7 (Alpha 1.0.14) released. Chickens and Music Discs introduced.
+4 – First release of Survival Multiplayer (PC Alpha 1.0.15).
+20 – PC : Seecret Friday Update 8 (Alpha 1.0.17) released. Fences introduced.
+30 – Notch, JahKob and Carl Manneh get on an employment trip to Washington D.C. offered by VALVe Corporation.
+30 – Original Herobrine creepypasta is created.
+31 – Minecraftcon, a spontaneous gathering of over 50 fans after a call by Notch, is held in Bellevue, Washington.
+2 – Notch, JahKob and Carl Manneh return from the trip in the U.S.
+10 – PC : Seecret Friday Update 9 (Alpha 1.1.0) released. Compasses introduced.
+13 – Daniel "Kappische" Kaplan joins the Mojang team.
+18 – PC : Seecret Saturday Update 10 (Alpha 1.1.1) released. Sneaking introduced. Minecraft technically becomes free-to-play for the weekend, due to the login server not working correctly.
+23 – Minecraft Classic is available again on Minecraft.net.
+16 – Mojang AB is founded.
+30 – PC : Alpha 1.2.0 "Halloween Update" released. Nether introduced.
+1 – Jens "Jeb" Bergensten and "Junkboy" join the Mojang team.
+16 – Gift system revised : the process now uses Gift Codes.
+20 – Minecraft PC passes to Beta development stage (Beta 1.0), price raised from 10.00 € to 15.00 €.
+22 – PC : Beta 1.1 released.
+3 – Tobias Möllstam and Carl Manneh join the Mojang team.
+12 – Minecraft surpasses 1 million sales.
+13 – PC : Beta 1.2 released.
+21 – PC : Client/Launcher Update. Updates are now manually triggered.
+22 – PC : Beta 1.3 released.
+2 – Scrolls, Mojang's second game, is announced on The Word of Notch.
+4 – "Minecraft - Volume Alpha", the soundtrack of the game by C418, is released.
+31 – PC : Beta 1.4 released.
+19 – PC : Beta 1.5 released.
+25 – Kappische reveals Minecraft: Pocket Edition on Mojang's site.
+26 – PC : Beta 1.6 released.
+1 – Minecraft: Pocket Edition is first shown on a Youtube video.
+6 – Microsoft reveal Minecraft: Xbox 360 Edition at the E3 conference.
+30 – PC : Beta 1.7 "Piston Update" released.
+1 – Minecraft passes 10 million registered users.
+30 – Minecraft T-shirts are made available on Battlefield Heroes for the 30-31 of July week-end only as a form of "neighborly friendly cross-promotion" between DICE and Mojang.
+5 – Notch receives a 15-page letter from Bethesda Softworks, threatening him with a lawsuit if he doesn't change the name "Scrolls" (which is too close to "The Elder Scrolls", according to Bethesda) for his next game. A little while before this, Notch had already been warned by Bethesda's lawyers about this problem, and had suggested a compromise in which he would never put any word before "Scrolls".
+8 – Henrik "Carnalizer" Pettersson joins the Mojang team.
+14 – Marriage of Ez & Notch, an extra copy is offered to all people who purchase Minecraft on the 13th and 14th of August.
+16 – Minecraft: Pocket Edition Alpha 0.1.0 officially released (Android only).
+14 – PC : Beta 1.8 "Adventure Update" released.
+13 – PC : "Sound Update" released.
+17 – PE : First iOS release (Alpha 0.1.2).
+18 – MineCon 2011 is held at Mandalay Bay, Las Vegas, Nevada. Over 4,500 people from 24 countries attend to it. On the same day, Minecraft PC 1.0.0 is officially released, price is now 20.00 €.
+24 – First Snapshot released (11w47a). This marks the beginning of weekly development versions.
+1 – Jeb becomes the lead developer on Minecraft.
+6 – Notch first evokes the possibility of Minecraft-themed LEGO sets as part of the LEGO CUUSOO project.
+28 – Jon Kågström is hired by Mojang.
+12 – PC : 1.1 released.
+18 – As part of the worldwide protest against SOPA, Mojang establishes a blackout on all their sites for the entire day.
+24 – LEGO announces that the LEGO Minecraft project has passed the 10,000 required votes.
+11 – PE : Alpha 0.2.0 released for Android.
+15 – LEGO reveals the final design of the first LEGO Minecraft set.
+17 – PE : Alpha 0.2.0 released for iOS.
+18 – "Catacomb Snatch", a game developed by Mojang in the span of a weekend as part of a charity project, is released.
+28 – The Bukkit team (composed of Nathan "Dinnerbone" Adams, Warren "EvilSeph" Loo, Erik "Grum" Broes & Nathan "Tahg" Gilbert) officially joins Mojang in order to further develop the Minecraft server software and to aid with the creation of modding APIs.
+1 – PC : 1.2.1 released (1.2 was skipped for practical purposes).
+12 – The "Elder Scrolls vs. Scrolls" lawsuit has an outcome : Mojang can call their game "Scrolls", but no sequel using this name will be allowed.
+23 – PE : Alpha 0.3.0 released for iOS.
+24 – PE : Alpha 0.3.0 released for Android.
+9 – Minecraft: Xbox 360 Edition 1.0 officially released.
+1 – "Micro World", the first LEGO Minecraft set, is released (coincidentally with Notch's birthday) and available on the LEGO online shop.
+13 – XB : 1.1 released.
+16 – XB : Skin Pack 1 released. It includes 45 skins inspired by Minecraft, "Halo", "Fable" and "Gears of War" amongst others as well as new skin designs.
+18 – XB : Summer Of Arcade Promotional Skin Pack was made available through August 22, 2012. It included 15 skins inspired by various arcade games such as "Tony Hawk's Pro Skater" and "Deadlight".
+1 – PC : 1.3.1 released (1.3 was skipped for practical purposes).
+2 – MineCon 2012 is officially announced on a promotional video to be in Disneyland Paris on November 24–25.
+15 – Notch and Ez divorce.
+24 – XB : Skin Pack 2 released. It includes 45 skins inspired by Minecraft, "Left 4 Dead", "Perfect Dark" and "Gears of War" amongst others as well as new skin designs.
+6 – PE : Alpha 0.4.0 released for both iOS & Android.
+16 – XB : 1.2 released.
+17 – XB : Skin Pack 3 released. It includes 45 skins inspired by Minecraft, "Half-Life", "Portal" and "Left 4 Dead" amongst others as well as new skin designs.
+24 – Mojang starts the Minecraft Bug Tracker, an online tool that simplifies the communication of found game issues between the players and the developers.
+25 – PC : 1.4.2 "Pretty Scary Update" released (1.4 & 1.4.1 were skipped for practical purposes).
+26 – XB : Halloween Skin Pack was made available through November 26, 2012. It included 55 Halloween-themed skins, including 7 with capes.
+6 – Minecraft gift cards are available in physical stores in the US. This is the first time Minecraft can be bought without a credit card.
+15 – PE : Alpha 0.5.0 released for both iOS & Android.
+24 – MineCon 2012 is held at Disneyland Paris, France.
+25 – Second day of MineCon 2012. MineCon 2012 capes released. Minecraft 1.5, also known as "The Redstone Update" is announced.
+19 – XB : 1.3 released. Festive Skin Pack was also made available and includes 24 Christmas-themed skins.
+20 – PI : Minecraft: Pi Edition Alpha 0.1 unofficially released.
+30 – PE : Alpha 0.6.0 released.
+11 – Minecraft: Pi Edition Alpha 0.1.1 officially released.
+13 – PC : 1.5 "Redstone Update" released.
+13 – XB : Skin Pack 4 released. It includes 45 skins, some with capes.
+1 – PC : Minecraft 2.0 announced as an April Fools joke.
+4 – XB : TU9 released.
+5 – Minecraft for PC surpasses 10 million sales.
+8 – XB : Battle & Beasts Skin Pack released. It includes 45 skins.
+9 – XB : Minecraft 1st Birthday Skin Pack was made available through May 31, 2013. It included 23 skins.
+5 – PE : Alpha 0.7.0 released.
+10 – XB : Minecraft: Xbox One Edition is announced during Microsoft's press conference at E3.
+1 – PC : 1.6.1 "Horse Update" released (1.6 was skipped for practical purposes).
+31 – MineCon 2013 tickets went on sale.
+31 – XB : Skin Pack 5 released. It includes 45 skins.
+6 – More MineCon 2013 details were announced.
+20 – Minecraft was announced for the PlayStation 3, PlayStation 4, and PlayStation Vita. The PS4 edition will be released on the same day the PS4 gets released for North America (November 15), and Europe, Australia, and Latin America (November 29).
+23 – XB : 1.5 released.
+2 – Minecraft for PC surpasses 12 million sales.
+4 – XB : Mass Effect Mash-up Pack released.
+2 – XB : Plastic Texture Pack released.
+9 – XB : Battle & Beasts 2 Skin Pack released. It includes 45 skins.
+18 – XB : Natural Texture Pack released.
+25 – PC : 1.7.2 "The Update that Changed the World" released (1.7 & 1.7.1 were skipped for practical purposes).
+2–3 – MineCon 2013 is held at Orange County Convention Center, Orlando, Florida.
+20 – XB : Skyrim Mash-up Pack released.
+11 – XB : Fantasy Texture Pack released.
+12 – PE : Alpha 0.8.0 released for both iOS & Android.
+13 – Minecraft for PC surpasses 13 million sales.
+17 – Minecraft: PlayStation 3 Edition 1.0 officially released.
+19 – Minecraft Realms Beta has launched.
+23 – XB : Marvel Avengers Skin Pack released. It includes 35 skins.
+9 – First snapshot of Minecraft 1.8 is released.
+26 – PC : Minecraft 1.7.5 is released.
+27 – Minecraft Realms is launched in Nordic countries.
+26 – Console : Minecraft Title update 14 is released.
+27 – Console : Minecraft version 1.04 is released along with, Skin Packs: Skin pack 1, battle and beasts skin pack as well as Texture Packs: City and Plastic texture packs all released as available DLC.
+1 – Villagers have taken over Minecraft and Skins cannot be changed throughout the day.
+1 – Minecraft Realms is launched in Canada.
+2 – Minecraft: Pocket Edition released for the Amazon Fire TV.
+11 – PC : Minecraft 1.7.8 is released.
+14 – PC : Minecraft 1.7.9 is released.
+24 – Minecraft Realms is launched in the United States.
+6 – Minecraft Realms is launched in more countries in Asia and Europe.
+9 – Minecraft Realms is launched in the Oceania region.
+19 – Minecraft Realms is launched globally in all remaining countries.
+26 – PC : Minecraft 1.7.10 is released.
+10 – PE : Alpha 0.9.0 released.
+2 – PC : Minecraft 1.8 "The Bountiful Update" is released.
+15 – Mojang and Minecraft are acquired by Microsoft for $2.5 billion.
+14 – Console : Minecraft released for PlayStation Vita.
+5 – The founders of Mojang AB – Markus Persson, Jakob Porsér and Carl Manneh – leave the company.
+18 – PE : Minecraft Alpha 0.10.0 released for the Pocket Edition.
+24 – PC : Minecraft 1.8.1 is released.
+10 – PE : Minecraft: Pocket Edition is released for Windows Phone.
+12 – PC : New Minecraft Launcher released, utilizing a native Java application and an installer that runs in the C:\Program Files\Minecraft directory.
+18 – Mojang announced that they will collaborate with Telltale Games to create a new Minecraft spin-off game called Minecraft: Story Mode.
+18 – Console : Minecraft TU19 and CU7 released on Xbox 360 Edition and Xbox One Edition respectively.
+20 – Console : Minecraft 1.12 released on all PlayStation Editions.
+23 – Console : Minecraft TU20, CU8, and 1.13 released on 360, One, and all PlayStation Editions, respectively.
+29 – Ryan Holtz leaves Mojang.
+2 – Minecon 2015 is announced for July 4–5.
+4 – PC : Mojang releases the ability to change your Minecraft username.
+11 – Console : Minecraft TU21, CU9, and 1.14 released on 360, One, and all PlayStation Editions, respectively.
+19 – PC : Minecraft 1.8.2 is released.
+20 – PC : Minecraft 1.8.3 is released.
+25 – Console : Minecraft CU10 released on Xbox One Edition.
+27 – Console : Minecraft TU22 released on Xbox 360 Edition.
+12 – Minecraft: Console Edition wins a BAFTA Games Award in the family category.
+25 – Console : Minecraft TU23, CU11, and 1.15 released on 360, One, and all PlayStation Editions, respectively.
+28 – Minecraft wins a Kids' Choice Award for "Most Addicting Game".
+1 – PC : Snapshot 15w14a for Minecraft 1.10 is announced as an April Fools joke.
+17 – PC : Minecraft 1.8.4 is released.
+29 – Console : Minecraft TU24, CU12, and 1.16 released on 360, One, and all PlayStation Editions, respectively.
+14 – Console : Minecraft CU13 released on Xbox One Edition.
+22 – PC : Minecraft 1.8.5 is released.
+25 – PC : Minecraft 1.8.6 is released.
+30–31 – Mojang gave away 12,000 2-week Realms trials.
+4 – PE : Minecraft Alpha 0.11.0 released for the Pocket Edition.
+5 – PC : Minecraft 1.8.7 is released.
+15 – First demonstration of Minecraft for Microsoft HoloLens at E3 2015 press conference.

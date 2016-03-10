@@ -1,0 +1,10 @@
+Stone is a block found in abundance in the Overworld.
+Stone requires a pickaxe to be mined, in which case it will drop cobblestone. When mined without a pickaxe, it will drop nothing. If stone is mined with a Silk Touch enchanted pickaxe, it will drop itself.
+Stone makes up the majority of the solid blocks generated. When chunks generate, stone can be found under layers of grass and dirt in most biomes. It can also be seen exposed at the side of mountains in extreme hill biomes.
+When the world is generating new chunks, some stone becomes ore, and almost every cavern and mineshaft will generate at stone level.
+Stone can also be made by lava flowing on top of water, where the water will be replaced.
+Silverfish have the ability to enter and hide in stone, creating a monster egg.
+Stone has the ID name minecraft:stone, which it shares with andesite, diorite, and granite, differentiated by its block data. Stone also has a block state which is expected to replace the functionality of block data in a future version.
+Stone is presumably an igneous rock, due to the fact it is formed by the rapid cooling of magma.
+The side of a circle cave, made of stone.
+The various types of stone since the Bountiful Update.

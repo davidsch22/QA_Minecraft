@@ -1,0 +1,5 @@
+ Cameras are Blocks that were only used in the Minecraft Pocket edition. The cameras were deleted in Minecraft 1.0.0, for the reason that creepers spawned on it when it took a picture. The picture that the camera takes has some smoke near the bottom. Rumors had circulated claiming that the camera would be used for taking screenshots. Instead, the F2 key is used to take screenshots in Minecraft PC, and in Minecraft PE, there is no current function (except just taking a screenshot from the device). They were officially removed from the Pocket Edition after 0.9.0 although it can be retrieved via inventory editors.
+Texture file found in Pocket Edition.
+Minecraft Camera.
+Another picture of the camera.
+Add a photo to this gallery.
