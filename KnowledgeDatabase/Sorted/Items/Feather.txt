@@ -1,0 +1,4 @@
+Feathers are items dropped by chickens.
+Chickens may drop 0-2 feathers when killed.
+In Pocket Edition zombies may drop 1 feather when killed.
+Feathers are used to make arrows. They are also used to make a book and quill and firework effect (Burst explosion).

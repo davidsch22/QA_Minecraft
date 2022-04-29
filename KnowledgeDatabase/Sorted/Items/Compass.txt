@@ -1,0 +1,11 @@
+Compasses are an item used to point to the world spawn.
+Compasses can be found in chests in stronghold libraries.
+A single compass can be bought from a librarian villager for 10 to 12 emeralds as part of their tier 2 trades.
+The compass needle points towards the world spawn point. The compass will point to spawn when viewed in any way, including as a dropped item, in a player's hand, in an inventory or the crafting table, or in an item frame. The direction the needle points is relative to the player who is viewing it.
+In the Nether or the End, the compass' needle will spin wildly and point in random directions.
+A compass can be viewed under the item statistics page, as long as one has made a compass at some point in the past.
+A compass points to the northwest corner of a block, not the middle. This is because the spawn area is centered around this point, not a block.
+Using /setworldspawn to change the world spawn will change where the compass points to.
+Purchasing a Compass.
+Clock.
+Navigation.

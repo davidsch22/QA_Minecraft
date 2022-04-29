@@ -10,3 +10,7 @@ If you are not close to a jungle and do not have a cocoa bean farm, cocoa beans 
 Cookies were the only stackable food when at the time of their introduction in Beta 1.4.
 As of 1.3.1, Cookies are now easier to make because of Cocoa Bean's farming mechanics.
 Cookies can sometimes be obtained from Trading with Villagers.
+Cookies are a food that are easily obtainable, but do not restore a lot of hunger or saturation.
+Villager farmers will trade 6 cookies for 1 emerald as part of their tier 4 trades.
+Cookies can be eaten to restore 2 () and 0.5 saturation.
+Trading for cookies.

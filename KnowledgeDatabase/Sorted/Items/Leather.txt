@@ -1,0 +1,5 @@
+Leather is a versatile crafting material.
+Cows drop up to 2 pieces of leather upon death.
+Horses drop up to 2 pieces of leather upon death.
+Leather can be obtained as a "junk" item from fishing.
+Leatherworker villagers will buy 9-12 leather for an emerald.

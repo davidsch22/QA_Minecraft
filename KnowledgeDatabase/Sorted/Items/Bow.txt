@@ -1,0 +1,24 @@
+A bow is a ranged weapon that fires arrows.
+Skeletons have a 8.5% chance of dropping a bow on death when killed by the player. The chance of dropping a bow is increased by 1% per level of looting, allowing up to a 11.5% chance of dropping.
+Fletcher villagers will trade a bow for 2 to 3 emeralds as part of their tier 2 trades.
+Bows have a chance of being caught by fishing as part of the treasure category. When caught, the bow may be damaged and contain random enchantments equivalent to a level 30 enchantment from an enchantment table.
+Bows can be drawn back by using it. In order to use the bow, you must have at least one arrow in your inventory, or be in creative mode. While the bow is being charged or remains fully charged, the player is forced to move at sneak speed, unless they are riding a horse, or are in a minecart or boat at the time, which causes no speed decrease.
+Charging the bow to its maximum causes it to visually shake as an indicator, and releases an arrow with a white sparkling effect, signifying a critical hit. At minimum charge, the arrow will deal 1 () and barely travel a block. At full charge, the arrow travels up to 64 blocks upwards, flies with a speed of roughly 53 m/s, and consistently deals 9 () damage, with a 1/5 of chance of dealing 10 (), therefore the most powerful weapon in the game. If the arrow hits another player, it will make a high pitched "ding" sound.
+Damage caused by the arrow is unaffected by the strength status effect.
+Endermen cannot be shot using an arrow, as the arrow will either disappear as the enderman teleports, or it will become deflected. An arrow shot from a bow enchanted with Flame I can ignite the enderman, however.
+Bows can receive five different enchantments, and have a base enchantibility of 1. Bow enchantments have no effect on arrow speed or distance.
+Power increases the damage by 25% times the level of power plus 1, up to a maximum of level V. A power V bow will deal a maximum of 25 ( × 12.5).
+Punch will increase the knock back (+4 blocks per level) applied by the bow, up to a maximum level of II.
+Flame will ignite the arrow, causing it to likewise ignite any entities it hits. If not extinguished, the fire damage will do up to 5 (). Flame will also allow the player to ignite TNT from a distance. There is only 1 level of flame.
+Infinity allows you to fire the bow without consuming any arrows. A single arrow is still required to fire. Fired arrows shot from an infinity enchanted bow cannot be retrieved if they land on the ground. There is only 1 level of infinity.
+Unbreaking causes a 100 divided by the level of unbreaking plus 1 chance of taking any damage. Unbreaking has a maximum level of III.
+As arrows are affected by gravity, they take an arcing path over distances. One must aim above the target when firing from a distance, or gain higher ground, to effectively make a hit. Arrows will slow down if shot through water.
+Arrows that hit solid blocks will become stuck and can be recollected, unless the arrow was shot by a bow enchanted with Infinity, a player in creative mode, or a skeleton.
+Arrows shot through lava will ignite, similar to the flame enchantment. The arrow will likewise ignite any entities it hits. If not extinguished, the fire damage will do up to 5 ().
+Arrows from bows can trigger wooden pressure plates and wooden buttons. However, they cannot trigger stone pressure plates or stone buttons.
+Arrows seem to mostly fly slightly to the right of where the player is aiming; this may be because the crosshair is slightly off-centered upwards and to the left by one pixel in the .png it is drawn in, although not enough to affect aim. This can be fixed in a resource pack.
+Riding a minecart and charging a bow use the same arm animations.
+If you enchant a bow with a level 1 enchantment, it will always get Power I.
+The bow is held slightly different to other tools.
+Once landed, arrows will move slightly towards the player. The reason is unknown.
+Bow animation.

@@ -1,3 +1,0 @@
-A slimeball is an item dropped by slimes.
-Tiny slimes drop 0-2 slimeballs when killed.
-Slimeballs are obtainable through inventory editing in Pocket Edition, but are completely useless.

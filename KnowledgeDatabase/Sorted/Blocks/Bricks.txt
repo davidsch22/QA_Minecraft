@@ -6,3 +6,9 @@ Bricks are usually used for houses because wood burns.
 A single Brick.
 Fireplace built with bricks.
 Add a photo to this gallery.
+Bricks are a decorative building block.
+Bricks can be mined using any pickaxe. If mined without a pickaxe, it drops nothing.
+Bricks have the same blast resistance as other stone-based blocks, so it can be used as a durable building block.
+Clay.
+Clay (block).
+Nether brick.

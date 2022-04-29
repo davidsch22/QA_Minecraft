@@ -1,0 +1,3 @@
+Clay is the item obtained from clay blocks used for crafting or making bricks.
+Clay is obtained when a clay block is broken with a non-silk touch tool. Each block yields four clay balls.
+Clay can be crafted back together to form clay blocks or baked in a furnace to create bricks.
