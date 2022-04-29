@@ -1,3 +1,4 @@
+from distutils.file_util import write_file
 import os
 import pandas as pd
 
@@ -20,15 +21,19 @@ def main():
 
     for fileName in duplicates['FileName'].unique():
         file_dup = duplicates[duplicates['FileName'] == fileName]
-        sources = file_dup['RootFolder'].unique()
-        if len(sources) < file_dup.shape[0]:
-            for source in sources:
-                source_files = file_dup[file_dup['RootFolder'] == source].reset_index(drop=True)
-                if source_files.shape[0] > 1:
-                    path = source_files['DirPath'][1] + "/" + source_files['FileName'][1]
-                    os.remove(path)
-        if file_dup['RootFolder'].unique() > 0:
-            pass
+        write_path = ""
+        read_path = ""
+        for i in range(file_dup.shape[0]):
+            path = file_dup['DirPath'][i] + "/" + file_dup['FileName'][i]
+            if "Sorted" in path:
+                write_path = path
+            else:
+                read_path = path
+        with os.open(write_path, 'a') as write_file:
+            with os.open(read_path, 'r') as read_file:
+                lines = read_file.readlines()
+                write_file.writelines(lines)
+        return
 
 if __name__ == "__main__":
     main()
