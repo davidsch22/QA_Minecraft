@@ -13,7 +13,7 @@ porter = PorterStemmer()
 tf_idf = pd.DataFrame(dtype='float64')
 
 
-def tokenize_line(line) -> list:
+def tokenize_line(line: str) -> list:
     tokens = nltk.word_tokenize(line)
     stemmed = []
     for token in tokens:
@@ -43,26 +43,30 @@ def preprocess_kd():
     N = tf.shape[1]
     idf = tf.apply(lambda row: math.log(N / (row[row > 0].shape[0]+1)), axis=1)
     tf_idf = tf.mul(idf, axis=0)
-    print(tf_idf.describe())
 
 
-def preprocess_questions(questions: pd.DataFrame) -> tuple[pd.Series, pd.DataFrame]:
-    totals = questions.iloc[0]
-    questions = questions.drop(0).reset_index(drop=True)
-    
-    q_processed = questions.applymap(lambda x: tokenize_line(x), na_action='ignore')
-    
-    return totals, q_processed
+def answer(q: str) -> str:
+    tokens = tokenize_line(q)
+    good_tokens = tf_idf.index.intersection(tokens)
+    best_docs = tf_idf.loc[good_tokens].sum(axis=0).nlargest(5).index.to_list()
+    print(best_docs)
+    return ""
 
 
 def main():
     preprocess_kd()
     
-    # questions = pd.read_csv('QuestionsCorpus/AllQuestions.csv', sep=';')
-
-    # totals, q_processed = preprocess_questions(questions)
+    questions = pd.read_csv('QuestionsCorpus/AllQuestions.csv', sep=';')
+    totals = questions.iloc[0]
+    questions = questions.drop(0).reset_index(drop=True)
     # print(totals)
-    # print(q_processed)
+    # print(questions)
+
+    row = 0
+    cat = 'Recipe'
+    q = questions.loc[row, cat]
+    print("Q:", q)
+    print("A:", answer(q))
 
 
 if __name__ == "__main__":
