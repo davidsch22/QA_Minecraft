@@ -30,10 +30,5 @@ Chicken jockeys can spawn from zombie spawners.
 The wither will attempt to attack the chicken being ridden by the zombie, however the zombie will also take damage even though it is an undead mob.
 Adult zombie and zombie pigmen can also control a chicken while riding on it, though they do not naturally spawn on chickens.
 Chickens can still lay eggs while being ridden before 14w02a.
-Chicken Jockey named Dinnerbone.
-Baby villager chicken jockey.
-Zombie Pigman Chicken Jockey.
-The chicken hitbox below the zombie.
 Hitting from below leaves the zombie unharmed.
-The four variations of Chicken Jockeys using Grumm or Dinnerbone name tags.
 The zombie on the Chicken Jockey has picked up an egg that the chicken laid. (Note: Chicken Jockeys no longer lay eggs).

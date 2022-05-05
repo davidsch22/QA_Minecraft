@@ -1,27 +1,29 @@
 import os
 import math
+import re
 import string
 import nltk
-import spacy
 import pandas as pd
 import numpy as np
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from textblob import TextBlob
+from sentence_transformers import SentenceTransformer
+from sklearn.metrics.pairwise import cosine_similarity
 
 categories = ["blocks", "items", "mobs", "gameplay"]
 stop_words = set(stopwords.words('english'))
 stop_words = stop_words.union(set(string.punctuation))
 porter = PorterStemmer()
 
-embeddings = spacy.load('en_core_web_lg')
+model = SentenceTransformer('bert-base-nli-mean-tokens')
 
 
 def tokenize_line(line: str) -> list:
     tokens = nltk.word_tokenize(line)
     stemmed = []
     for token in tokens:
-        if token.lower() not in stop_words:
+        if token.lower() not in stop_words and re.search('[A-Za-z]', token) != None:
             stemmed.append(porter.stem(token))
     return stemmed
 
@@ -51,14 +53,6 @@ def preprocess_kd():
         tf_idf.to_csv('tf_idf_tables/tf-idf-' + category + '.csv')
 
 
-def cos_similarity(s_vec: np.ndarray, q_vec: np.ndarray):
-    return np.dot(s_vec, q_vec) / (np.linalg.norm(s_vec) * np.linalg.norm(q_vec))
-
-
-def embeddings_similarity(sentence: str, q: str):
-    return cos_similarity(embeddings(sentence).vector, embeddings(q).vector)
-
-
 def answer(category: str, q: str) -> str:    
     tf_idf = pd.DataFrame(dtype='float64')
     tokens = tokenize_line(q)
@@ -82,10 +76,11 @@ def answer(category: str, q: str) -> str:
             doc_txt = "\n".join(doc_txt)
             blob = TextBlob(doc_txt)
             sentences.extend(blob.raw_sentences)
-    sentences = pd.Series(sentences)
-    similarities = sentences.apply(lambda x: embeddings_similarity(x, q))
-    print(similarities.describe())
-    return sentences[similarities.idxmin()]
+
+    sentence_embeddings = model.encode(sentences)
+    q_vec = model.encode([q])
+    similarities = cosine_similarity(q_vec, sentence_embeddings)
+    return sentences[similarities.argmin()]
 
 
 def main():
