@@ -1,0 +1,14 @@
+An ender crystal is an entity found in the End.
+Ender crystals are found atop the many obsidian pillars in the End.
+Their primary purpose is to recharge the health of the ender dragon, who will charge from the nearest crystal within a cuboid extending 32 blocks from the dragon in all directions. The dragon is healed 1 () each half-second. An ender crystal can heal multiple ender dragons at the same time. The healing beam is neither obstructed nor is its power diminished by entities or blocks.
+When attacked, even by attacks that normally deal zero damage, they will explode. The ender crystal's explosion is the same power as a charged creeper, 50% more powerful than TNT. Any ender dragon charging from the crystal when it is destroyed will take 10 () damage.
+The base appears to be made of bedrock, with a crystal hovering over it. While in the End a crystal will continually generate fire at its current position, one block above the base (directly on top of the block the base is embedded in), replacing any other block at that location. The ender crystal entity is not solid and can be walked through freely. Ender dragons will pass through the crystal with impunity.
+Ender crystals can be pushed by pistons, but if they are moved while in live fire they will catch fire and explode.
+Placing water above one using a bucket will cause a looping effect, where the fire is continuously put out and reinitialized as the water attempts to flow down and is stopped. The water will not spread, as it can flow downward, but is prevented by the reoccurring fire instantly taking its place.
+Since fire is only checked when an entity moves, ender crystals do not normally take damage from their own fire.
+Oftentimes, the fire will stay after an ender crystal blows up.
+An ender dragon being hit with the "healing beam" of an ender crystal.
+An ender crystal.
+An example of the ender cystal water trick explained in the trivia section.
+An ender crystal in the Overworld.
+An end portal decorated with ender crystals (done by killing an ender dragon spawned in a Superflat world using /summon, then using the same command to spawn the crystals.

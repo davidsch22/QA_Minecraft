@@ -1,0 +1,12 @@
+ Wood is a crucial base resource in the Minecraft found in trees. All of the beginning game-play (in Survival Mode) relies on this very important resource, as the player must start from harvesting wood in order to make any progress. Wood is collected from trees, and there are several different kinds (they vary from biome to biome), but to all intents and purposes, they will all do the same thing. Wood can catch and spread fire in an instant, so it is a good idea to be cautious when using flint and steel or lava near wood. Charcoal may be crafted from wood by smelting a piece of wood in the furnace.
+The process of gathering wood is commonly known as 'punching trees.'.
+Wood is a key resource during all the stages of the game. It can be crafted into wooden planks and then sticks, which are used to make tools. You can grow cocoa beans on jungle logs.
+Birch Wood - White wood with black streaks.
+Spruce Wood - Dark wood.
+Oak Wood - Regular wood.
+Jungle Wood - Regular wood turned sideways, with some green mixed in.
+Dark Oak Wood - Dark regular wood.
+Acacia Wood - Red inside, grey bark.
+When leaves are not touching wood, they will disappear, as of update 1.4.
+When the game was first created, there was only one type of wood. Birch and Spruce were added in Alpha, Jungle wood was added in 1.2, and Acacia, and Dark Oak was added in 1.7.2.
+Wood is widely considered to be the most important material in Minecraft.

@@ -1,0 +1,10 @@
+ A Ladder is a wooden block used for climbing walls and blocks either vertically or horizontally. .
+Ladders allow the player to climb vertical surfaces. The player must place them vertically on a block. After it is placed, it can be climbed by pressing the 'forward' button while touching the ladder. Ladders can be built with 7 sticks, by building the form of a ladder in the Crafting Table. You get three ladders every time you craft it. .
+Ladders occur naturally in Strongholds, library rooms, and intersection rooms with a wooden ceiling. Ladders can also be found in NPC Villages, specifically, in tall buildings and houses with roofs which have fence railings.
+Like torches, a ladder occupies one block from the side on which it is placed and cannot be placed on glass, leaves, Ice, or Glowstone Blocks. Unlike torches, however, they resist water and will create an air pocket, like Signs. They also resist lava, and can be used instead of glass to let lava light shine through a ceiling. If you place a ladder in lava or water just on the ground not near a wall, the air pocket will be present but invisible.
+Placing ladders on snow layers make the ladder invisible but they still act as if you placed them normally.
+If you place a bucket of water in a place occupied by a ladder with no other blocks next to it, the water will replace the ladder and you will not get the ladder back.
+Attempting to place a ladder on a spot another ladder occupies may instead place the ladder somewhere near by.
+It is possible to remove a ladder while standing on a ladder and holding the sneak key, but it can take a long time because the countdown for breaking the ladder often resets.
+Ladders one block higher than the ground level the player is on can only be reached by jumping up.
+Some mobs are able to climb ladders.

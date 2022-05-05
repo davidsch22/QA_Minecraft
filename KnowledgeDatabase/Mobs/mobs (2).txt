@@ -1,0 +1,43 @@
+ Mobs are the creatures in minecraft. They’re able to move and interact on their own, though the input of a player could change their behavior. We generally divide all the mobs into 4 categories, passive, neutral, hostile (aggressive) and boss mobs. However, further division is possible, like player created, tamable, breed-able, dimension specific mobs and more.
+Minecraft has various types of mobs, ranging from a passive chicken to a large, hostile Ender dragon. There are currently 31 different mobs in minecraft, excluding all the baby versions and tamed versions of mobs. Most of these mobs can be found in the Overworld, though some are unique to the End or the Nether.
+Passive mobs are harmless, they will never attack a player, even if the player attacks them. Passive mobs are mainly used as a source of resources, like meat, leather and feathers.
+– Bats.
+– Rabbits.
+– Chickens.
+– Cows.
+– Mooshrooms.
+– Ocelots.
+– Pigs.
+– Sheep.
+– Squid.
+– Villagers.
+Neutral mobs start out in a passive state, but they’ll attack the player if they’re provoked in a specific way. Each mob is provoked in a different way.
+– Endermen.
+– Wolves.
+– Zombie Pigmen.
+Hostile mobs will attack any player within their specific range. They will continue to try to attack the player until either one of them is dead or until the player has moved out of range again.
+– Blazes.
+– Cave Spiders.
+– Creepers .
+– Ghasts.
+– Magma Cubes .
+– Silverfish .
+– Skeletons .
+– Slimes .
+– Spiders.
+– Spider Jockeys.
+– Zombies.
+There’s currently two boss mobs in minecraft, though more may be implemented in the future. Boss mobs are much stronger and move and attack in specific ways. Only 1 boss mob will be spawned per world, though more could be spawned in through mods.
+– Ender Dragon.
+– Wither.
+Player created mobs are mobs which can, but not always are, created by players. Player created mobs can be used as a tool, though they won’t follow you like a tamed wolf or ocelot will.
+– Iron Golems.
+– Snow Golems.
+Each mob behaves in a specific way, some may behave like other mobs, but many mobs have unique abilities. For more detailed behavioral patterns, please check the mob’s individual guide. Most mobs will not move at all if no player is within 32 blocks of them. They’ll simply stand in place and look around. All mobs, with the exception of the Ender dragon can be placed in a minecart, though some of them can be almost impossible to get into the minecart, like ghasts.
+Passive mobs will spawn in light levels of 9 and higher, though in most cases they’ll only spawn on grass blocks. Passive mobs tend to wander around the place they’ve spawned at, so they can often be found in small groups of the same type. If a passive mob is no longer walking on grass, it’ll look for the closest grass block and walk towards it.
+Passive mobs will walk towards light sources at night or when they’re in a dark area. However, passive mobs prefer to stay on grass and may chose it over a light source, depending on the circumstances.
+Passive mobs will never attack a player or other mob, with the exception of ocelots, which will attack chickens. If a passive mob is attacked, it’ll try to flee. However, it often tries to flee by running around in circles, so it’s not very difficult to keep attacking them.
+Neutral mobs act a lot like passive mobs while they’re neutral. When they’re provoked, each mob reacts differently, so please refer to their individual guide for more detailed information.
+Hostile mobs will only spawn in light levels below 8, though some will only spawn in very specific situations, like chance or mob spawners.
+Like passive mobs, hostile mobs tend to wander around the place they’ve spawned at. However, once a player gets in their range, which is within 16 blocks for most hostile mobs, the mob will try to attack the player.
+Some hostile mobs, like the skeleton and zombies, have an advanced AI system which allows them to overcome and avoid different types of obstacles, like walls and lava pools.

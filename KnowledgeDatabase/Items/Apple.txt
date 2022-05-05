@@ -1,0 +1,11 @@
+Apples are food items that can be eaten by the player.
+Oak and dark oak leaves have 0.5% (⁄200) chance of dropping an apple. This amounts to approximately 25% chance to get an apple from an oak tree and 60% chance from a dark oak tree. Breaking leaves with a tool enchanted with the fortune enchantment will increase the chances of dropping an apple: 0.556% (⁄180) with Fortune I, 0.625% (⁄160) with Fortune II, and 0.833% (⁄120) with Fortune III.
+In the pocket edition, the chance is higher.
+Apples can be found in chests found in strongholds and villages in stacks of 1 to 3, and in the bonus chest in stacks of 2 to 3.
+Villager farmers may offer to sell apples in exchange for emeralds. 5 apples can be bought per emerald as one of their third tier trades.
+To eat an apple, press and hold use while it is selected in the hotbar. Eating one restores 4 () (4 () in Pocket Edition) and 2.4 hunger saturation.
+An apple can be used to craft a golden apple or an enchanted golden apple.
+The sprite of red apples was the same as used in Notch's game Legend of the Chambered.
+An apple found in a stronghold chest.
+An apple that dropped from decaying leaves.
+Trading for apples via villager trading.

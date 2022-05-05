@@ -1,0 +1,27 @@
+Chickens are egg-laying passive mobs.
+Chickens naturally generate on grass blocks with 2 blocks of free space above it at light level of 9 or more.
+Chickens can be bred with wheat seeds (or beetroot seeds, melon seeds or pumpkin seeds in Pocket Edition), producing a baby chicken.
+Thrown eggs have an ⁄8 chance to spawn a baby chicken. If successful, there is a ⁄32 chance to spawn 4 chicks instead. If the egg was thrown at a wall at certain angles, the chicken may spawn in the wall, causing suffocation.
+Baby chickens will grow up in 20 minutes, although the growth can be accelerated by wheat seeds; each use reduces 10% of the remaining time.
+Chickens drop from 0 to 2 feathers, and 1 unit of raw chicken. If a chicken dies while on fire, it drops cooked chicken instead of raw chicken. The amount of raw chicken (or cooked chicken) dropped is not affected by the Looting enchantment.
+Chickens drop 1-3 experience when killed by a player or tamed wolf.
+Chickens are 0.875 blocks tall, 0.5 blocks wide and 0.8125 blocks long.
+Chickens appear to wander around aimlessly, and usually swim in water. When falling they will flap their wings quickly and fall slowly, making them immune to fall damage. Despite this, they will still avoid falling off cliffs high enough to cause fall damage.
+While in a loaded chunk, a chicken will lay one egg every 5 to 10 minutes (6000 to 12000 ticks), unless it is (or was) a part of a chicken jockey. If you are close enough to a chicken when it lays an egg, a popping sound can be heard.
+They share some behaviors with other "farm animals" They are drawn to light when in a dark environment.
+They share some behaviors with other "farm animals" When struck, they run around quickly and aimlessly.
+They share some behaviors with other "farm animals" They can swim, visibly flapping their wings as they stay on the surface.
+They share some behaviors with other "farm animals" They can be led around by holding a seed, and are also able to breed with seeds.
+Chickens are attacked by wild ocelots.
+Chicks do not lay eggs. Due to their small size, they can pass through openings even smaller than a full block, though not willingly. A chick's height is somewhere in between 0.51 to 0.80 blocks.
+When swimming, chicks need only one block of air above their heads. Full-grown chickens need two blocks of air above their heads or else they will take damage when they float up and will eventually die.
+When a chicken is killed off a ledge, the corpse also falls more slowly than normal, and the wings still make a flapping animation.
+Chickens are able to "hide" within hoppers due to their small size, protecting them from lava or water that might be directly on top of the hopper.
+A few weeks before the end of Beta, Notch tweeted that he changed the chickens to ducks, causing a turmoil on Twitter. A few days later, Jeb, still getting feedback on the idea, stated that it was just a joke.
+While you are loading/creating/exiting a world on Console Edition, the message that appears can say "Is it a Chicken, or a duck?". Also, the summary for the mobs avatars at the end says "... and a chicken... Or is it a duck?".
+The changelog for Pocket Edition 0.3.0 referred to chickens as ducks.
+A "chicken tube" farm containing over 100 chickens.
+A fresh chicken farm pit with newly hatched chicks.
+Around 240 fully grown chickens in a circle.
+A chicken next to its egg.
+Tutorials/Chicken farming.

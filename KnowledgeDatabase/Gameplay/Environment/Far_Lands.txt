@@ -1,0 +1,122 @@
+Pocket Edition Only.
+The Far Lands were the area that formed the “edge" of the “infinite" map in PC versions prior to Beta 1.8. They are currently found in Pocket Edition.
+Far Lands start to generate between ±12,550,821 and ±12,550,825 on any horizontal axis.
+Both areas of the Far Lands feature extremely strange terrain, although they are significantly different. In both zones, any area beneath sea level, excluding regular caves, will be flooded with water.
+Beyond X/Z of ±32,000,000 chunks are treated as permanently nonexistent, and will not generate, even though they may appear to. This value is hardcoded in the source code of Minecraft, meaning that it cannot be changed without editing the source files.
+The Far Lands will generate biomes but most biomes will be indistinguishable except by the color of grass. Desert biomes will be covered in sand and snow-covered biomes will be covered with snow, excluding the very top of the map (because there's no space for the snow cover up there). Trees will generate somewhat normally, but can only be found in the upper areas of the map due to the need for grass. However, if you open the debug screen, the biome will always be forest.
+Ores can be found up to their respective maximum heights just like in the normal world. Unfortunately, due to the flooding, everything except for coal is difficult, if not impossible, to acquire. In the solid areas of the Far Lands, normal caves will generate but will be limited and small. Along with the caves, dungeons (extremely rare) and lakes can be found in solid areas. Water and lava springs can be found out in the open and in caves.
+Much of the open space in both areas is shrouded in darkness and thus hostile mobs run rampant, making the Far Lands as a whole incredibly dangerous. This is especially problematic in the Corner Far Lands due to its layered structure. The flooded zones are filled with squid.
+In the Sky Dimension, the Far Lands are not half flooded with water and bedrock does not form at lower levels.
+The boundary of the Far Lands' edge (that is, where it meets the regular map) looks like a solid wall, all the way to the top of the map (Y-coordinate 127) that is filled with gaping holes perpendicular to the edge. These holes are extremely long, perhaps infinite, and on the whole seem to change very little no matter how deep the player ventures. They can be blocked, either partially or completely, but such blockages are rare and temporary. This “wall of Swiss cheese" pattern continues beneath ground level, all the way to the bottom of the map, and seems to be partially caused by a large one-dimensional distortion in the map generator's output. This area is sometimes referred to as “the Loop".
+The Edge Far Lands' average block composition: 36% stone, 25% air, 23% water, 10% dirt/grass block, 2% bedrock, and 4% others. (Based on a 14×14 chunk selection).
+At a corner, when two perpendicular Edge Far Lands sections meet, the Corner Far Lands begin to generate. Unlike the infinite-length holes in the Edge Far Lands, the Corner Far Lands contains more normal terrain. This terrain is "stacked" on top of itself to create a bizarre sandwich with layers of ground and air, which gives it its nickname, “The Stack". Each layer looks like a gigantic floating continent, hovering over the next layer, which is shadowed.
+The majority of the generated world is Corner Far Lands, as the “normal" map (before ±12,550,821 mark) only makes the center of the world, and the Edge Far Lands only makes its continued sides.
+The number of layers isn't always the same, and varies between five to seven. Layers can be grouped into three categories Top layer: This layer exists at the absolute top of the map. Occasionally there can be a lower area that isn't shadowed (this is technically a dry layer). The lower area is where a majority of the trees and passive mobs can be found, as the top layer receives almost all of the sunlight. Due to the lack of space the area at the absolute top can't have trees or mobs. The top layer tends to light incorrectly in day-night transitions. This is because the sunlight calculation doesn't work when the entire chunk is blocked at Y-coordinate 128.
+Layers can be grouped into three categories Dry layers: These generate slightly flatter than normal terrain and have grass, despite the darkness. At sea level massive floating beaches can be found, which will collapse if modified. Hostile mobs' spawn rate likely approaches the maximum due to being in the shadow of the top layer. Rarely, there are holes in the top layer that allow sunlight to reach these layers. Caves that have one of these layers as their “surface" can occasionally be carved out of dirt instead of stone. These layers have cave-like ceilings made out of stone, gravel and dirt.
+Layers can be grouped into three categories Flooded layers: Like the dry layers, these generate somewhat flat terrain, but it is comprised primarily of stone. Sand and sandstone will show up down here, even up to 30 meters below sea level. Except for coal, all the ores can only be found in these layers.
+Sometimes, there are extremely tall pillars of gravel that stretch from the ground to the ceiling of a layer. Likewise, some of the beaches that collapse will create pillars of sand all the way down to the ground, despite there not being that much sand to begin with. The Corner Far Lands is also prone to having near-perfect diagonal lines being carved into the ceilings or floors of layers. If traced, these lines all intersect at the corner (X/Z ±12,550,821). This seems similar to how the Edge Far Lands have a consistent pattern along lines perpendicular to their edge, but is much less pronounced.
+The Corner Far Lands' average block composition: 40% stone, 16% air, 28% water, 10% dirt/grass, 2% bedrock, and 4% others. (Based on a 14×14 chunk selection).
+The Nether Far Lands are similar to Overworld Far Lands, except they generate with Nether features, such as lava ocean at Y=31.
+In the Nether, the terrible lag associated with the Overworld Far Lands will not occur. This is because there are very few gravity-affected blocks in the Nether.
+If a Nether portal is created in the Far Lands of the Overworld, entering will cause a teleportation to normal Nether, as X/Z 32,000,000, the limit at which block physics and lighting cease to function, divided by 8 (as 1 block in the nether corresponds to 8 blocks in the Overworld), is X/Z 4,000,000, within the limits of X/Z 12,550,820, where the distortion starts. Conversely, a Nether Portal built in the nether Far Lands will not function, as even at the limit of 12,550,820 blocks as the beginning of the Far Lands would cause the player to come out at X/Z 100,406,560, far past X/Z 32,000,000.
+The Pocket Edition Far Lands are different from PC Far Lands, specifically The content of Far Lands in Pocket Edition is slightly different in biomes and structure in positive coordinates. In negative coordinates, the Far Lands are completely ocean.
+The Pocket Edition Far Lands are different from PC Far Lands, specifically In the Corner Far Lands, an extremely unusual grid pattern of grass blocks will appear instead of the ordinary “stack." Tall grass will spawn on these blocks. This results in a perfect three-dimensional array of grass blocks levitating high above the ocean.
+The Pocket Edition Far Lands are different from PC Far Lands, specifically Flying is the only way to navigate the Far Lands. Walking is impossible as the terrain is made up of ghost chunks.
+The Pocket Edition Far Lands are different from PC Far Lands, specifically Any movement causes chunks to jitter about incredibly.
+The Pocket Edition Far Lands are different from PC Far Lands, specifically One feature of the PE Far Lands is the Stripe Lands, a graphical bug that depicts a one visible-one invisible block pattern. The Stripe Lands starts at X/Z ±16,777,216, only generating water, bedrock and ice (frozen oceans), and grass on flat worlds.
+There are many effects that will be noticed after traveling millions of blocks away from the center of the map. The very first effect that will be noticed is the jumpy or stuttering movement of the map, which isn't directly related to the Far Lands themselves but instead to floating-point precision errors. This jumpy movement is notable even at an X/Z of ±500,000. Players will experience extreme framerate drops and very high CPU usage, which will continue until Minecraft freezes completely. The framerate drops do not occur in multiplayer servers, though it will, depending on the server computer's RAM, make the server itself lag. In both singleplayer and multiplayer, the intense lag that is characteristic of the Far Lands is caused by massive numbers of falling sand or gravel entities. This in turn is caused (like most of the rest of the Far Lands' strange effects) by more floating-point precision errors.
+As the player journeys even deeper into the Far Lands, the effects worsen to the point where the game is unplayable. At X/Z ±32,000,000, block physics stop functioning correctly. Lighting doesn't work and the blocks, although they appear to be there, aren't solid. If the player tries to walk on these blocks, he or she will fall into the Void. At excessive X/Z positions, world renderer no longer works, or takes incredibly long times and uses most, if not all CPU usage. It then becomes almost impossible to close Minecraft without a task manager.
+Weather is not affected by the Far Lands directly but is by their terrain. Lightning bolts that hit surfaces at the top of the map (Y-coordinate 127) will be invisible and will not cause fire. The particles created when rain hits these surfaces will be black instead of blue. Snow will not accumulate on these surfaces either (because there's no space).
+When viewing the Far Lands in a 3D Minecraft map editor, you will encounter errors. In MCEdit, the selection cubes start to distort and the map distorts when viewing. In addition when rotating your view around a selected area, blocks will not be lined up right and will change how poorly lined up they are randomly, making the whole world seem to shake like a machine about to rattle itself to pieces. The selection box being distorted in MCEdit.
+ Twisting world and move player tool in MCEdit.
+In Infdev, although the Far Lands existed, many of the side effects didn't. However, fire particles and doors would act strange. There was no stuttering movement, and beyond X/Z ±32,000,000, the blocks would simply not render. Walking off the edge would cause the player to become stuck in a glitched position, unable to escape.
+It has been confirmed that in Alpha v1.1.2, the blocks would not render beyond X/Z ±32,000,000, like older Infdev versions. The fake chunks started appearing in Alpha 1.2.0.
+In previous versions of the game, if you teleport as high as you possibly can, you are sent to a Y-Axis of 3.4x10. In this zone, you float without a purpose, and dropped items will slide with what appears to be no friction before suddenly stopping after about 20 blocks. It has been reported that the X and Z-Axis sometimes flicker randomly in this zone. The memory pie chart also sometimes randomly jumps to 100% undefined memory usage, and then disappears upon re-entering the debug menu.
+In Pocket Edition, the playable range is smaller than that of PC, because of the usage of 32-bit floating-point numbers (as opposed to 64-bit on PC). Gaps between chunks first begin to be noticeable at X/Z values above ±100,000. The selection box also experiences a lot more Z-fighting as it contracts (it can still rarely be found in the "normal" world).
+ At X/Z ±500,090 "jitteriness" is experienced and the further the player travels, the world gradually starts to become glitchy and unplayable. Chunks are seen to vibrate rapidly. .
+ Past X/Z: ±900,000 the jitteriness becomes considerably unbearable and crashes are very frequent at this point on low-end devices.
+ After X/Z ±4,194,300 for 20 blocks into the respective coordinates will be ghost blocks, after which the jitteriness becomes so intense that the player cannot navigate toward the respective coordinate without jumping or flying.
+ After about X/Z ±8,389,000 the terrain is made up of ghost chunks.
+ After X/Z ±33,554,433 water is no longer rendered.
+ After about X/Z: ±2,100,000,000, air pockets (the black patches in the Stripe Lands) will fail to render. The map is essentially invisible from this point onwards.
+ Starting from X/Z ±2,147,483,328 the game inevitably crashes. This applies for all devices.
+ Blocks that are not full (stairs, fences, etc.) will appear as full blocks, usually stretched out.
+ At a certain point, the player can only move north, south, east, or west (not diagonal) and has to hold down directional keys before moving.
+The terrain is generated based on 16 octaves of Perlin noise. Each noise generator takes floating-point inputs and uses those to interpolate between noise values at whole numbers. It does so by.
+casting to a 32-bit integer, where Java rounds toward zero and handles overflow by picking the closest representable value;.
+subtracting one if the integer is greater than the original input, to always round down;.
+subtracting that integer from the original input to get a remainder in the interval [0, 1) suitable for interpolation.
+It covers an interval of [−2, 2) without causing any problems. The problem is that many of the octaves cover a scale much smaller than a block, with up to 171.103 noise units per block. Indeed, 2≈171.103×12,550,824.053. Once this value is exceeded, the integer will always be 2−1, picking the same noise values on that axis every time. This is the reason for those long unchanging tunnels in the Edge Far Lands, and plains in the Corner Far Lands.
+At the positive end the remainder starts out relatively small but usually much larger than 1, and grows by 171.103 per block. At the negative end, the remainder starts at −2. This value is then adjusted by ((6x−15)x+10)x for quintic interpolation. Even one block in at the positive end, this is already around 10. The negative end starts all the way around −10! For the Corner Far Lands, multiply the values of both edges. When interpolation (really extrapolation) is attempted with values as large as these, it produces similarly large output. That output completely dwarfs all other terms that would normally give the terrain its shape, instead effectively only passing the sign of this one noise function through.
+It was fixed by taking the remainder of the input divided by 2. Noise repeats every 2 units anyway, so it has no side effects. But it does prevent the overflow. By removing these instructions, the Far Lands can be returned to current versions of the game.
+There are several factors making things slightly more complicated Noise is only sampled every four blocks and linearly interpolated in between. This is why when 12,550,824 is affected by the bug, it reaches out three more blocks to 12,550,821.
+There are several factors making things slightly more complicated Each noise generator picks a random offset in [0, 256) to add to its input. This will usually move the boundary under 12,550,824, starting the Far Lands at 12,550,821. With a few seeds it might not, putting the start at 12,550,825. Very rarely, if the boundary is just barely within 12,550,824, the first couple blocks of the Far Lands might look somewhat normal. The southern and eastern Far Lands do this independently of one another. At the negative end, the Far Lands always start at block coordinate −12,550,825, with the positive edge of those blocks at −12,550,824.
+There are several factors making things slightly more complicated There are actually two sets of noise generators, which are blended together based on another noise generator. This is responsible for relatively smooth alternation between two sets of tunnels or plains. Occasionally, one of the noise generators starts generating Far Lands before the other because it uses a different offset, producing an incongruous boundary.
+There are several factors making things slightly more complicated A second set of Far Lands starts around ±25,101,648, where another octave overflows. There is no visible change because the original Far Lands dwarf them like everything else.
+There is a chance of walking into a “bad chunk" that has such corrupt and unreadable data that it will cause huge lag spikes and possibly crash the game.
+When at the Far Lands, fences either have a thin wall collision box on one side, or no collision with mobs or the player.
+Even though Beta 1.6 made it impossible to place solid blocks at layer 128, the Far Lands' flat “ceiling" still gets generated there.
+Because of the debates over renaming endermen to "Far Landers," Notch jokingly suggested to rename the Far Lands to The End instead. This then became the name for the dimension where the Ender Dragon resides.
+The Far Lands can cause a major decrease in FPS, freezing, and crashing, due to a high amount of internal errors, as well as the client having to deal with immense amounts of entities, both monsters and glitched sand/gravel entities. In addition, there is extra lag caused by the very high X/Z coordinates that the Far Lands exist at. This is also one of the main reasons that the Far Lands after X/Z ±32,000,000 would sometimes lag, despite the absence of any entities. Sand and gravel don't fall from generating in Pocket Edition. This results in relatively stable performance.
+Minecarts with chests will sometimes appear in phantom chunks, but as entities, they fall into the void shortly after they are generated.
+One of the random splashes read: "Check out the far lands!". Ironically, the splash was added to the game after the Far Lands were fixed.
+In 1.8, sometimes there is a chance that you can see stationary lava outside the end generation zone, placed with even space between.
+In Beta 1.7.3 and below At excessive X/Z values, the corner lands are all flat.
+3 and below At X: 33,554,431, X: 67,108,864, X: 134,217,728, X: 268,435,456, X: 536,870,911, and X: 1,073,741,823, a terrain glitch causes normal terrain to generate for a few chunks before generating distorted terrain again. This is the only occurrence where trees generate beyond X/Z: ±32,000,000, the limit at which block physics fail to function correctly and lighting ceases to work.
+3 and below At X/Z: ±2,147,483,647, which is the highest point reachable by 32-bit machines, world renderer stops working completely, ending terrain generation in Minecraft. Things using 32-bit integers will overflow at this distance, causing the game to crash. Chunks will still generate, but there will be nothing inside them. The map will stop generating surface textures past this point.
+3 and below At around and after X/Z: ±2,147,483,648, clouds become severely stretched out in one direction (Fast graphics only, Fancy graphics clouds are not affected by the Far Lands).
+3 and below Between X/Z: ±25,769,803,000 and X/Z: ±25,769,804,000 clouds stop rendering (Varies between maps, but they disappear somewhere in between these distances. Does not apply for fast graphics clouds).
+3 and below It is very dangerous to reach X/Z ±4,000,000,000 or higher, as the chances of crashing (assuming you have 64-bit Java) are extremely high, and get higher the farther you go.
+3 and below If one makes it to X/Z ±34,359,738,368 (chunk offset limit), chunks will start getting overwritten. As a result, this is the end of chunk generation in Minecraft. As soon as this limit is approached, the game will freeze and crash, resulting in a Out of memory screen. However in some cases the player may be able to move past this limit for a few seconds before Minecraft crashes.
+3 and below The highest value for 64-bit machines is X/Z ±9,223,372,036,854,775,807. However, despite this being the limit any machine can go, it may not be possible to reach anywhere near this point, since the vast majority of people experience instant client freeze, followed by the client crashing. If teleported there, the screen will display completely black with no sun and oddly glowing clouds.
+A view within the Far Lands.
+“The Stack" at X/Z ±32,000,000. Above lies the top layer.
+A bird's eye view of the top layer of the corner far lands, or “The Stack".
+The middle layer of the corner far lands, or “The Stack", using mods for visibility.
+The bottom layer of the corner far lands, or “The Stack", using mods for visibility.
+An overhead view of the edge far lands, or "The Loop".
+Inside the edge far lands beyond X/Z 32,000,000, where there are no trees, mobs, or lighting.
+“The ocean" within the edge far lands.
+A bisection of the corner Far Lands, showing the 3 different layers.
+A bird's eye view of the Far Lands' corner.
+The "end of the world" as seen from the third person mode.
+Cake has a hit box similar to slabs when half or less of it is eaten, but after half eaten the hitbox changes to normal.
+A stretched waterfall.
+A stretched lava fall.
+Redstone placed near the Far lands.
+Particles are offset. String and redstone appear to be stretched out.
+Piston powered on the side. The arm is stretched out, nonetheless the hit box is still the same.
+Piston powered up. Note the arm is now a full block.
+Village generated on the border of Far lands of a superflat world.
+Trees that are generated close to the Far Lands limit, will stop being generated. Trees may also appear strange, like this.
+A mushroom island biome in the Far lands generating without mushrooms or huge mushrooms.
+A desert biome in the Far Lands.
+The Nether Far Lands at X/Z of 500,000,000 with severely stretched lava.
+Trees spawning past 32,000,000 at X = 268,435,456 along with normal terrain stretching only a few chunks.
+Edge Far Lands meeting with the Corner Far Lands in the Nether at X value of 2,000,000,000 and Z of 12,550,820.
+The end of Minecraft terrain generation at X: 2,147,483,794, about 147 blocks short of the 32-bit limit. World renderer stops working at this point.
+The end of Minecraft terrain generation in the Nether at X: 2,147,483,644.
+Far Lands at X: 34,359,738,079, where chunks start to become overwritten (notice the high CPU usage).
+The terrain at X=152,556,832 in Minecraft Pocket Edition. It is impossible to move forward or backward. There is water but it is invisible.
+Edge of the Far Lands in Pocket Edition.
+Mesa section of the Far Lands in Pocket Edition. Not possible in PC version without mods.
+A view inside of the corner far lands in Pocket Edition, it generates terrain in a grid, unlike in PC where the terrain looks similar to normal terrain.
+"The Stack" in Pocket Edition, with surprisingly normal structure in the middle.
+The Far Lands in negative coordinates, being completely ocean.
+The previous screenshot from the opposite angle.
+The first screenshot posted of the Stripe Lands, by Tommaso Checchi, at X/Z 32,000,000.
+The start of the Stripe Lands at X/Z ±16,777,216.
+The Corner Stripe Lands.
+A frozen ocean biome in the Stripe Lands.
+A swamp biome in the Stripe Lands.
+The Stripe Lands in a flat world.
+Far Lands at X/Z: ±2,145,624,024, close to the physical limit of the game. Literally nothing generates this far out.
+The Far Lands in Infdev.
+“The Stack" in Infdev.
+A bird's eye view of “The Stack" in Infdev.
+The end of the world in Infdev.
+The end of the world at night in Infdev from a third person's view.
+Far lands in Infdev (April 15, 2010).
+The Far Lands in 1.5 from a Beta 1.7 world.
+The edge Far Lands at X-coordinate of 2,147,483,420 (notice the low FPS).
+Tutorials/Far Lands - how to get to the Far Lands and avoid lag.

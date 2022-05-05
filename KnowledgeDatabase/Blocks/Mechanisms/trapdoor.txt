@@ -1,0 +1,12 @@
+Dec value: 96.
+Hex value: 60.
+Minimum tool requirement to break: None.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: Yes.
+Trapdoors are 1 block wide, horizontal doors which can be attached to the side of blocks. They’re often used to cover ladder holes. Trapdoors can be powered with redstone, though this is quite uncommon as simply clicking them is often easier and way more compact.
+Trapdoors are created using 6 wooden planks, the colour used does not affect the result.
+Different coloured planks can also be used together. Like the holes in doors, these holes can only be used to see through. It’s impossible to click buttons on the other side or to shoot arrows through it.
+Besides their obvious use as a cover for ladder holes, many players also use them as lids, usually as garbage can lids or toilet lids.
+Another common use is a drawbridge, either automated or manual. By placing them in a row along a tall wall, opening them will reveal the water or lava underneath it, while closing them will allow you to safely walk over them. Note that opening a trapdoor while standing on it will cause you and other mobs to fall, making it an effective trap, especially if it can be activated remotely. .
+They make great plant pots by attaching them on each side of a dirt block and then closing them. Another common use is as a bar divider by attaching it to the wall, which makes it work like a door between the bartender’s side and the customer’s side.

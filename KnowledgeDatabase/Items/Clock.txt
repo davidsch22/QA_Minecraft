@@ -1,0 +1,8 @@
+Clocks (sometimes called watches), are items that display the current in-game time by displaying the sun and the moon's position relative to the horizon.
+A single clock can be bought from a librarian villager for 10 to 12 emeralds as part of their tier 3 trades.
+The clock consists of two halves, a day side and a night side. These spin slowly to indicate the time of day, corresponding to the sun or moon's actual position in the sky. The player is able to sleep a few seconds after the clock shows exactly dusk.
+Clocks will still show the proper time when viewed in any way, including as a dropped item, in a player's hand, in any inventory or the crafting table, or in an item frame.
+Clocks do not work in the Nether or the End, the dial will instead rewind rapidly showing random times of the day, making it useless for determining the time.
+A clock can be viewed under the item statistics page, as long as one has made a clock at some point in the past.
+If sleeping with a clock in your hand, upon waking, or the time is changed through the commands, the clock dial will spin rapidly to catch up.
+After completing 100 day-and-night cycles in the Xbox 360 release of Minecraft you are awarded a miniature clock wristwatch for your Xbox Live avatar to wear.

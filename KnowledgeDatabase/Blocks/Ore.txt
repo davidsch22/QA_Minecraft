@@ -1,0 +1,40 @@
+Ore is a type of block in Minecraft.
+Ores are primarily collected for crafting purposes, such as for tools and armor. Redstone is obtained from redstone ore, which can be used to create redstone circuits. Ore can also be combined to create a block of the material's type.
+The following is the distribution of ores according to the altitude (layers are number of blocks above the lowest layer of bedrock). The highest layers that gold, redstone, diamond, and lapis lazuli can be found on are two layers lower. The graph on the right shows the ore distribution.
+Redstone has the same layer and line-size statistics as Diamond, but is generated 8 times per chunk as opposed to 1.
+Coal Ore.
+Iron Ore.
+Lapis Lazuli Ore.
+Gold Ore.
+Redstone Ore.
+Diamond Ore.
+Emerald Ore.
+Nether Quartz Ore.
+All ore blocks except iron and gold require a Silk Touch pickaxe to drop themselves. Coal, diamond, emerald, and nether quartz ores drop 1 unit their corresponding raw materials. Redstone ore drops 4-5 redstone dust, and lapis lazuli ore drops 4-8 lapis lazuli.
+Coal.
+Iron Ingot.
+Lapis Lazuli.
+Gold Ingot.
+Redstone.
+Diamond.
+Emerald.
+Nether Quartz.
+All raw materials except Nether quartz can be crafted from their mineral blocks.
+Any ore block can be smelted to produce a single unit of raw material. Note that this is the only way to obtain iron and gold ingots. This is not recommended for redstone ore because the block drops 4-5 redstone when mined.
+Block of Coal.
+Block of Iron.
+Lapis Lazuli Block.
+Block of Gold.
+Block of Redstone.
+Block of Diamond.
+Block of Emerald.
+Block of Quartz.
+All mineral blocks except quartz are crafted by putting 9 of the raw material items in a square. Quartz blocks are crafted with 4 nether quartz and can be crafted in the inventory.
+Iron and gold drop the actual ore block when mined without the Silk Touch enchantment. All of the other ores drop the usable item when mined.
+Gold ore is the only ore that can't be mined by its own pickaxe.
+Only iron, gold and diamond can be used to make tools.
+A picture of every ore except emerald and nether quartz.
+All of the current overworld ores including emerald ore and diamond ore.
+All overworld ores in a natural cave.
+A vein of coal, and a vein of iron, both in a ravine. Ores like this can be hard to get to, due to the difficulty of climbing the ravine's wall.
+Exposed ore veins.

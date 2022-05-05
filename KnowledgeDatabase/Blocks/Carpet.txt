@@ -1,0 +1,14 @@
+Carpets are thin blocks which are mainly used for decoration.
+Carpets can be mined using any tool, or without a tool. Unlike wool, carpets are not destroyed quicker when using shears.
+In Pocket Edition, carpets replace the pressure plates of the tables in villages.
+Carpet has the same thickness as a pressure plate. It has a hitbox of ⁄16 of a block and covers the entire surface of the block it is placed on, unlike pressure plates.
+Carpet can be placed on any block, including non-solid blocks.
+Carpet can be pushed and pulled by pistons but will pop off if pushed onto a hole or pulled downwards. It can also break falling sand and gravel.
+Mob AI register carpet as an air block, even though mobs are not able to spawn on carpet.
+Carpet is an opaque block but does not decrease light going through it. Because of this and the fact that it can be placed on any block, a common decorative strategy is to place carpet on glowstone, illuminating a room and hiding the light source at the same time.
+If the player sprints across carpet, the particle effects are those of the blocks that are directly below it.
+Carpet will not prevent the formation of ice.
+Carpet can safely be placed on top of farmland, although it will not protect the farmland from jumping entities.
+Mobs spawning naturally in a darkened, carpeted room.
+Carpeted floor. There are some jack o'lanterns below them, so this area is well lit without torches.
+Red carpet seen in the 13w25a Banner.

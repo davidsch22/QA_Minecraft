@@ -1,0 +1,9 @@
+Dec value: Wood: 269 Stone: 273 Gold: 284 Iron: 256 Diamond: 277.
+Hex value: Wood: 10D Stone: 111 Gold: 11C Iron: 100 Diamond: 115.
+Durability: Wood: 60 Stone: 132 Gold: 33 Iron: 251 Diamond: 1562.
+Maximum stack: 1.
+Spades are used to increase the speed at which you can dig up blocks like grass, sand and snow. They are created using 2 sticks and either 1 wooden plank, cobblestone, iron ingot, gold ingot or diamond. Zombies will also sometimes drop iron spades.
+Diamond spades are the strongest shovels in terms of durability. Gold spades are the fastest, but they can only be used to dig up 33 blocks. However, even stone spades dig very fast, so using gold and diamond spades are often a waste of materials, especially if you’re low on diamonds.
+Spades can be used as weapons though they’re not very effective. They do 1.5 hearts less damage than swords of the same type, which means wooden and golden spades do half a heart of damage, just like fists.
+Like most tools, spade can be enchanted. Some enchantments will increase the speed, while others will increase your yield.
+It’s possible to combine two damaged spades of the same type in any crafting interface, which will create a new spade of the same type with the durability of the old ones added together, plus 10%. Note that any enchantment on the old spades will be lost.

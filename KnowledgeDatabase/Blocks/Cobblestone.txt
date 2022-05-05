@@ -1,0 +1,10 @@
+Cobblestone is a common block, obtained from mining stone. Its texture resembles an uneven, roughly paved surface. Cobblestone is mainly used for crafting or as a common building block.
+If cobblestone is mined with any pickaxe, it will drop itself; otherwise, it will drop nothing.
+If stone is mined with a pickaxe that is not enchanted with silk touch, it will drop cobblestone.
+Cobblestone occurs naturally in dungeons, strongholds, villages, and jungle temples.
+When water and flowing lava come into contact, the flowing lava is replaced with cobblestone. However, if the lava flows on top of the water from above, stone will be created instead.
+Cobblestones can be used as a basic building block, as it is highly blast resistant and fairly common.
+Silverfish have the ability to enter and hide in cobblestone, creating a monster egg.
+The original texture came from one of Notch's abandoned projects called RubyDung. The current cobblestone texture came from swapping the top and bottom halves of the third texture, then brightening it.
+Example of a building made with cobblestone, this one being a church in a village.
+All the textures of cobblestone.

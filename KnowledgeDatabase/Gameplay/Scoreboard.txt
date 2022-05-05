@@ -1,0 +1,56 @@
+The scoreboard system is a complex gameplay mechanic intended mostly for map makers. It is used via commands and command blocks.
+Objectives are a combination of name, display name, and criteria, and track an integer number of points for players. The full score range is -2,147,483,648 to 2,147,483,647, and does not support decimals.
+An objective's name is used internally when referenced in commands, target arguments, and in the file format. It is case-sensitive and must be a single word.
+Conversely, the display name can be multiple words, and is displayed publicly in various situations. It is also case-sensitive, and does not have to be unique.
+An objective's criteria determine its behavior.
+Some criteria use the Statistics and Achievements systems to form compound criteria. Unlike the simple criteria above, compound criteria have multiple parts, separated by periods ("."). For example, "stat.entityKilledBy.Zombie" would be a compound criterion, which would increment for a player whenever a zombie kills them.
+A list of known compound criteria follows.
+A player's score in any objective may be changed via commands, unless it is read-only (currently, only objectives with the 'health' criterion are read-only). It may be increased or decreased by a specific amount, or set to a specific value. For objectives based upon stats or achievements, the objective can be changed via commands, however the actual stat or achievement doesn't change. The objective will continue to update with changes in stats or achievements.
+Command blocks can also be used to check a player's score for any objective, with the arguments score_name and score_name_min. In these arguments, name is the internal name of the objective to test for. score_name passes players with at most the specified number of points, while score_name_min passes players with at least the specified number of points.
+For example, "testfor @p[score_deaths=5,score_deaths_min=1]" in a Command Block will make a comparator provide output if a player has died at least once and has died no more than 5 times, assuming "deaths" is an objective of the "deathCount" criterion.
+Via the "scoreboard objectives setdisplay" command (see command reference), players' scores in specific objectives can be displayed in certain 'slots' in-game. Each 'Display Slot' can show one objective at a time, and multiple 'Display Slots' may be used for the same or different objectives.
+Teams are a combination of name, display name, prefix, suffix, friendly fire options, and a list of players who are on the team.
+As with objectives, the name and display name of a team are case-sensitive, name is a single word used internally, and display name can be multiple words and does not need to be unique.
+The prefix and suffix are inserted before and after the names of players on a team - without using external editors, the only possible prefixes are formatting codes for team colors, and the only possible suffix is the reset code (so characters after a player's name aren't formatted). Prefixes and suffixes will be added to the names of players in chat, the active players list, the sidebar, and above their heads.
+The friendly fire option allows control of whether team members can harm each other. Its default mode, "true", makes no changes to PvP mechanics. When set to "false", however, it prevents players on the same team from causing damage to each other with melee attacks, bows, and Splash Potions of Harming. Note that players on the same team may still inflict negative status effects on each other with potions, even if friendly fire is false.
+It is important to note that each individual player can only be on one team; teams cannot share players.
+Command blocks can be used to check whether a player is on a team with the "team" argument; the "!" character may be placed before a name to check for players not on the team. For example, "testfor @p[team=red]" in a Command Block will provide comparator output if a player is on the "red" team. Similarly, "testfor @p[team=!red]" will provide output for players who are not on "red". Also, "testfor @p[team=!]" will check for all players on a team, while "testfor @p[team=] will check for those without a team.
+The file scoreboard.dat in the 'data' folder of a Minecraft world stores the scoreboard data for that world as a GZip'd NBT file.
+ The root tag.  data: The scoreboard data.  Objectives: A list of compound tags representing objectives.  An objective.  CriteriaName: The criteria of this objective.
+  DisplayName: The display name of this objective. If none was specified during the objective's creation, this will be identical to the Name tag below.
+  Name: The internal name of this objective.
+  RenderType: The type of data to store. Defaults to "integer".
+  PlayerScores: A list of compound tags representing scores tracked by the scoreboard system.  A tracked player/objective pair with a score.  Score: The score this player has in this objective.
+  Name: The name of the player who has this score in this objective.
+  Objective: The internal name of the objective which this player has this score in.
+  Locked: 1 or 0 (true/false) - false if this objective is "enabled". Only meaningful for objectives with the criteria "trigger", where this must be false before a player can use the /trigger command on it.
+  Teams: A list of compound tags representing teams.  A Team.  AllowFriendlyFire: 1 or 0 (true/false) - true if players on this team can harm each other.
+  SeeFriendlyInvisibles: 1 or 0 (true/false) - true if players on this team can see invisible teammates.
+  NameTagVisibility: The value of the nametagVisibility option of this team.
+  DeathMessageVisibility: The value of the deathMessageVisibility option of this team. Valid options are: never, hideForOtherTeams, hideForOwnTeam, always.
+  DisplayName: The display name of this team. If none was specified during the team's creation, this will be identical to the Name tag below.
+  Name: The internal name of this team.
+  Prefix: The prefix prepended to names of players on this team. Ordinarily, it is a Formatting Code.
+  Suffix: The suffix appended to names of players on this team. Ordinarily, it is the reset code, "§r", to prevent formatting from spilling over, but it may be blank if prefix is also blank.
+  TeamColor: The text-based color ("black", "dark_blue", etc.) given to the team. Does not exist if no color is set.
+  Players: A list of names of players on this team.  The name of a player on this team.
+  DisplaySlots: A set of slots which are displaying specific objectives. If a slot is empty, its tag is not present.  slot_0: The internal name of the objective displayed in the "list" slot.
+  slot_1: The internal name of the objective displayed in the "sidebar" slot.
+  slot_2: The internal name of the objective displayed in the "belowName" slot.
+  slot_3: The internal name of the objective displayed in the "sidebar.team.black" slot.
+  slot_4: The internal name of the objective displayed in the "sidebar.team.dark_blue" slot.
+  slot_5: The internal name of the objective displayed in the "sidebar.team.dark_green" slot.
+  slot_6: The internal name of the objective displayed in the "sidebar.team.dark_aqua" slot.
+  slot_7: The internal name of the objective displayed in the "sidebar.team.dark_red" slot.
+  slot_8: The internal name of the objective displayed in the "sidebar.team.dark_purple" slot.
+  slot_9: The internal name of the objective displayed in the "sidebar.team.gold" slot.
+  slot_10: The internal name of the objective displayed in the "sidebar.team.gray" slot.
+  slot_11: The internal name of the objective displayed in the "sidebar.team.dark_gray" slot.
+  slot_12: The internal name of the objective displayed in the "sidebar.team.blue" slot.
+  slot_13: The internal name of the objective displayed in the "sidebar.team.green" slot.
+  slot_14: The internal name of the objective displayed in the "sidebar.team.aqua" slot.
+  slot_15: The internal name of the objective displayed in the "sidebar.team.red" slot.
+  slot_16: The internal name of the objective displayed in the "sidebar.team.light_purple" slot.
+  slot_17: The internal name of the objective displayed in the "sidebar.team.yellow" slot.
+  slot_18: The internal name of the objective displayed in the "sidebar.team.white" slot.
+An objective with two points to the player is displayed in the "list" slot, while an objective with the display name "Quest Points" with 0 points to the player is displayed in the "sidebar" slot.

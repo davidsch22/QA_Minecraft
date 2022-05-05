@@ -1,0 +1,14 @@
+Dec value: 51 Hex value: 33.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Luminance: 15.
+Fire is an animated block and can only be found naturally in the Nether. Fire can also be created when a player uses flint and steel or a fire charge, when lava or fire burns surrounding flammable objects, when lightning strikes, when Blazes attack and when an explosion occurs, like the attack of a Ghast or an exploding bed.
+Fire produces a light level of 15, the same as lava, but will not last forever, unless netherrack is lit on fire. Fire burns for a short, random amount of time and will spread to any flammable block directly next to it, one block under it or up to 4 blocks above it. Especially the upward spread can be disastrous in forests, as leaves burn faster than other flammable objects. Large forests can easily turn into a sea of flames, which can cause enormous lag on slower computers.
+Fire can also burn the player and mobs, which will do half a heart of damage per second. Anything thrown into fire will be destroyed.
+Water and rain can extinguish fire, so having a bucket of water is always a good idea when traveling about. Punching a fire block will extinguish it, but punching a mob that is on fire will not put out the fire. Like normal fire blocks, fire on mobs and animals will eventually burn out, though many mobs have a low enough health to be killed before the fire burns out. Cows, pigs and chickens will drop their meat in the cooked form when they die while on fire.
+Placing a block on fire will extinguish it as well.
+Fire will melt snow and ice, but not snow blocks. TNT close to fire will also be activated, so be careful.
+Netherrack will burn forever, even in rain, untill the player choses to put it out. This can be useful to create traps, boudaries or a type of garbage bin to drop unwanted items on. Netherrack is also often used in fireplaces and other decorative features. Bedrock will also burn forever in the End, but this can only be placed there if a player aquires the block through codes, mods or creative mode.
+Fire blocks are not obtainable without the use of codes or mods, but it’s the only way to craft chainmail armour. Chainmail armour is partially transparent to mimic the look of the chains. Like fire blocks, chainmail armour cannot be obtained in game without the use of mods or codes.

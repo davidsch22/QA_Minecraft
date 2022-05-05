@@ -1,0 +1,9 @@
+Bookshelves are Blocks that serve as a decoration or an upgrade. Bookshelves are generated in Libraries, inside Strongholds, and within NPC Villages.  A single Bookshelf can be crafted by arranging six Wooden Planks and three Books. Whenever a Bookshelf is destroyed, it will drop three books. Bookshelves are very important for improving Enchantment Tables. When placed close to one, it will begin to send floating white symbols to the book. This grants the player a chance to receive better enchantments, though not guaranteed.
+Bookshelves were added in the 0.26 patch of Survival Test, but they were not able to be naturally spawned until the 0.28 patch. They were left in obscurity, as they could not be crafted until Beta. Bookshelves and libraries were finally implemented in Beta 1.9 pre-release 3, as they could be used to receive higher enchantments on weapons and tools. As of Beta 1.9, destroying a Bookshelf will drop three Books. Bookshelves can also be obtained in a trade with Villagers as of 1.3.1.
+Bookshelves are also in Minecraft Classic.
+A Bookshelf Block will always have the exact same books in the exact same places, meaning that the books are either the exact same, or books in series.
+If at least 30 Bookshelves are in a room surrounding an Enchantment Table, new enchantments will become available at higher levels.
+2 rows of bookshelves. All the books are identical.
+Bookshelves as seen in a NPC village pub.
+Bookshelves surrounding an Enchantment Table.
+Add a photo to this gallery.

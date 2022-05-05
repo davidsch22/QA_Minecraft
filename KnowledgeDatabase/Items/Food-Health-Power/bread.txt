@@ -1,0 +1,9 @@
+Dec value: 297.
+Hex value: 129.
+Hunger restoration: 2.5 hunger bar slots.
+Hunger saturation: 6.
+Maximum stack 64.
+Bread is created from wheat and is one of the easier food items to farm fast and in large quantities. It can also be found in chests in dungeons, abandoned mineshafts and strongholds, as well as in the bonus chest.
+Bread is one of the weaker food sources when it comes to hunger bar restoration and hunger saturation. All meats (once cooked) are better, however, depending on the size of your farm, bread is often easier to obtain. Bread will restore 2.5 hunger bar slots and 6 hunger satisfaction.
+Farming wheat is very easy. You start by planting seeds on farmland, which will grow into wheat over time. The seeds will require light of level 9 and hydrating the farmland will increase the growth speed.
+After a while the seeds will have grown through several stages and reach maturity, at which point the wheat can be harvested. You can use bone meal on the planted seeds to instantly grow the wheat, no matter at which growth state it is. This can be very useful to create large amounts of bread or to breed a lot of animals.

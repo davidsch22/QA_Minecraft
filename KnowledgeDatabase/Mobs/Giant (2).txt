@@ -1,0 +1,15 @@
+Giants are over-sized mobs that look like zombies. They currently have no purpose other than decoration.
+Giants drop 5 experience when killed.
+Giants do not spawn naturally, as they require a light level greater than 11 and less than 8.
+Giants can be spawned using commands such as /summon Giant.
+Giants are hostile, living mobs. They are twelve blocks tall and use a six times enlarged zombie model. Giants themselves will do nothing, as they have no AI, though they still have animations and other mobs can interact with them.
+Giants are living mobs, despite having the appearance of being undead.
+Giants are in the Xbox 360 Edition, although they require external modifications for their egg to be placed in the player's inventory.
+Since giants need to have a light level both less than 8 and greater than 11 to spawn, they don't spawn from monster spawners. However, this spawn condition can be bypassed with a custom spawner, if it attempts to spawn an entity with valid spawn conditions riding a giant.
+If you name a giant using a name tag, its name will appear inside its head.
+A giant next to a normal size zombie.
+A giant "riding" a minecart.
+A giant in a cave.
+Two giants summoned wearing equipment.
+A giant burning in a pool of lava.
+A giant getting damaged by a splash potion of harming in night time.

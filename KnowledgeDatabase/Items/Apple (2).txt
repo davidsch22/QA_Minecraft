@@ -1,0 +1,9 @@
+An Apple is a type of food that refills . Apples were introduced to Minecraft in Indev 0.31. Originally, apples were extremely valuable items, being rarely found in only dungeon chests. In Minecraft 1.1, apples began to rarely (0.5% of the time) drop out from tree leaves.
+In beta 1.4, along with Wolfs, it was planned to add green apples, though it was never implemented. Apples can be crafted into Golden Apples.
+ Inside world generated chests. (Villager Chests, Strongholds, etc).
+Trading with Villagers.
+Oak Leaves which have a 1/200 chance of dropping one.
+Inside Chests within an abandoned Mineshaft.
+Inside a Bonus Chest.
+ Kill Notch.
+Kill a player who has one.

@@ -1,0 +1,9 @@
+A Witch is a ranged mob, added in the Pretty Scary Update. Witches are hostile and are found mostly in Swamp Biomes wandering around their houses. When a Witch notices the player they begin to viciously attack them with splash potions. Witches also have the ability to regenerate health. It fires splash potions of weakness, slowness, poison, and harming to weaken the player so it makes it easier to attack the player. Because of this, the player's armor is rendered useless regardless of the armor's material and/or enchantments.
+The Witch is the second hostile ranged mob found in the overworld, the first being the skeleton.
+The Witch is a variation of the villager.
+Unlike villagers, Witches despawn if the player is far enough from them.
+The Witch has an animation involving it's nose.
+ On occasion, if the witch is killed, it will sometimes drop a potion, most likely to be an Instant Health potion. However, it will only drop potions if killed when drinking one.
+The witch is the second gender specific mob in Minecraft. The first being the Ender Dragon.
+Since 1.7.2 witches now spawn naturally, though they are rarer than Endermen. Before this update they could only be found in Witches' huts. They also spawn when a villager is struck with lightning.
+[1][2][3].

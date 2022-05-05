@@ -1,0 +1,5 @@
+ The Locked Chest is part of the 1.4 April Fools update by Notch. Their texture is the same as the chest texture (Before Beta 1.8.1). They will also glow with a luminance of 15, identical to Glowstone. They have been removed, and the only way to get them is using the /give command in Multiplayer. Locked Chests can be mined, but they are indestructible if TNT is used. Since 1.4 they have had a purple/Emerald texture. Their data value/ID is 95. The april fools joke is when you open it it says you need a key from the minecraft store. When the person buys it a pop up of a Jurassic Park Velociraptor made by Stan Winston studios (NOTE it's actually the one from the sequel The Lost World Jurassic Park) while a track from Jurassic Park plays that is called Eye to Eye. When the persons gets over 10,000 a message appears saying please exit if you are prone to seizures. Which causes the page to act like a seizure, it was removed completely from the game in Beta 1.7.
+Add a photo to this gallery.
+One of the Locked Chest textures.
+One of the Locked Chest textures.
+Add a photo to this gallery.

@@ -1,0 +1,6 @@
+Dec value: 335.
+Hex value: 14F.
+Maximum stack 1.
+Milk is obtained by right clicking a cow while holding an empty bucket. While milk is edible, it doesn’t restore your hunger or health bar. Instead, milk will stop any effects on the player, like potion effects and food poisoning. Both negative and positive effects of potions will be cancelled.
+Milk is also used to create cakes. To make 1 cake you need 3 buckets of milk, 2 lumps of sugar, 3 wheat and 1 egg. Drinking milk will not destroy the bucket, so you can refill the bucket with milk, water or lava after you’re done. Milk buckets, like all buckets, will not stack, which could be a bit annoying in pvp fights or fights with several cave spiders.
+Milk will cure the player immediately, but any (negative) effect aplied afterwards will take effect. So it’s often advised to only drink milk after the fight is done or when you’re in real danger. Milk will also “cure” the player from positive effects, like a strength potions, so think before you drink.

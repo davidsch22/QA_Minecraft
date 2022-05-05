@@ -1,0 +1,1 @@
+Brick is an item used to craft brick blocks and flower pots.

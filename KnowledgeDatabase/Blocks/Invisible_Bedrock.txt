@@ -1,0 +1,4 @@
+Invisible Bedrock is an invisible and indestructible block exclusive to the Pocket and Pi editions.
+Invisible bedrock cannot be selected or broken using any tools, and is unobtainable without the use of external programs. When held in the inventory, it uses the stone texture.
+Invisible bedrock comprises the border wall surrounding old worlds. The wall does not generate past the height limit, allowing the player to walk atop it.
+Invisible bedrock is transparent in rendering only, interacting with players and mobs as a solid block and blocking light. Any adjacent blocks are not rendered when viewed through invisible bedrock.

@@ -1,0 +1,7 @@
+Hardened Clay is a block with a blast resistance comparable to that of stone-based blocks.
+Hardened clay can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Hardened clay can be found naturally in mesa biomes. This yields a large quantity of hardened clay.
+Hardened clay has the same blast resistance as most other stone blocks, which is significantly higher than the block of clay before being smelted. A block of hardened clay when one meter away from an explosion will protect any blocks behind it, though it will be destroyed in the process.
+The first picture of hardened clay tweeted by Dinnerbone.
+The 13w17a banner, featuring hardened clay.
+The 13w37a Banner showing hardened and stained clay in a Mesa Biome.

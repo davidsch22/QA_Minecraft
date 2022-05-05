@@ -1,0 +1,15 @@
+A carrot is a food item that can be eaten by the player.
+Carrots can be farmed and harvested on farmland. Planted carrots take 8 stages to grow, and go through 4 visually distinct stages. Mature carrot crops drop 1 to 4 carrots. Bone meal can be used on carrots. Using a tool enchanted with fortune increases the maximum number of carrots dropped by 1 per level.
+Villager farmers will break fully grown carrots, and may pick up the carrots as well.
+Rabbits will find and eat mature carrot crops. The crops when eaten will not drop any carrots.
+Rarely, zombies may drop a carrot when killed by the player.
+Carrots generate naturally as crops in villages.
+To eat a carrot, press and hold use while the carrot is selected in the hotbar. Eating a carrot restores 3 () hunger (3 () in Pocket Edition) and 3.6 hunger saturation.
+Carrots can also be used to breed and attract pigs and rabbits.
+Villagers can pick up carrot items to become willing, which will allow them to breed. Villagers require 12 carrots to become willing.
+Villager farmers will buy 15-19 carrots for an emerald as one of their initial tier trades.
+All the seeds that exist in the game but nether warts, as of 12w34a.
+First image released by Dinnerbone of pigs being controlled with a Carrot on a Stick.
+Carrots and Potatoes found growing naturally in a NPC Village.
+Carrots in multiple stages of growth.
+A carrot that dropped from a zombie, just to the right of the spawner.

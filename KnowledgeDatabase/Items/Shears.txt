@@ -1,0 +1,13 @@
+Shears are a tool.
+Shepherd villagers sell shears for 3–4 emeralds as part of their initial tier trades.
+Shears are the most efficient way to get wool from sheep, producing 1-3 wool blocks (as opposed to killing a sheep which produces only 1 wool block).
+Shears can also be used to harvest leaves, tall grass, ferns (both normal and 2-high), dead bushes and vines. Note that when harvesting dead bushes it does not use up durability on the shears. Also, leaves harvested by shears do not decay. If leaves are sheared with shears, they will not drop saplings, unlike using a tool with a Silk Touch enchantment on leaves, which will occasionally drop saplings.
+Cobwebs can be destroyed by shears in half a second, dropping one piece of string. With a Silk Touch enchantment the cobweb drops itself instead.
+Shearing a mooshroom drops 5 red mushrooms and turns it into a normal cow.
+Shearing a tripwire connected to tripwire hooks doesn't trigger them.
+Shears can receive the following enchantments, but only through an anvil. Efficiency.
+ Unbreaking.
+ Silk Touch.
+The following table shows various things about shears. Colors indicate what will be dropped when the block is broken White: The original block.
+Colors indicate what will be dropped when the block is broken Blue: The Block's normal drop (i.e. string, seeds, sapling, apple).
+Colors indicate what will be dropped when the block is broken Red: Nothing.

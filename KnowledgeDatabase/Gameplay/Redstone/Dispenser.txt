@@ -1,0 +1,33 @@
+A dispenser is a solid block which can be used as a redstone component to dispense items.
+A dispenser can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
+Two dispensers are naturally generated in every jungle temple.
+A dispenser can be used as a container and as a redstone component which dispenses items when activated, with results varying on the item dispensed.
+To place a dispenser, use it while pointing at a surface adjacent to the space it should occupy. A dispenser can be placed so that its output faces in any direction, including up or down. When placed, a dispenser will face towards the player placing it.
+A dispenser cannot be moved by pistons, and water and lava will flow around a dispenser.
+A dispenser has 9 slots of inventory space.
+To open the dispenser GUI, use the Use Item control. To move items between the dispenser inventory and the player inventory or hotbar while the dispenser GUI is open, drag or shift-click the items. To exit the dispenser GUI, use the Esc control.
+By default, the GUI of a dispenser is labeled "Dispenser". A dispenser's GUI label can be changed by naming the dispenser in an anvil before placing it, or by using the blockdata command. For example, to label a dispenser at (0,64,0) "Alice's Dispenser", use blockdata 0 64 0 {CustomName:"Alice's Dispenser"}.
+A dispenser can be "locked" by setting the dispenser's Lock tag. If a dispenser's Lock tag is not blank, the dispenser cannot be accessed except by players holding an item with the same name as the Lock tag's text. A dispenser's Lock tag can be set or unset with the blockdata command. For example, to lock a dispenser at (0,64,0) so that only players holding an item named "Alice's Key" can access the dispenser, use blockdata 0 64 0 {Lock:"Alice's Key"}.
+A dispenser can be used to randomly dispense its contents.
+A dispenser is a redstone mechanism and can be activated by an adjacent active power component: for example, a redstone torch (except that a redstone torch will not activate a dispenser it is attached to), a block of redstone, a daylight sensor, etc.
+A dispenser is a redstone mechanism and can be activated by an adjacent powered opaque block (for example, a block with an active redstone torch under it).
+A dispenser is a redstone mechanism and can be activated by a powered redstone repeater or redstone comparator facing the dispenser.
+A dispenser is a redstone mechanism and can be activated by powered redstone dust configured to point at the dispenser, or on top of it, or a directionless "dot" next to it; a dispenser is not activated by adjacent powered redstone dust which is configured to point in another direction.
+Some of these methods can activate a dispenser (in the sense of triggering an action) without actually powering the dispenser (in the sense of whether the dispenser will power adjacent redstone dust, etc.).
+In addition to the methods above, a dispenser can also be activated by quasi-connectivity. A dispenser will be activated if one of the methods above would activate a mechanism component in the block above the dispenser, even if there is no mechanism component there (even if the block above the dispenser is air or a transparent block), but only when the dispenser receives a block update (including a redstone update within two blocks of the dispenser).
+A dispenser will not activate if it has been less than 1 redstone tick (2 game ticks, or 0.1 seconds barring lag) since its last activation ended.
+When activated, a dispenser waits 2 redstone ticks (4 game ticks, or 0.2 seconds barring lag) and then ejects one item. If multiple slots are occupied by items, a random occupied slot will be chosen for ejection. The slot is chosen when an item is ejected, not when the dispenser is initially activated, thus it is possible to move items into or out of a dispenser between its activation and item dispensing.
+The effects of being activated vary with the type of ejected item. Most items will simply be thrown in the direction the dispenser is facing, as if a player had used the Drop Item control. (Unlike a dropper, a dispenser can't feed another container.) Other items will behave differently when dispensed.
+When a dispenser dispenses an item, it emits a clicking sound (unless the item is a projectile or a spawn egg) and a smoke particle. If it is empty when activated, it emits a slightly higher-pitched click. The noise of a dispenser can be heard up to 16 blocks away.
+A dispenser is a full solid opaque block, so powering it directly can cause adjacent mechanism components (including other dispensers) to activate as well.
+Every dispenser has the ID name minecraft:dispenser, and is further defined by its block data and block entity. A dispenser also has a block state which is expected to replace the functionality of block data in a future version.
+A dispenser uses its block data field to store its orientation and activation status.
+Every dispenser has an associated Trap block entity that holds additional data about the dispenser.
+Dispensers can be placed facing up and down, as well as the side orientation.
+Dispensers placed facing down and up.
+The first image released by Mojang showing the new placement of Dispensers and Droppers. The Dispenser can be seen on the top.
+Some other blocks can also be used to move items Droppers can throw items or push them into adjacent containers.
+Some other blocks can also be used to move items Hoppers can push items into adjacent containers.
+Some other blocks can also be used to move items Ice and packed ice have reduced friction to item entity movement.
+Some other blocks can also be used to move items Slime blocks can impart velocity to item entities when pushed by a piston.
+Some other blocks can also be used to move items Water can push item entities.

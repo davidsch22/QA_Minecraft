@@ -1,0 +1,7 @@
+Clownfish are food items that are obtained by fishing.
+The most common way of obtaining clownfish, like any other fish, is fishing. They are rare, as the chance of a catch is 2%. The chance of one being caught can be increased with the 'Lure' enchantment.
+Another method of obtaining them is through defeating Guardians. This method is very inefficient, as the drop rate is roughly 0.05% (2.5 * 0.02).
+One clownfish restores 1 () hunger and 0.2 hunger saturation.
+Clownfish can be used to tame ocelots, like most other fish.
+Cooked Fish.
+Cooked Salmon.

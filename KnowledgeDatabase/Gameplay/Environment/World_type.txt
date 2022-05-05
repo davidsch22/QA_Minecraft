@@ -1,0 +1,2 @@
+World Type is an option for world generation. It allows the player to create worlds of specific type as provided. It currently offers the types Default, Superflat, Large Biomes, AMPLIFIED, and Customized, as well as Old in Pocket Edition.
+Map type.

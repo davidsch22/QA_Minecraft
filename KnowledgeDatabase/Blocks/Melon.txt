@@ -1,0 +1,8 @@
+ Melons were first introduced in Minecraft beta 1.8 Pre-Release Adventure Update. When a melon is destroyed, it will release several melon slices, which can be crafted in groups of nine into a Melon. as of 1.7, they can be found "wild" in Jungle Biomes.
+When destroyed, melons will drop (3-7 in 1.9 Pre-release 3, 1 in 1.9 Pre-release 4) melon slices. Melons will also be destroyed when a Piston of any kind pushes a melon block. If seeds and sticky pistons are placed in the correct formation, they can be used to auto harvest melons. One melon slice can be crafted into a melon seed.
+Melons can be somewhat difficult to farm. They will have a central stem that slowly grows until it reaches its maximum size at which point a melon will spawn on one of the adjacent blocks. The stem requires an Air block or a transparent block above it to produce melons, the resulting melon does not. Melon stems take around 10 to 30 minutes (0.5 to 1.5 Minecraft days) to fully develop. Melons can be grown on any surface, with a common misconception being that they will only grow on farmland. Another melon will grow in place of any other harvested melon. Any stem adjacent to a melon block will connect to it. Bonemeal can cause a melon stem to become fully-grown, but cannot produce a melon immediately. Melons are best grown in rows with one trench of water beside them, with two stems being on both sides. This will produce the maximum amount of melons and will keep them from being unable to produce melons.
+A melon, a melon slice, and melon seeds.
+Add a photo to this gallery.
+Melons were first revealed in an IGN interview with Notch.
+Two Melon Stems can sometimes be connected to one melon that grows beside them.
+As of 1.7.2, melons can spawn wild in jungles.

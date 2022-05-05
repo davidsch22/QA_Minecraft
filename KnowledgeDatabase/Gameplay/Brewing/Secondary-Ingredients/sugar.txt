@@ -1,0 +1,5 @@
+Dec value: 353.
+Hex value: 161.
+Maximum stack 64.
+Sugar is created from sugar cane and is used to create cakes, cookies and fermented spider eyes. They’re also used as a brewing ingredient, which creates a potion of swiftness or a potion of weakness. Despite being an ingredient in some edible item recipes, sugar itself cannot be eaten.
+Sugar cane is quite easy to farm as you only need to plant a single sugar cane and wait for it to grow. Note that it can only be placed on dirt, grass and sand directly next to water. Sugar cane growth cannot be sped up with bone meal, but it requires no light.

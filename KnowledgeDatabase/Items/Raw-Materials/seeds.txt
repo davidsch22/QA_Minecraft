@@ -1,0 +1,5 @@
+Dec value: 295.
+Hex value: 127.
+Maximum stack 64.
+Seeds are obtained by either destroying wheat, tall grass or ferns. Wheat in it’s last growth stage will drop the most seeds (0-3), while the others growth stages, as well as tall grass and ferns, only have a chance of dropping 1. Seeds are used to farm wheat, which is used to make food and breed animals.
+To farm wheat you simply hoe either a dirtor grass block, which will turn it into farmland. You can then plant the seeds on farmland and the seeds will grow over time. The seeds will require light of level 9 to grow. By hydrating the farmland the seeds will grow faster. This requires water to be within 4 blocks of the farmland.

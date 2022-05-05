@@ -1,0 +1,5 @@
+Blocks of Diamond (also known as Diamond Blocks) are decorative mineral blocks.
+Blocks of diamond can only be mined using an iron or diamond pickaxe.
+Blocks of diamond can be used to store diamonds in a compact fashion.
+Blocks of diamond can be used to "power" a beacon. The top layer must be at least 3×3 optional lower layers can be adding as 5×5, 7×7, and 9×9 from top to bottom. The layers do not have to be entirely diamond blocks, as they may also contain blocks of iron, blocks of gold, and blocks of emerald.
+One block of diamond and one wooden log is exactly enough to create a 80% set of diamond tools with one or no sticks left over, depending on if you use a sword or a hoe.

@@ -1,0 +1,5 @@
+Blocks of Iron (also known as Iron Blocks) are decorative mineral blocks made from iron ingots.
+Blocks of iron can only be mined using a stone pickaxe or better. If an iron block is mined without the use of a pickaxe, it drops nothing.
+Blocks of iron can be used to store iron ingots in a compact fashion.
+Blocks of iron can be used to "power" a beacon. The top layer must be at least 3×3 optional lower layers can be adding as 5×5, 7×7, and 9×9 from top to bottom. The layers do not have to be entirely iron blocks, as they may also contain blocks of gold, blocks of diamond, and blocks of emerald.
+Blocks of iron and pumpkins or jack o'lanterns are used to build iron golems. The pumpkin or jack o'lantern must be placed last, and the golem spawns immediately after placing it.

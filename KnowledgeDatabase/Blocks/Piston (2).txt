@@ -1,0 +1,28 @@
+ Pistons are one-block mechanisms capable of pushing most other blocks. They are Redstone-activated blocks and require the most other items to make than other Redstone blocks. Pistons can face all six directions: up, down, north, east, south, and west.
+Pistons will be facing the Player when placed.
+Pistons are redstone triggered. When powered, their wooden surface extends outwards by 1 block, pushing up to a maximum of 12 blocks.
+Similarly, if a block pushed by a piston is pushed into a player/mob, the player/mob will get pushed if there is space. If there is no space, the block will start to occupy the same space as the player/mob and cause suffocation if the block is opaque.
+When blocks are pushed by a piston, they are momentarily non-solid and cause any players/items on the moving block to fall through the moving block.
+Pistons can be used to toggle fluid flows like a flood gate by extending into or retracting from the space where the fluid would flow through.
+Pistons can push Minecarts and Boats. Note that if the minecart is on a rail, the rail will also get pushed, making it a drop.
+Pistons are usually used to create doors or traps such as massive opening pits.
+Adding a Slimeball to a Piston on a Crafting Table creates a Sticky Piston.
+If a piston pushes a Slime Block which has any movable blocks attached to it, than the Blocks will move as well. This method won't push un-movable blocks.
+ You can create "flying machines" with this function.
+ A piston with a Slime Block can only push up to 12 blocks.
+Some blocks cannot be pushed by Pistons and the piston head will not extend: Obsidian, Bedrock, Furnaces, Chests, etc.
+Pistons will not push blocks into The Void or the top of the map.
+Pumpkins, Cobwebs, Dragon Egg and Jack-O-Lanterns are turned back into items when pushed. (If trying to create extendable/retractable lighting, one can use Glowstone instead).
+Melons will turn into slices if pushed by a piston.
+Pistons cannot push water or lava, only obstruct it. A piston head extending into a water or lava source block will destroy the source block.
+Pistons cannot push most blocks that are "attached to a block” such as levers, torches, redstone, signs, etc. They will be detached and drop as an item. Exceptions include Trapdoors, as long as their hinged side remains attached to a solid block in their new position;.
+Exceptions include Rails (and Powered Rail, Detector Rail, Activator Rail) as long as they remain on top of a solid block in their new position. Rails will re-orient themselves after being pushed just as they do when placed manually.
+Blocks that are attached to pushed blocks will be broken off unless the block which is now under/behind them is also acceptable; for example, torches can be placed on a "self-repairing" cobblestone structure.
+Pistons cannot push a chain of blocks more than 12 blocks long, or else they will not extend.
+If a block that is extended by a piston upwards by one and it does not obey physics, it will float in mid-air when the piston is retracted.
+Pistons Corrupt in the Far Lands.
+If a piston pushes a gravity-affected block over a hole, the block will fall, even if attached to a sticky piston.
+Pistons cannot be used to 'crush' players or mobs against walls. A piston will simply pass through them if this is attempted. However, blocks being pushed by piston will crush players and mobs and suffocate them, making it useful for traps, and pistons can be used to make pits appear/dissapear and start/stop flows of liquids, which can also help with traps.
+Pistons were first introduced in the "Piston Mod", then they were implemented in the game officially.
+In beta 1.7.1 there was a block duplicating glitch using pistons and sticky pistons.
+Sticky Piston.

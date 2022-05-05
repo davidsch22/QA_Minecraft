@@ -1,0 +1,12 @@
+Dec value: 12.
+Hex value: C.
+Minimum tool requirement to break: None.
+Blast resistance: 2.5.
+Maximum stack 64.
+Transparency: No.
+Sand covers almost everything in desert biomes, but is also used for beaches. Sand is usually 3-4 layers thick and often supported by 1-3 layers of sandstone. Harvesting sand will always drop a sand block. Shovels are the fastest tool, but even using your hands is quite fast. Diamond shovels are often considered a waste, especially when a player doesn’t have many diamonds to spare. Iron shovels are very fast and more easily available. Sand can be smelted into glass blocks and is used to create sandstone and TNT. Sandstone cannot be turned into sand.
+Sand is affected by gravity and will fall until it is suported by another block. If sand falls on a partial block, like torches, minecrart tracks or redstone circuits, the sand block will be destroyed and drops on the ground. This can speed up harvesting sand a lot. A simple torch under any block supporting sand will quickly cause all the sand blocks to turn into resource blocks once the supporting block is mined.
+However, sand can be placed on top of partial blocks, which will prevent it from falling, untill that partial block is removed. This trick is often used in traps, usually by using torches as they can be washed away by water and lava. Falling while standing on a block of sand will not prevent the player from getting hurt through fall damage, neither will it reduce the damage. Sand can sometimes be found floating in the air. It’s possible to stand on it, but removing or placing a block next to it will cause it to fall to the ground.
+Falling sand will be slowed down by cobwebs, which could be used as a timer, though better methods are available, like redstone repeater circuits. ‘Sand offers a safe and easy method to fill up lava pools. ‘Placing’ the sand on the sides of blocks above lava, will cause the sand to fall into the lava lake and it’ll sink to the bottom of the lava lake.
+Sand also offers a safe way of getting down from heights, especially when there are no walls available to place other blocks on. By simply letting the sand fall down untill it reaches you, standing on top of it and digging the sand under you, a safe type of temporary elevator can be created.
+Sand is often used in deadly traps. Immobile mobs and players can be suffocated by dropping sand on them. The mob or player will get stuck in the sand and start to suffocate if their head is covered.

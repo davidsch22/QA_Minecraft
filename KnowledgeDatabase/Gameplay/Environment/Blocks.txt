@@ -1,0 +1,16 @@
+Blocks are the basic units of structure in Minecraft. Together, they build up the in-game environment and can be mined and utilized in various fashions.
+The textures on the faces of blocks are 16×16 pixels. Most blocks are proportionately one cubic meter by default, but their shape can be changed using models. Most blocks also have static textures, though water, lava, portal, fire, sea lantern and prismarine blocks are animated. All blocks, with the exception of sand, red sand, gravel, anvils and dragon eggs ignore gravity.
+Using resource packs, the player can change the textures of blocks, including whether their texture is animated. They can also change the shapes of blocks using models and the size of blocks to any size with equal width and height, though sizes that are a power of two tend to work better.
+"Naturally generated" includes blocks that are created through the world seed.
+These are blocks that were created by natural events, such as water and lava creating obsidian.
+Same as "naturally generated", but these blocks are created with the "generate structures" option enabled.
+These blocks are generated as part of nether fortresses.
+Data values.
+Opacity.
+Light.
+Items.
+Ore.
+Technical blocks.
+Generated structures.
+Altitude.
+Air.

@@ -1,0 +1,6 @@
+ Glass is a transparent block made by smelting sand in a furnace. Sunlight can penetrate through Glass, making it useful for buildings such as greenhouses and in-door farms, or being used as a view-port. As of 1.8 beta, Glass can naturally be found in NPC Villages. Glass Blocks adjacent to each other are invisible when viewed through Glass, and snow cannot land on Glass Blocks, meaning that it is useful for areas that the player does not want it to snow on. Unlike other Blocks, Glass Blocks cannot be recollected, and are destroyed if the player attempts to mine it.
+In Survival Test Mode, Glass Blocks could be broken very quickly and would drop a Glass Block to pick up. The only way to obtain Glass Blocks at that time was to place them on the map before the level was loaded in the client.
+Mobs cannot spawn on Glass floors or ceilings.
+When Glass is placed over a dropped item, the item is trapped inside the Glass but can be retrieved normally.
+As of 1.2, Torches can be placed on top of Glass, but not on the sides of it.
+Glass Blocks can be picked up with a pickaxe that has the Silk Touch enchantment on it.

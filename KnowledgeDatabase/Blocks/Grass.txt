@@ -1,0 +1,30 @@
+Grass (commonly named Tall Grass or Long Grass) is a non-solid plant used to obtain seeds. The color of grass is biome dependent and is usually the same color as leaves.
+When broken normally, all variants will drop either nothing or seeds. They can be obtained as an item using shears.
+The double tallgrass and large ferns will drop two of the respective single block tall grass when mined using shears.
+Water will destroy any tall grass in its way.
+Grass and double tall grass generate on grass blocks in most biomes that generate grass.
+Ferns and large ferns occur naturally only in jungle, taiga, and mega taiga biomes.
+Shrubs, though identical in appearance to the dead bushes found in deserts and mesas, do not naturally generate.
+Bone meal can be used on a grass block to grow grass and occasionally flowers on it and in its vicinity.
+Bone meal can also be used on either tall grass or a fern to create a double tall grass or large fern.
+A shrub looks identical to the dead bush, except that it will occasionally drop seeds, and is randomly offset from the center of its block like grass. It can be obtained using /give @p minecraft:tallgrass 1 0 <dataTag>.
+Grass requires a block light of 8 or higher to survive.
+All variants of grass have a 1/24 chance of dropping seeds. In addition, using shears to harvest the block itself will have a 1/24 chance to drop seeds as well.
+Ferns can be placed in flower pots.
+Grass is defined by its ID and block data. Grass also has a block state which is expected to replace the functionality of block data in a future version.
+minecraft:tallgrass.
+minecraft:double_plant.
+Grass cannot be directly set on fire from lightning. However, fire from nearby blocks can spread to it. Oddly enough, the top of grass can be lit but it will not burn this way. When any kind of tall grass is set on fire, the fire seems to hover just over the grass, as if it were a full block.
+Even though ferns do not produce seeds in real life, as ferns use spores instead, they can drop seeds if broken.
+Grass is slightly offset from the block it is sitting on (as seen in the second screenshot). This causes fields of grass appear more contiguous and not like dotted patches of hair atop blocks.
+Grass can appear in caves on dirt near lava, and rarely, within a few blocks of bedrock or in a village house.
+Using bone meal on grass in a spawn-protected area will still produce tall grass and flowers.
+Ferns in real life usually grow multiple stems from one plant unlike the Minecraft fern where it is just one stem. It sort of resembles a small sapling.
+If you're standing in double tall grass you will be hidden from mobs. This also works with flowers, vines and sugar cane that are at least two blocks tall.
+The dead shrub variant of tall grass is available in the creative menu.
+Grass is called "Grass Block".
+Grass and ferns.
+Grass appears slightly offset from a grass block.
+Grass and ferns in Pocket Edition have a randomly selected height.
+Grass growing in an abandoned mine shaft.
+Tall grass that was set on fire using flint and steel.

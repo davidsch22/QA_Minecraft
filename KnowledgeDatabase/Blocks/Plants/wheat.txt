@@ -1,0 +1,9 @@
+Dec value: 296 Hex value: 128.
+Minimum tool requirement to break: None.
+Blast resistance: 0.
+Maximum stack 64.
+Transparency: Yes.
+Wheat only occurs naturally in villages, which can easily be stolen, but will not regrow. Wheat can also be grown by a player by planting seeds on farmland. Seeds are easily obtainable. You could either destroy tall grass, which has a chance of dropping seeds or you could harvest wheat, which drops seeds in any stage. But, wheat will only drop wheat when harvested in it’s final stage, it can also drop more seeds in this stage, up to 3 per wheat.
+Besides farming wheat, wheat can also be used to breed chickens, cows, pigs, sheep and mooshrooms. Feeding 2 mobs of the same species wheat will make them both go in love mode, they will go towards each other and turn in circles around each other. After a few seconds a baby animal will spawn.
+The above mentioned animals will also follow you if you’re holding wheat in your hand, no matter how many animals are already following you. This can be used to make a massive herd of animals follow you wherever you go, and makes it easier to lure animals into their own shelters.
+The basics of wheat farming are incredibily simple. You simply till land by using a hoe on grass or dirt, plant the seeds and wait. Making sure water is within 4 blocks of the farmland will hydrate it, which will speed up the growing process of wheat. Like most plants, wheat requires a light level of 9 or more to grow. There are 7 stages of growth in wheat, the first 6 are quite similar, though different in size and slowly changing to a yellow colour. The final stages is the tallest and is brown and yellow.

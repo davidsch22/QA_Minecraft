@@ -1,0 +1,30 @@
+Sheep are passive mobs that supply wool.
+The majority of sheep are white, with an 81.836% chance of spawning. The light gray, dark gray, and black sheep have a 5% chance of spawning. Using a spawn egg to get one of these sheep types lies at a reasonable 15%. Brown sheep have an uncommon 3% chance to spawn. Pink sheep have a 0.164% of naturally spawning.
+Sheep spawn on grass blocks at light level of 9 or more with at least 2 block space above. They often spawn in flocks of 4 during world generation.
+Sheep drop 1 wool when killed, while shearing woolly sheep will drop 1 to 3 wool. The wool dropped will be the same color as the sheep's wool. The rates and amounts of both drops is not affected by looting. However, you can actually perform a trick where a sheep technically drops 2-4 wool upon death. First hit the adult sheep until its health has been decreased down to 1 HP or half of a heart. Then get out your shears, then punch it again, and while it is dying, quickly shear it. You'll not only get 2-4 wool, but also 1-2 raw mutton along the way!
+Sheep also drop 1 to 2 raw mutton. The maximum amount of meat dropped can be increased by 1 per level of Looting, up to a maximum of 5 when using Looting III. If the sheep dies while on fire, the mutton will be cooked. This drop is exclusive to the PC edition.
+Sheep will also drop 1 to 7 experience when breeding and 1 to 3 experience upon death.
+Lambs, like other baby animals, do not drop items or experience. They also cannot be sheared for their wool.
+Sheep are 1.25 blocks tall, 0.625 blocks wide and 1.4375 blocks long.
+Sheep act like most passive mobs; they wander around aimlessly, usually avoiding falling off cliffs high enough to cause damage, and usually staying out of water. They can be heard bleating occasionally. They will try to jump over obstacles one block high, which causes strange and somewhat humorous behavior near fences, walls and similar blocks. Sheep will follow a player holding wheat, but will cease following if the player moves more than approximately 5 blocks away from the sheep.
+Sheep's wool can be dyed by pressing the use key while holding any dye, and can be sheared the same way when holding a shears.
+Sheep will eat grass blocks (turning them into dirt) and tall grass (destroying them). When they do this, their wool grows back. This means that if there is no grass anywhere, a sheep cannot regain its wool after being sheared. They will retain their wool color if it has been dyed before it was sheared, although the wool patches seen on a sheared sheep will be white regardless of their actual color. However, in the Pocket Edition, they will be dyed accordingly, and the white patches on the face will also be dyed.
+If a sheep is named jeb_, its wool will smoothly cycle through all dye colors in a similar manner to prismarine. This is only a visual effect, as when it is sheared, the sheep will drop the same color of wool that it actually is.
+Sheep can be bred with wheat, after which they spawn a baby sheep (or lamb), and cannot breed for 5 minutes. If the parents have 'compatible' wool colors (meaning that the corresponding dye items could be combined into a third dye color), the resulting lamb will be a mix of their colors (e.g., blue sheep + white sheep = light blue lamb). Otherwise, the lamb will be the same color as one of the parents, chosen at random. It doesn't matter if either parent has been sheared.
+The growth of baby sheep can be slowly accelerated using wheat. Each use takes 10% off the remaining time to grow up.
+If a sheep spawner is placed via /setblock, there will be a black sheep model spinning inside, and it will spawn only naturally spawning sheep colors; unless you add custom NBT tags to determine color. If custom NBT tags are added to determine color a white sheep still has the usual chance of being a different color.
+Sheep can eat grass through partial blocks, and also while moving in minecarts.
+Sheep cannot fit through the gap if the 90 degree intersection of two fences is removed whereas the player (and most other mobs) can get through easily.
+When a sheep is spawned on a fence, it will not fall off the fence but it can move to any adjacent fences. You can make it fall off the fence by leading it off with wheat. When a sheep is spawned on a wall, it will fall into it.
+Brown, light gray, gray, pink and black are 5 of the naturally spawning colors of a sheep.
+A large flock of sheep.
+A lamb with an adult.
+The first screenshot on breeding released by Notch.
+The sheep grass-eating animation.
+The lamb grass-eating animation.
+Sheep that have been dyed by the player.
+A Jeb lamb.
+The relative probabilities of naturally spawned sheep colors.
+In Pocket Edition, the sheep's color around their face and overlay when sheared corresponds their wool color.
+All of the possible sheep wool colors (dyed by the player.) Sheep in Pocket Edition have colored wool remnants.
+Sheep.

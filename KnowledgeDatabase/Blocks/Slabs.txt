@@ -1,0 +1,17 @@
+Slabs are highly blast resistant half blocks used for building that generate naturally in Strongholds and Villages and are crafted in sixes with any of 8 different materials by making a horizontal line of 3 full blocks of the material being used in a Crafting Table. Slabs of the same type can be stacked to make full blocks, which sometimes look the same as the regular block, but sometimes look different.
+Stone slabs were introduced to the game on October 24, 2009, in Survival Test 0.26.
+Sandstone, Wood, and Cobblestone slabs were added in the Beta 1.3 update on February 22, 2011.
+Stone Brick and Brick slabs were added in the Beta 1.8 update on September 15, 2011.
+Red Sandstone slabs were added in Minecraft 1.8 update (Snapshot 14w32a, August 6, 2014).
+Despite the fact that sneaking lowers players' eye level to 1.5 blocks high, doing so does not allow the player to walk over a single slab with one block of air above it.
+Back in the beta version, Notch made a test on Dirt Slabs. These were never added in the game.
+Unless Water is flowing directly down on a Slab, a slab will block water flow regardless of the space above it.
+Before 1.3.2 Wooden Slabs' ID was a variant of Stone Slabs', so you needed a pickaxe to break wooden slabs. However, this still occurs on the Pocket Edition.
+In the Joke Update Minecraft 2.0, a new slab known as the Etho Slab was added. The name was a reference to the Minecraft YouTuber, EthosLab. This slab version of TNT would have a larger blast and if a player is close enough, will spawn an anvil above them.
+The bottom of Ender Crystals appear to be Bedrock Slabs.
+Single Slabs not blocking Redstone.
+Double Slabs blocking Redstone. (Note: the old texture of double Stone Slabs).
+Dirt Slabs or "Tiles".
+A Fan Made TNT Slab (Not in actual Game).
+Different wooden plank slabs.
+Add a photo to this gallery.

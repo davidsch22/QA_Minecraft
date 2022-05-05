@@ -1,0 +1,8 @@
+Cooked chicken is a food item that can be eaten by the player.
+When a chicken dies while on fire, it will drop one cooked chicken instead of raw chicken. It does not matter if the player was involved in the chicken's death, and the Looting enchantment will not increase the number of cooked chicken drops.
+Raw chicken can be cooked in a furnace. Each piece of cooked chicken removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+Villager butchers will offer 6–8 cooked chicken for an emerald as one of their second tier trades.
+To eat cooked chicken, press and hold use while it is selected in the hotbar. Eating one restores 6 () hunger and 7.2 hunger saturation.
+Cooked chicken can also be used to heal or breed tamed wolves.
+Cooking chicken.
+Cooked chicken in an inventory.

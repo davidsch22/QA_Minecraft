@@ -1,1 +1,0 @@
-A Nether brick is an item made by smelting Netherrack in a furnace.

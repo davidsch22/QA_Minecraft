@@ -1,0 +1,17 @@
+ Fire is a non-solid block. It has an animated face on all four sides, and two faces on the inside at slants. Fire is never created naturally when chunks generate, except in the Nether. It will be created if the player or a Ghast creates it, when Lava burns a flammable object, if lightning strikes a flammable block, or by using the Flint and Steel tool and the Fire Charge. Fire emits pixelated gray smoke while it is burning. Fire produces 15 units of light.
+Fire will spread over flammable surfaces, slowly causing all the blocks it can reach to burn away. Fire can climb up walls, across floors and ceilings and over small gaps. More precisely, a fire block can turn any air block into fire that is adjacent to a flammable block and up to one block downwards, one block sideways and four blocks upwards.   .
+Wood (and wood based blocks, like Fence Gates, Bookcases, Fences etc), Vines, Grass, Wool, etc are all flammable; TNT will detonate if adjacent to fire. Leaf Blocks are the fastest to be consumed by Fire as they are only 50% solid. Fire can be set out simply by hitting it. After being set out, it will make a hissing noise of a fire going out.
+Netherrack, a block found in The Nether, will burn forever when lit on fire, and can therefore be a useful trap or defense material around the player's shelter; although the player should be reminded that everything will burn in fire, including dropped items that fall in fire and any nearby flammable blocks. If placed in the overworld before rain falls, the fire will not go out but if lit in rain it will go out slowly.
+Cows, pigs and chickens will drop cooked meat if they die while they are on fire. However, while attempting to burn them with lava, they will sometimes drop raw meat if the damage tick from the lava was the decisive one to the animal's life. This is because the burning attribute for Lava only comes after the damage which the Lava block deals upon contact, so the animal will die from normal damage without being burnt.
+The Wooden Double Slab was formerly non-flammable, but this has been fixed.
+Via inventory modding, it is possible to create fire as a non-stackable block and with it, one is able to create chainmail armor.
+It's normally impossible to get the fire block, although you can rarely obtain chain mail (through Trading with a Villager or rare drop from a mob wearing it).
+Tall Grass on fire for a few seconds.
+Fire set with Fire Charge.
+A house in a village burning.
+Add a photo to this gallery.
+10 messages TKYLE20.
+		CandD wrote:Fire be aquired by setting the ground on fire with a Fire Charge and waiting until the fire goes out. It will then change into an i...		2013-01-31T21:59:31Z.
+10 messages CandD.
+		Without the wiki, I would have no Idea how to make an enchantment table. I also wouldn't have known that emeralds existed!		2013-01-31T22:50:28Z.
+See more discussions >

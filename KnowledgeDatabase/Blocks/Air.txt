@@ -1,0 +1,4 @@
+Air is a block in Minecraft used to represent unoccupied spaces.
+Air cannot be kept in the inventory and can only be destroyed or created by the placement or removal of other blocks respectively.
+Most generated structures generate air. Air is also generated in any space not occupied by another block.
+Air and non-solid blocks are the only spaces the player and other mobs are allowed to move within without suffocating. The sole exception is the Ender Dragon which can move within all blocks, although it will destroy most blocks it moves within if the mobGriefing gamerule is on.

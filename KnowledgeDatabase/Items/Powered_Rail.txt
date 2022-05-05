@@ -1,0 +1,16 @@
+ The Powered Rail is a block that was implemented to decrease or increase speed of moving Minecarts. It was added as a response to the minecart booster bug, which was fixed with the release of Beta 1.6 . Powered Rails cannot be curved like Detector Rails or Rails.
+Powered Rails are operated by Redstone currents, which may come from a Lever, a Button, another circuit, a redstone torch, or a Detector Rail.
+Powered rails, much like redstone wire, have two possible states: on or off.
+A rail that is "off" slows any passing minecart by applying a frictional force. The force is generally strong enough to bring a moving minecart to a complete stop, or to hold a minecart in place on a slope. However after going down a slope 80 or more blocks long one unpowered booster rail will not stop the minecart.  .
+A rail in the "on" state will accelerate a minecart if any of the following is true.
+The minecart is already moving, in which case the cart is accelerated in the direction of motion.
+The minecart is stationary, but one end of the powered rail is up against a solid block. In this case, the cart is accelerated in the direction that is not blocked.
+The minecart is stationary, but the powered rail is on a slope. The instant the powered rail is activated, the brake is released and the cart will start moving down due to gravity. As the cart is now moving, rule (1) applies and the cart is accelerated in that direction.
+The second and third cases can both be used to create simple stone button-activated launchpads.
+Power can be transmitted to the rail from any of the six adjacent positions (above, below, or any side) in the same ways that redstone wire is powered. Strangely, the rail can also receive power from the five positions immediately above those adjacent positions. In other words, the rail acts as if it is two blocks high, and can receive power through any of eleven adjacent spaces, just like a door. This works whether the upper space is occupied or empty. However, powering the rail through the upper space currently exhibits more bugs related to updating.
+The speed of a cart which is boosted using Powered Rails is calculated to be at the maximum of 8 m/s, however the cart maintains an internal "momentum" value that keeps the cart at the maximum speed of 8 m/s until the excess momentum is depleted.
+Launching from rest via four powered rails, an occupied cart has enough momentum to climb a 1/1 slope 10 blocks high without further boosting, and then travel horizontally at a very slow speed for at least a dozen blocks before coming to a stop. Such a cart does not have enough momentum to climb a 11 block high slope. An empty cart in a similar setup will only climb 5 blocks and then travel a few blocks horizontally.
+Powered rails will always show as powered in the inventory even if destroyed and collected while it was unpowered.
+In the coding, powered rails are referenced as "goldenrail".
+Unlike the Rail, the powered rail cannot be boosted by a pig.
+ They are in Pocket Edition but they are unable to be turned off.

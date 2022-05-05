@@ -1,0 +1,10 @@
+Netherrack (formerly known as Netherstone) is a rock-like block found in the Nether.
+Netherrack can only be collected with a pickaxe.
+Netherrack makes up most of the Nether's terrain.
+In Pocket Edition, Netherrack is created when a Nether Reactor is activated.
+When netherrack's top is lit on fire, it burns infinitely.
+Netherrack can be destroyed by hand in 2 seconds, making it the stone which can be destroyed in the least amount of time.
+Netherrack can be mined in 50 milliseconds with a golden pickaxe (or a diamond pickaxe enchanted with any level of efficiency). However, there is a .25 second delay between mining blocks. It can be instantly destroyed by an efficiency II diamond pickaxe or better, and there is no .25 second delay, because the time needed to mine it is less than one game tick.
+In the game code, it is referenced as "hellrock".
+Tutorials/Mob farm.
+Tutorials/Traps.

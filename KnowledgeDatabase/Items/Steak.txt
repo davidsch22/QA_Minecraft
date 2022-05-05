@@ -1,0 +1,7 @@
+Steak is a food item obtained from cows.
+When a cow or mooshroom dies while on fire, it will drop one to three steak instead of raw beef. The Looting enchantment will increase the maximum number of steak drops by 1 per level.
+Raw beef can be cooked in a furnace. Each steak removed from a furnace output slot gives 0.35 experience (22.4 experience per stack).
+To eat steak, press and hold use while it is selected in the hotbar. Eating one restores 8 () hunger and 12.8 hunger saturation.
+Steak can also be used to heal or breed tamed wolves.
+Raw beef and steak shown in the inventory from a preview screenshot.
+A still frame of the player eating a steak.

@@ -1,0 +1,5 @@
+Glowing Obsidian is a block that appears in Minecraft: Pocket Edition.
+The Glowing Obsidian will occur when the Nether Core Reactor is activated. All the materials that are used to activate the reactor (14 Cobblestone blocks and 4 Gold blocks) will covert to Glowing Obsidian when the reactor is activated. The Glowing Obsidian appeared to be a red Obsidian that glows. Once the Reactor has "burned out" the Glowing Obsidian will then turn to regular Obsidian, which can then be collected with a Diamond pickaxe. If mined while the reactor is activated, it will still drop regular Obsidian. Glowing Obsidian can only be obtained through editors.
+1.02_6 is the first appearance of the Glowing Obsidian.
+1.02_7 added smoking effects on the Glowing Obsidian.
+1.20_8 fix bug for breaking the Glowing Obsidian and the Nether Reactor.

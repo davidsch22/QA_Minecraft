@@ -1,0 +1,1 @@
+A Baked Potato is a food item created by putting a normal Potato in a Furnace. Poisonous Potatoes cannot be cooked into a Baked Potato, however. This food item restores .

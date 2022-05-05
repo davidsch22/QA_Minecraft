@@ -1,0 +1,2 @@
+Steak is a food item obtained by cooking raw beef, which is dropped by Cows. It restores . When a cow dies from heat damage from Fire or Lava, they will automatically drop steak instead of raw beef.
+It's highly advised to use steak as a primary source of food, as the raw material is easily harvested, restores the second-highest amount hunger points out of any easily-obtainable, stackable food and provides the highest food saturation. .

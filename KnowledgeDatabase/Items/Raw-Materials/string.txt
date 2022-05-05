@@ -1,0 +1,6 @@
+Dec value: 287.
+Hex value: 11F.
+Maximum stack 64.
+String is obtained by killing spiders and destroying cobwebs, but can also be found in dungeon chests. Cobwebs can be found in abandoned mineshafts and strongholds.
+String is used to create bows, fishing rods and wool. As most players only need a few bows and hardly ever use a fishing rod, large quantities of left over string can make a nice supply of extra wool. However, wool cannot be turned back into string.
+Farming string is quite easy as spiders can be found everywhere in the overworld, both at night and during the day. Dungeons occasionally have spider spawners, which makes it easy to set up an automated spider farm. Cave spider spawners are also a common sight in abandoned mineshafts, sometimes close together, which makes abandoned mineshafts the perfect place to either kill lots of spiders or to build a farm.

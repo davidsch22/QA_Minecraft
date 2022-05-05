@@ -1,0 +1,51 @@
+Creepers are common hostile mobs that explode when close to the player.
+Creepers naturally spawn in the Overworld on top of solid blocks with a light level of 7 or less.
+Creepers drop 0-2 gunpowder, and a music disc if killed by a skeleton arrow. They also drop a creeper head if killed by a charged creeper's explosion. They drop 5 experience when killed by a player or tamed wolf.
+Creepers will chase after any player, as long as he/she is within a 16 block (±5%) radius and ±4 blocks vertically. Creepers can climb up ladders and vines like any other mob, but do not do so intentionally.
+When within one block of a player, a creeper will hiss loudly, start flashing and inflating, and violently explode after 1.5 seconds. A creeper's detonation can be halted if the player gets out of the blast radius (about 3 - 5 blocks, depending on the difficulty setting; including by knocking back a creeper) or kills it. However, the creeper's fuse countdown lasts a little longer if it encounters a cobweb. Creepers do not explode in creative mode unless flint and steel is used on it.
+Creepers will flee from ocelots and cats if one is too close, until they are approximately 25-30 blocks away from the feline.
+A creeper's explosion has a power of 3 (but see an exception below).
+Creepers are never targeted by any mobs, other than the wither. If they are hit by a stray projectile, they will only retaliate if they are not already chasing a player.
+A charged creeper is created only when lightning strikes within 3–4 blocks of a normal creeper, which significantly increases its explosive power. Charged creepers are distinguished from normal creepers by the blue aura surrounding them.
+Their countdown timers are the same as normal creepers, both in terms of range and time. With a power of 6, an explosion caused by a charged creeper is twice as powerful as the explosion caused by a regular creeper (see image).
+Charged creepers have the same entity ID as normal creepers. The only difference is that the value of the boolean "powered" tag is set to "1" (true).
+Charged creeper explosions will cause a zombie, skeleton, wither skeleton, or other creeper to drop the corresponding mob head, one per explosion.
+Notch stated on Twitter that "I imagine [Creepers] as being made out of leaves or similar. I'm not sure why they explode.".
+In SMP, if a creeper is attacked by another player, and the other player runs out of sight, it will not attack any other players.
+When about to detonate, creepers will cease movement and its head will face directly forward. (Tested in the PC edition).
+When asked how creepers trigger their explosive nature, Dinnerbone said "They're so nervous that they shake a lot, and then this sets them off the same way as how rubbing two sticks makes fire".
+When attacking, creepers walk straight, and then once they reach detonation zone, they always strafe to the left of the target entity.
+Creepers have a formidable reputation in the community because of their potential to hurt players and destroy structures. Their distinct appearance and destructive abilities have made them a widely-recognizable Minecraft icon. Creepers are referenced in several of the items available at the Minecraft merchandise depot, and have become an internet meme complete with fan art, web comic references, and demotivational posters. A central part of the meme is the creeper's unofficial catchphrase derived from the mob's tendency to sneak up on the player and hiss before detonating.
+"That'sssss a very nice <random valuable object> you've got there... It'd be a ssssshame if anything were to happen to it...".
+Creepers have been portrayed in many Minecraft products including but not limited to Stuffed toys.
+Creepers have been portrayed in many Minecraft products including but not limited to Action figures.
+Creepers have been portrayed in many Minecraft products including but not limited to Bracelets.
+Creepers have been portrayed in many Minecraft products including but not limited to T-shirts The creeper anatomy T-shirt reveals the insides of a creeper, and also reveals its scientific name: Creepus Explodus.
+Creepers have been portrayed in many Minecraft products including but not limited to LEGO Minecraft.
+Creepers have been portrayed in many Minecraft products including but not limited to Papercraft.
+Creepers have been portrayed in many Minecraft products including but not limited to Minecraft Facebook profile image.
+Creepers have been portrayed in many Minecraft products including but not limited to In the goodie-bags given out at Minecon 2011, creepers were given as a fold-able and tapable decoration for ones room or collection, along with diamond and grass.
+Minecraft Maps The Custom Map OXM Land made by Oxm Magazine on the Xbox 360 version of Minecraft has a giant creeper head on it, known as the land's god Creepthulhu.
+TV Series Several creepers have appeared on TV during episodes of the TV show Mad (Criminal Minecraft and ThunderLolcats ) In ThunderLolcats they use the catchphrase, saying "That'ssss.. a nice wall you've got there.".
+Youtube Videos YouTube hosts many videos that feature creepers, including review videos, "Let's Play"'s, cartoons, and cameos in many other videos. When searching for the query "Minecraft Creeper", YouTube returns over 1,500,000 videos.
+Console/PC Games In Borderlands 2, creepers appear in a mineshaft in the most north-west part of Caustic Caverns, including dirt, coal ore, stone, gold ore, and a "Badass creeper" that is twice the strength and size of a regular Creeper.
+Console/PC Games In Airmech, creepers appear as a unit "skin" for the suicide bomber unit the boomer. Creepers can be either green, blue, or red, depending on the color of the team that makes them.
+Console/PC Games In Octodad: Dadliest Catch, a creeper head is seen on a shelf in the grocery store along with 2 Pickaxes and some grass blocks. It is part of a collection known as "Mintcraft".
+Console/PC Games In Awesomenauts, one of the playable characters (Clunk) has a "skin" referencing the creeper, complete with hissing and explode sound effects.
+Console/PC Games Seen as a Halloween costume in a game called Terraria.
+Flash Games In Stealing the Diamond, when Henry Stickmin sneaks up to the museum's outer wall with a pickaxe, a Creeper comes up behind him and explodes, destroying part of the wall instead.
+Flash Games At the far end of the map in Stick RPG2, a smiling creeper can be seen in a hole at ground level.
+Flash Games One of the things you can hit in Katawa Crash is a creeper.
+Flash Games In the game Transformice, there is a creeper head that you may purchase as a hat for your mouse.
+Other Games In a game called Quube Twodee made by Universal Chicken in Adelaide, Australia, one of the levels has a creeper face.
+Other Games PixelJunk Shooter 2 for the PS3 shows a small creeper in the title screen hidden among other enemies native to Shooter 2.
+Other Games In a Notch-designed custom level for VVVVVV, "Pyramid Escape", a creeper's face can be seen carved into the background to the far left of the pyramid.
+Other Games In Torchlight 2 the creeper plays an important role in an "Easter egg" mission in the cave named "Notch's cave" where the player walks in and sees a group of creeper charging the player then exploding. Near the end of the cave you can find a minecraft skinned sword.
+Other Games In a game called Strollin, there is a purchasable creeper item, which makes bombs throw you farther.
+Other Games In the mobile game Geometry Dash, beating level 16 "Hexagon Force" on normal mode rewards the player a creeper face cube. This can also be colored to make it look like a normal one.
+Other Games When asked to describe the physical texture of a creeper, Notch said they would feel "crunchy, like dry leaves".
+Other On Monday, June 18, 2012, a creeper was sent above the clouds into space.
+A charged creeper next to a normal Creeper.
+A charged creeper created via spawn eggs and the /weather thunder command.
+Comparison of explosions, from Wither Skull (top left), wither (far left), creeper (left), charged creeper (right), and TNT (far right).
+Tutorials/Charged creeper farming.

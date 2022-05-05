@@ -1,0 +1,9 @@
+Dec value: 19.
+Hex value: 13.
+Minimum tool requirement to break: None.
+Blast resistance: 3.
+Maximum stack 64.
+Transparency: No.
+Sponges were once part of the game and had the ability to absorb water within 5 blocks from it, in all directions. They were implemented to stop the flow of water, which didn’t have the limited flow properties it has today. The sponges ability to absorb water were often used to clear large parts of a lake, which made it very easy to build an underwater base. Removing the sponges would let the water flow again.
+Sponges were also perfect to prevent griefers from flooding your house, though in those days most servers didn’t have the anti griefing plugins they have today, so most griefers could simply destroy the sponges and flood your house anyway. Hiding the sponges would delay them, but was often just delaying the inevitable.
+Today, sponges are available in creative mode and by using mods, but they no longer absorb water. They’re purely decorative, often used as a floor in themed rooms, like a child’s bedroom. They’re also used in underwater landscaping, though this is less common.

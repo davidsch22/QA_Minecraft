@@ -1,0 +1,27 @@
+ Pumpkins are blocks that appear on grass in a similar manner to mushrooms but does not spread. They are found most commonly in Mountain and Plain Biomes, but can also appear in sandy and snow covered areas, albeit rarely. They can appear in Swamp biomes as of Update 1.8. They are usually found in groups but can sometimes be found as one single pumpkin. Natural pumpkins are rarer than diamond ore, most commonly found in mountain and hill biomes. They look like Jack-O-Lanterns.
+Harvested pumpkins can be equipped as a helmet without any actual armor value. It is unique in that it limits the player's view of the world as if it were seen from inside the pumpkin. The pumpkin helmet can be removed and placed into the player's inventory. Although it has no armor value, it can be a serious help during nighttime expeditions: When worn as a helmet, the player may look directly at endermen with no worry as to whether the Enderman will attack the player.
+Pumpkins can be use to make jack-o-lantern, a decorative item that lights an area up and can be placed underwater.
+As of the 1.9 pre-release, a snow golem can be crafted by vertically stacking two snow block on the ground, then placing a pumpkin on top of it. Snow Golems throw snowball at hostile mobs.
+It is rarely possible for pumpkins to be found in strongholds, dungeons, and abandoned mine shafts.
+One pumpkin can be crafted to make four pumpkin seeds.
+Iron golems are made with Pumpkins and iron block, by 2 iron blocks up 1 on both sides and 1 pumpkin on top.
+A player can create pumpkin pie using a pumpkin, sugar and an egg. The pie restores  when eaten.
+Pumpkin has Data values up to 4.
+0: Facing south.
+1: Facing west.
+2: Facing north.
+3: Facing east.
+4: Faceless.
+The pumpkins already have faces carved into them when they grow.
+When worn in the Xbox 360 version it has no real use other than aesthetic purposes.
+Pumpkins cannot be placed when there is an air block below it. .
+When a Pumpkin is pushed from a piston from below, it will break and you can collect it.
+Pumpkins cannot be pulled back by Sticky Pistons.
+When you wear a pumpkin in The End, the Endermen will not bother you. However, the disadvantage is that it limits your field of vision, which can increase the danger of the dragon successfully attacking you.
+A player wearing a pumpkin.
+A group of pumpkins spawned naturally.
+Inside view of a pumpkin.
+Close up of player wearing pumpkin.
+Pumpkin Seeds.
+Pumpkin Pie.
+Add a photo to this gallery.

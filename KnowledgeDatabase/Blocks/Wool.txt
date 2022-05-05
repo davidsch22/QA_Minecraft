@@ -1,0 +1,13 @@
+Wool (previously known as cloth) is a block derived from sheep that can be dyed in any of the 16 different colors.
+Wool can be broken using any tool, but shears are the fastest.
+1 to 3 wool is harvested by using shears on an adult sheep. If unshorn, sheep will drop 1 wool upon death. The wool dropped will be the same color as the sheep's wool. The drop rates are not affected by the Fortune or Looting enchantments.
+White, light gray, gray, black, brown, and pink wool can be found naturally on sheep. The rest of the colors require dyeing sheep.
+Black wool can also be found naturally in villages as part of a streetlight-like structure where they lie on top of three fence posts, surrounded by 4 torches.
+Shepherd villagers sell each separate color of wool for a price of 1 to 2 emeralds for one wool as part of their tier 2 trades.
+Wool blocks are weak, highly flammable, and offer little resistance against explosions. Their primary usage is as a decorative block.
+Shepherd villagers buy 16 to 22 white wool for 1 emerald as part of their tier 1 trades.
+Any color of wool or wood may be used for beds and paintings but it has no effect on the product's final appearance.
+The damage values for wool and their respective dyes are the inverse of each other. This is also true for stained glass and stained clay.
+White wool can be crafted together with bone meal, but this simply wastes the bone meal.
+On the Console Edition tutorial world, the Minecraft Logo seen in the sky is made of light gray and black wool.
+Wool is referred to cloth in the game code.

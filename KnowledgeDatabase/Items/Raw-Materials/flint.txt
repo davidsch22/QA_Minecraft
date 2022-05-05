@@ -1,0 +1,6 @@
+Dec value: 318.
+Hex value: 13E.
+Maximum stack 64.
+Flint is obtained by digging up gravel, but is only dropped in 10% of the harvests. The other 90% will result in a gravel block. Flint is used to create arrows and flint and steel.
+While flint doesn’t need any tool to be harvested, shovels are the fastest. Using a tool with the fortune enchantment will increase your chance of getting flint, though it’s often considered a waste of that tool’s durability.
+Farming flint is very easy. Harvesting a gravel block will either give you flint or gravel. If you get a gravel block, that gravel block can simply be placed down again. All you have to do is repeat the harvesting process untill you run out of gravel blocks to place. Note that if gravel falls on top of half blocks, like torches, pressure plates and slabs, the gravel will always turn into gravel.

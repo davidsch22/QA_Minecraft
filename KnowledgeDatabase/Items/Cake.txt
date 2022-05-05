@@ -1,0 +1,18 @@
+Cake is a food block that can be eaten by the player.
+Once placed, cake cannot be recollected.
+Farmer villagers sell 1 cake for 1 emerald as a fourth tier trade.
+Unlike most foods, cake cannot be eaten as an item in the hotbar. Before being eaten, it must first be placed on top of a block.
+To eat from a placed cake, click on the cake with use button. Each cake has seven "slices", and each use will consume one slice. A single slice restores 2 () hunger and 0.4 hunger saturation. Eating all seven slices of a cake restores 14 () hunger and 2.8 hunger saturation.
+Unlike the eating of other foods, eating a slice of cake is instantaneous (an entire cake can be eaten as fast as it can be clicked) and makes no sound. Multiple players can eat from the same cake at the same time.
+As a redstone component, when connected to a comparator, a whole cake emits a signal strength of 14. The signal strength decreases two units with each bite of cake until it is gone.
+The name of the achievement is a reference to the internet meme "The Cake is a Lie", which originated from Valve's game, Portal.
+Since cake is only 7/8 blocks wide, it is possible to stand on the edge of a block beneath a cake.
+Cake will destroy falling blocks if placed under them, similar to a torch.
+It is possible to place cake on top of cake by placing a cake on the ground, then placing another cake on the side of a block above and to the side of the first cake, similar to placing torches on a chest. Eating the lower cake completely will cause the upper cake to disappear, same as mining out the block of cake it is sitting on.
+It is also possible to place cakes (or any other block) on top of cakes by sneaking and placing a cake on top of another cake.
+Mobs on top will rotate while attempting to move, a path finding oversight shared with fences.
+If cake is placed in a one deep hole you can get across the hole without jumping but if you are standing on the cake you will have to jump to get out of the hole unlike a slab.
+Placing a cake makes the same sound as placing wool.
+You can place cake on top of a bed, and while sleeping, the cake shows on your screen as if it were on top of your head.
+A cake placed on top of another.
+The sizes of cake when eaten.

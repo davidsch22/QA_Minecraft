@@ -1,0 +1,16 @@
+Sandstone is a solid block available in yellow and red colors: with yellow commonly found in deserts, and red found in mesas.
+Any sandstone can be mined with any pickaxe. If mined without a pickaxe, the block will be lost.
+Yellow sandstone appears at the lowest levels of sandy areas (deserts, beaches, etc., but not below red sand) and supports the sand above it, but if a lake is generated there, air may replace the sandstone and result in volumes of unsupported sand which will collapse if disturbed. The sandstone layer in sandy biomes forms “stalactites” on the bottom, which penetrate the stone below or hang down into caves or ravines.
+Sandstone can also be found in desert temples, desert wells and villages in deserts. However, chiseled sandstone is not found in desert villages.
+Red sandstone generates naturally at most cave entrances in mesa biomes. The amount that generates is highly variable; some caves may generate a large amount of red sandstone, while others may generate just one block, or even none. Liquid pools will not generate red sandstone, resulting in floating red sand which will fall when updated.
+Unlike sand, sandstone is not affected by gravity, and it will not fall if placed without a supporting block underneath it.
+Yellow sandstone has the ID name minecraft:sandstone, while red sandstone has the ID name of minecraft:red_sandstone. Both types of sandstone are further defined by its block data. They also has a block state which is expected to replace the functionality of block data in a future version.
+The idea of the wither appearing on chiseled red sandstone was suggested by Reddit user ULiopleurodon.
+Natural yellow sandstone.
+Natural sandstone found at the bottom of a stack of sand.
+Natural sandstone blocking sand from entering a cave system.
+Natural sandstone well.
+A player-made pyramid made out of sandstone, smooth sandstone and chiseled sandstone.
+The different kinds of sand-based blocks.
+The first image of red sandstone, as tweeted by Nathan Adams.
+Red sandstone generating at the entrance of a mesa cave.

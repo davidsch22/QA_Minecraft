@@ -1,0 +1,4 @@
+A Spider Eye is a poisonous food and brewing item.
+A spider or cave spider may drop a spider eye when killed by the player, not upon death from environmental damage.
+A witch may drop up to 6 spider eyes upon death of any nature.
+When eaten, a spider eye restores 2 () hunger points and 3.2 saturation points, giving a nourishment value of 1.6. It also applies a poison effect lasting 4 seconds to the player, causing 4 () damage, which reduces hunger/saturation by 12 points.

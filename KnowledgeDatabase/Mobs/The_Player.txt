@@ -1,0 +1,11 @@
+For the removed mobs, see Human and Steve (Mob). For the character, see Herobrine.                                    .
+The Player is the character used in-game by anyone playing Minecraft, and is generally considered the unofficial main protagonist of the game. The default skin is exactly the same as a human's, and is generally referred to as "Steve" (or Stevie in Pocket Edition). A player who has bought the game is able to set a custom skin on Minecraft.net, under their profile options. It's usually someone who failed to successfully log into Minecraft who appears using the default skin; very few people don't change it. But Steve is normally in Minecraft art.
+The Player is 1.79 meters tall, has indigo eyes, light brown skin, and dark brown hair. The Player also wears blue jeans and a cyan t-shirt that is not tucked in properly. For most of Beta, The Player also had a goatee, which is commonly mistaken for a smile. It has since been removed.
+Players spawn at their original spawn point, but this can be reset through use of a Bed, or bt using the command /spawnpoint.
+In the older version of Minecraft known as indev, the Player made a deep "Ugh" sound if it was hurt or punched. Some people had complained that they had female skins so Notch changed to a flesh ripping sound or to be more exact, a sound that sounded like a tap. In the Pocket Edition, the Player's name is Stevie and instead of the tapping sound, the Player still made the "Uggghhh" sound and would be deeper sometimes if the player was at low health. Also, if the Player takes damage from falling, a sound like cracking bones will be heard along with the damage sound.
+See here.
+Previously, if a player was using an illegitimate version of the PC client, their skin would show up as a pigman.
+If gold was the heaviest material in Minecraft, and the player had every inventory slot filled with 64 gold with full gold armor, he would be carrying the equivalent of 73,525,046.288256 pounds.
+Despite The Player having a boy's name, they are actually supposed to be genderless. Notch has stated that the blocky appearance "made it more masculine". As of update 1.8 however, there now exists a female default player skin called Alex.
+Human.
+Herobrine.

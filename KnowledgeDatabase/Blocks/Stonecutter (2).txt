@@ -1,0 +1,12 @@
+The Stonecutter is a block in Minecraft Pocket Editon. It is used to make stone related blocks, such as Stone Bricks or Bricks. In a sense, the stone cutter is the exact same thing as a crafting table, and was implemented to avoid over-coding of the crafting table, just for stone stuff. It does have the same icon as a Furnace but with a hammer and a gear texture on one of it's sides as well as one big gear on the top. The Stonecutter is used to craft the following items.
+-Granite (and it's polished version).
+-Andesite (and it's polished version).
+-Diorite (and it's polished version).
+-Cobblestone Wall (and it's mossy counterpart).
+-Moss Stone.
+-Stone, Cobblestone, Quartz and Sandstone Slabs.
+-Stone Cobblestone, Quartz and Sandstone Stairs.
+-Chiseled Sandstone, Block of Quartz, and Stone.
+-Bricks.
+- Enchantment Table (0.12.0).
+As of October 7, 2015, Tommaso Checchi stated that Stonecutters will be removed from Pocket Edition when 0.13.0 is released. Also stated that 0.13.0 will not be the last Alpha update.

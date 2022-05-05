@@ -1,0 +1,4 @@
+This article is about redstone block. For the map by Bigre, see The Dropper (map).
+A Dropper is an unique redstone device that is a near-combination of the Hopper and the Dispenser. Droppers can transfer items from it to a chest or another container when activated by a redstone signal.
+Droppers is similar to the dispenser, with the key difference being that a dropper produces items from all objects when activated instead of summoning projectiles from applicable objects. The Dropper is fully function when it comes to transporting items. They are very economic to make, being less costly than creating a hopper. The dropper also functions similar to the hopper, transferring items into containers with a redstone signal.
+Unlike a Dispenser, entities will not be ejected in an entity form (being fired straight out in the case of arrows, placing a minecart, or creating an active TNT block), they will just be ejected as an item.

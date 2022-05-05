@@ -1,0 +1,14 @@
+Dec value: 02.
+Hex value: 2.
+Minimum tool requirement to break: None.
+Blast resistance: 3.
+Maximum stack 64.
+Transparency: No.
+Grass blocks cover almost all the land in all land biomes, with the exception of deserts. The colour of the grass block will depend on the biome it’s placed in and cannot be changed. When grass is covered with snow, the grass texture on this block will be white.
+Digging up grass will result in a dirt block, unless the player has the silk touch enchantment, which will drop the grass block itself. A shovel is the best tool for the job, but due to the high digging speed of even stone and iron shovels, using a diamond shovel is often considered a waste, especially when the player doesn’t have many diamonds to spare.
+Grass can be found all over the Overworld and will spread to any dirt block close enough. Grass can be grown in the Nether and the End, but it doesn’t naturally occur here and it requires additional light sources to stay alive.
+Grass will spread to any adjacent dirt block on the same height, including diagonally. It will also spread to any dirt block that’s either 3 blocks lower or 1 block higher than the grass block. This spreading requires a light level of 9 on the grass block and the dirt block must have a light level of at least 4 and can therefore not be covered by other solid blocks, only transparent blocks can be placed on it, while still allowing grass to grow.
+Grass blocks will die when light levels fall below level 4, which means the grass block will change into a dirt block. Note that at night the level of light is 4. Grass will die when solid blocks are placed on it, as they block out any light. Transparent blocks will block out the light in the same way as air does, so stacking enough transparent blocks on top of each other will block enough light for grass to die.
+Other ways for grass to die are when sheep eat the grass, which will turn it into dirt, and by using a hoe on the block, which will turn it into farmland. The death and regrowth of grass can be used to create light detectors, which are often used in automated mob farms and various other processes. Using bone meal on grass will instantly grow tall grass and flowers on many blocks on and around it, making it a perfect way to farm large amounts of these flowers and tall grass.
+Grass is a requirement for many passive mobs to spawn, including a light level of 9 or more. This also includes the using of monster spawner.
+Passive mobs prefer grass blocks over any other block and will wander to grass if they can. Only high light levels (10+) will cause them to abandon the grass and search for the safety of that light. Sheep will occasionally eat grass, turning it to dirt. They eat the grass randomly with no effect, but if the sheep has been sheared, eating grass will instantly regrow their wool.

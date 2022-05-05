@@ -1,0 +1,145 @@
+Pickaxe .
+Shovel .
+Sword .
+Axe .
+Hoe .
+Bow .
+Shears .
+Bucket .
+Firecharge .
+Flint and Steel .
+Bread .
+Sugar .
+Egg .
+Porkchop .
+Cookie .
+Cake .
+Cooked Porkchop .
+Rotten Flesh .
+Apple .
+Golden Apple .
+Fish .
+Cooked Fish .
+Salmon.
+Cooked Salmon.
+Pufferfish.
+Clownfish.
+Steak .
+Raw Chicken .
+Cooked Chicken .
+Raw Beef .
+Raw Rabbit.
+Cooked Rabbit.
+Raw Mutton.
+Cooked Mutton.
+Rabbit Stew.
+ Pumpkin Pie.
+Beetroot.
+Beetroot Soup.
+Gold Ingot.
+Iron Ingot.
+Diamond.
+Leather.
+Flint.
+Redstone.
+Bones.
+Paper.
+Feather.
+Slimeball.
+Glowstone Dust.
+Stick.
+String.
+Gunpowder.
+Charcoal.
+Coal.
+Brick.
+Clay.
+Book.
+All the items up to update 1.4.
+Add a photo to this gallery.
+The icon of a Blaze Rod.
+The icon of a Bone.
+The icon of Clay.
+The icon of Coal.
+The icon of Charcoal.
+The icon of a Diamond.
+The icon of an Ender Pearl.
+The icon of a Feather.
+The icon of Flint.
+The icon of a Ghast Tear.
+The icon of Glowstone Dust.
+The icon of a Gold Ingot.
+The icon of a Gold Nugget.
+The icon of a Gunpowder.
+The icon of an Iron Ingot.
+The icon of Leather.
+The icon of a Prismarine Shard.
+The icon of a Prismarine Crystal.
+The icon of Redstone.
+The icon of a Slimeball.
+The icon of String.
+The icon of an Emerald.
+The icon of a Rabbit Hide.
+The icon of a Rabbit's Foot.
+Add a photo to this gallery.
+The icon of Blaze Powder.
+The icon of a Book.
+The icon of a Bowl.
+The icon of an Eye of Ender.
+The icon of a Fermented Spider Eye.
+The icon of a Glass Bottle.
+The icon of a Glistering Melon.
+The icon of a Paper.
+The icon of a Stick.
+The icon of a Sugar.
+Add a photo to this gallery.
+The icon of Bread.
+The icon of a Carrot.
+The icon of a Golden Carrot.
+The icon of a Cookie.
+The icon of an Egg.
+The icon of a Melon Slice.
+The icon of Milk.
+The icon of Mushroom Stew.
+The icon of a Potato.
+The icon of a Baked Potato.
+The icon of a Poisonous Potato.
+The icon of a Pumpkin Pie.
+The icon of Raw Beef.
+The icon of a Steak.
+The icon of a Raw Chicken.
+The icon of a Cooked Chicken.
+The icon of a Raw Fish.
+The icon of a Cooked Fish.
+The icon of a Raw Porkchop.
+The icon of a Cooked Porkchop.
+The icon of a Golden Apple.
+The icon of Rotten Flesh.
+The icon of a Clownfish.
+The icon of a Pufferfish.
+The old icon of a Pufferfish.
+The icon of a Salmon.
+The old icon of a Raw Rabbit.
+The old icon of a Cooked Rabbit.
+The icon of a Rabbit Stew.
+The old icon of a Raw Mutton.
+The old icon of a Cooked Mutton.
+The icon of a Raw Rabbit.
+The icon of a Cooked Rabbit.
+The icon of a Raw Mutton.
+The icon of a Cooked Mutton.
+The icon of Beetroot Soup. (Pocket Edition only).
+The icon of a Beetroot. (Pocket Edition only).
+Add a photo to this gallery.
+The icon of the different types of Pickaxes.
+The icon of the different types of Axes.
+The icon of the different types of Shovels.
+The icon of the different types of Hoes.
+The icon of the different types of Swords.
+The icon of a Bow.
+The icon of an Arrow.
+The icon of a Shears.
+The icon of a Bucket.
+The icon of a Fire Charge.
+An icon of a Flint and Steel.
+Add a photo to this gallery.

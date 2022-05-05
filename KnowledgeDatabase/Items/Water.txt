@@ -1,0 +1,33 @@
+Water is a natural fluid.
+Water itself cannot be obtained as an item no matter what, but can be retrieved with a bucket.
+Water naturally generates in the Overworld in oceans, lakes, rivers, springs, and village and desert wells.
+Players in water take 5 times the normal amount of time to mine blocks while grounded, or 25 times ungrounded.
+Water spreads across surfaces in a slightly more realistic way but cannot spread on top of another water block. Water source blocks create a spring which generates flowing or falling water. When a spring is destroyed, all flowing water created from it will slowly dry up. If there is a hole six blocks or fewer from the point of origin, the water will tend to flow in that direction. Source blocks and falling water that has landed on a solid block will always flow in at least one direction unless restricted. Water will travel a distance of 8 blocks with the counter resetting to 0 every time it lands on a lower level. If a block next to a water source block is destroyed, the water will immediately flow in that direction unless there was a block beneath the destroyed block. If a block next to water is updated, it re-calculates its flow.
+Spreading water will extinguish fire and wash out plants, snow, torches, carpets, tripwire, rails and cobweb it flows into, dropping them as items.
+The water source blocks can appear horizontally and orthogonally next to 2 or more other source blocks, on top of solid blocks or other water source blocks. This is the principle the infinite water generators work on.
+Dispensers with an empty bucket can suck in the water source in front of them when activated, filling that bucket with water.
+In snowy biomes, water source blocks have a chance to turn into ice. They also appear when ice melts (except in the Nether). Ice will revert to water when broken if there is a block underneath the ice block.
+The current in a water block determines both what direction it will appear from its texture to be flowing, and what direction an entity such as a player or boat will float from that block.
+The horizontal current in a water block is based on a vector sum of the flows to and from that block from its 4 horizontal neighbors. For example, if a block receives water from the north and sends it both south and east, but borders a solid block on its west edge, then the current in that block will be south-southeast, because 2 southward flows (in and out) are combined with only 1 eastward flow (out). Thus, 16 horizontal directions are possible. If a branch in a channel is 2 blocks wide at its entrance, then entities will float into it rather than continuing in a straight line.
+Water with a current pushes mobs at a speed of about 1.39 meters per second, or 25 blocks every 18 seconds.
+Water reduces light by 2 for every block, in addition to normal dispersion, so visibility lowers as the water gets deeper.
+There are three ways of increasing underwater visibility; using a helmet with Respiration enchantment, or using potions of Night Vision or Water Breathing.
+Water bucket is a variation of buckets that is filled with water.
+To fill a bucket with water, use it on a water source block. The block is consumed in the process. Using the full bucket on a solid block will place a water source against to its pressed side. In the Nether, however, the water will evaporate.
+When activated, dispensers can let water flow out of water buckets (making a water source block), turning them into empty buckets.
+Cauldrons are filled from water buckets.
+Water spends most of its time as stationary, rather than 'flowing' – regardless of its level, or whether it contains a current downwards or to the side. When specifically triggered by a block update, water will change to 'flowing', update its level, then change back to stationary. Water springs are generated as flowing, and oceans, lakes and rivers are generated as stationary. This happens before most types of generated structure are created, and the main cause of water "glitches" is that generated structures do not trigger a block update to let water flow into them.
+If bit 0x8 is set, this liquid is "falling" and only spreads downward. At this level, the lower bits are essentially ignored, since this block is then at its highest fluid level.
+The lower three bits are the fluid block's level. 0x0 is the highest fluid level (not necessarily filling the block - this depends on the neighboring fluid blocks above each upper corner of the block). Data values increase as the fluid level of the block drops: 0x1 is next highest, 0x2 lower, on through 0x7, the lowest fluid level. Along a line on a flat plane, water drops one level per meter from the source.
+Note: The video states that "Infinite water sources are found all over the world in shallower areas." Ever since the 1.5 update, this is no longer the case — water source blocks form even if there isn't a solid block under them, as long as there is a water source block under it, meaning even deep bodies of water can be used as infinite water sources.
+While underwater, the player's FOV (field of vision) is lowered by 10 to simulate light refraction.
+The old water texture can still be found in the assets and is used in the game if you are underwater.
+The default water animation as it appears since the Redstone Update.
+1.8 underwater particles, or "bubbles.".
+A "leaky" roof. Notice the particles dripping from the block.
+Water that is underground, but is still part of 2 different biomes. The color is split.
+A geyser. A vertical column of falling water left behind after a large TNT explosion with no apparent source.
+Water flowing into a cave.
+These bubbles appear above the hunger bar when the player's head is in water, and when all the bubbles pop, a heart of damage is dealt every second until the air is refilled.
+A naturally occurring waterfall.
+The image that appears when you are underwater. (uses the old water texture. For more info, see Trivia).

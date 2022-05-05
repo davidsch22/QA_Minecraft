@@ -1,0 +1,18 @@
+Pocket Edition Only.
+The Nether Reactor is a player built structure which, when activated, spawns large quantities of normally rare or unobtainable items.
+The reactor is constructed by placing gold blocks, cobblestone, and a nether reactor core in the 3x3x3 arrangement shown below. Air blocks are required on the middle and top layers. If the structure is incorrect, attempting to activate the reactor will result in the client message "Not the correct pattern!".
+Tapping the core will activate the reactor, sending the client message "Active!". Immediately after activation, a massive 35×17×17 structure of netherrack with multiple rooms, unofficially referred to as a "Nether Spire", is spawned around the reactor. The bottom room, which contains the reactor, replaces all blocks other than those of the reactor with air, while blocks in the upper levels remain intact.
+Items will begin spawning randomly in the reactor room. These can be glowstone dust, nether quartz, cacti, sugar canes, both types of mushrooms, pumpkin seeds, and melon seeds. Zombie pigmen are also able to spawn. It is advisable to empty out one's inventory beforehand so that no items are missed, other than any weapons used to fight the zombie pigmen (unless playing in peaceful difficulty). During this stage, the blocks that make up the reactor will turn into glowing obsidian, and the core will adopt a red texture representative of being active. If the player mines the active core, all aspects of the reaction will freeze.
+After 45 seconds the reactor cycle will end, causing the spire to 'blow up', leaving holes in it's walls. At this point, the time is set to night. The reactor is replaced with a 3×3×3 box of obsidian containing the core, which now has a smooth, blackened texture representative of being 'burnt out'. If the player builds a new reactor around the burnt out core, the spire will generate, but no other behaviors associated with the reactor will occur. Because of this, netherrack is renewable.
+The reactor is not currently functional in Creative mode.
+All players must be within the spire's area.
+The reactor must be built at least three blocks above water.
+The reactor must be built at least 32 blocks below cloud level, or the spire will not generate properly.
+The player must not be standing on a block below the bottom layer of the reactor.
+The spire is composed of over 25 stacks worth of netherrack.
+Excluding the core, any part of the reactor can be mined after activation and it will still function. This way, the player can recycle the expensive gold blocks. If they're fast enough, they'll have time to mine all four gold blocks before they turn to glowing obsidian.
+Because the spire cannot replace blocks past the world border, when the reactor is activated near the edge of old worlds the player will be able to see the time set to night.
+A Nether reactor, ready to be activated.
+An active Nether reactor spawning items and zombie pigmen.
+A Nether reactor upon completion of the cycle.
+The 'Nether Spire' before 0.6.0, as seen from the outside.

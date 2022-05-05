@@ -1,0 +1,2 @@
+Weighted Pressure Plates are a special type of Pressure Plates that emit a different Redstone signal strength depending on how many items are on the plate. They were added in Snapshot 13w01a. There are 2 different kinds, both with different recipes: Light and Heavy.
+The signal strength emitted is as follows.

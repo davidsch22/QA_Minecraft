@@ -1,0 +1,35 @@
+Pocket Edition Only.
+The Stonecutter is a Pocket Edition exclusive block used for crafting stone-related items.
+The stonecutter is used to craft every stone-type block in Pocket Edition except itself, furnaces and mineral blocks. It uses the MATTIS crafting system, the same system used by the Crafting Table. To date, there are 32 blocks available to craft. The blocks are the following Granite.
+The blocks are the following Polished Granite.
+The blocks are the following Andesite.
+The blocks are the following Polished Andesite.
+The blocks are the following Diorite.
+The blocks are the following Polished Diorite.
+The blocks are the following Moss Stone.
+The blocks are the following Cobblestone Wall.
+The blocks are the following Mossy Cobblestone Wall.
+The blocks are the following Stone Slab.
+The blocks are the following Cobblestone Slab.
+The blocks are the following Cobblestone Stairs.
+The blocks are the following Stone Bricks.
+The blocks are the following Mossy Stone Bricks.
+The blocks are the following Chiseled Stone Bricks.
+The blocks are the following Stone Brick Slab.
+The blocks are the following Stone Brick Stairs.
+The blocks are the following Sandstone.
+The blocks are the following Smooth Sandstone.
+The blocks are the following Chiseled Sandstone.
+The blocks are the following Sandstone Slab.
+The blocks are the following Sandstone Stairs.
+The blocks are the following Bricks.
+The blocks are the following Brick Slab.
+The blocks are the following Brick Stairs.
+The blocks are the following Nether Bricks.
+The blocks are the following Nether Brick Stairs.
+The blocks are the following Block of Quartz.
+The blocks are the following Pillar Quartz Block.
+The blocks are the following Chiseled Quartz Block.
+The blocks are the following Quartz Slab.
+The blocks are the following Quartz Stairs.
+Like most other utility blocks in Pocket Edition, the stonecutter cannot be interacted with in Creative mode.

@@ -1,0 +1,2 @@
+The following table is a list of every block and item ID in the PC/Mac versions of Minecraft.
+Crops use blockdata values 1-7 for crop growth, some only have 4 textures, but have multiple values per texture.

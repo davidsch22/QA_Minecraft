@@ -1,0 +1,49 @@
+The Ender Dragon is a boss mob that appears once in The End. It swoops at the player, destroying any blocks it passes through except obsidian, bedrock, or End Stone.
+Since Beta 1.9 pre-release 6, a single Ender Dragon appears in each world's End and can be fought and killed. After an Ender Dragon is killed, it will create an exit portal with a dragon egg on top. Since the 1.0.0 update, the exit portal leads to the Minecraft credits.
+The Ender Dragon also drops a large number of Experience Orbs (around 12,000) - about 72 levels worth - upon defeat.
+The Ender Dragon is a large, black dragon with glowing purple eyes. It is the second-largest mob in the game; only the unimplemented giant is larger. It has a few dark gray features, such as the wings and various other parts of its body. Similar to the eyes of endermen and spiders, the Ender Dragon's eyes are visible through darkness, so you can see it coming from anywhere in The End.
+Ender Dragons attack by charging at the player's lower waist, with their wings tucked in and diving downward. If hit with anything, even your fist, while swooping towards you, it will turn around and fly away. ender crystals that sit on top of the Obsidian Towers will heal it.
+Once you enter the End, it is crucial to destroy as many of these crystals as possible before going after the boss, preferably with a bow or snowballs, although you will need to climb some of the towers to break Iron Bars around some of the crystals in the console editions. Afterward you must defeat the Ender Dragon itself.
+To fight the Ender Dragon itself, find somewhere safe to remain, with few Endermen, and attack it with a bow, or with a sword as it swoops in. A Bow is a better weapon to fight with, but if you don't have one, hitting it with a Sword will stop its attack.
+Here are a few tips you can use while fighting the Dragon.
+ Take anything to The End you could possibly need. The worst thing about The End is the potential to run out of resources and get stuck.
+Here are a few tips you can use while fighting the Dragon.
+ Wear a pumpkin in the end so that Endermen won't attack you, but beware that this reduces how much armor you can have and impairs your vision.
+Here are a few tips you can use while fighting the Dragon.
+ Pay attention to the Endermen as well as the Ender Dragon. The Enderman have just as much of a chance to kill you as the Ender Dragon, if you aren't wearing a pumpkin.
+Here are a few tips you can use while fighting the Dragon.
+ Never stay in one place. If you time your movements accordingly, it is very hard for Ender Dragon attacks to hit you.
+Here are a few tips you can use while fighting the Dragon.
+ Have enchanted weapons and armor. Enchanted bows and swords cause more significantly more damage to Endermen and the Ender Dragon, while enchanted armor offers more protection from damage.
+Here are a few tips you can use while fighting the Dragon.
+ If you can, take several other people with you. Attempts to kill the Ender Dragon with just one person is considerably more difficult.
+Here are a few tips you can use while fighting the Dragon.
+ Look up as much as possible to limit attention received by Endermen if not wearing a pumpkin.
+Here are a few tips you can use while fighting the Dragon.
+ Remember; if you run out of resources in the end, the only way out is death.
+ There is a very rare glitch where if you die during the fight and return to The End, multiple Ender Dragons will spawn (it has been seen for up to 6 to appear), and in order to finish the game and reach the end credits, you must defeat all of them one by one.
+ If you save the game just as the death animation starts, then reload the world, the Ender Dragon will be curled up in a ball and spinning, instead of the light show displaying.
+ When you kill an Ender Dragon, multiple portals may appear.
+The gray-skinned dragon in the Ender Dragon folder.
+The towers that the Ender Dragon regenerates health from.
+The portal back to the regular world that is "dropped" after killing the Ender Dragon.
+An Ender Dragon dying.
+An Ender Dragon charging the player.
+An Ender Dragon spawned in The Void.
+An untextured Ender Dragon.
+An Ender Dragon's face.
+A Spam of the Ender Dragon's Death.
+Enderdragon's death Frame 1.
+A full body view of the Ender Dragon.
+Add a photo to this gallery.
+If, through modding/hacking/commands, you spawn Ender Dragons in the Overworld, once you kill the Ender Dragon, the portal that spawns under it will lead to The End.
+If the Ender Dragon flies into or over any Overworld blocks that the Player has placed, they will be destroyed without dropping anything.
+It is possible to get the wither to fight it, but the wither will deal close to no damage as the Ender Dragon does not take damage from mob attacks.
+Ender Dragons can be used as somewhat inefficient tunnel borers or mining devices. If you mod your game you can make the Ender Dragon destroy ores as drops to make things better.
+If Ghasts are spawned in The End via Spawn Eggs or commands, their fireballs may hit the Ender Dragon, though the fireballs will cause little (if any) damage.
+The Ender Dragon was the first boss to be released. Many speculate that the Giant was meant to be the first boss, however, this has never been confirmed.
+The Ender Dragon cannot destroy entities, such as the Minecart.
+ There is an Ender Dragon Plush toy that was recently made available for the public. .
+ Notch made a Reddit post about the dragon, referring to it as a "she" and calling her Jean. .
+ The Ender Dragon is able to fly past the world border in 1.8 and past the max terrain generation distance. See Far Lands.  .
+ As of the 1.9 Snapshots, the Ender Dragon can be respawned by making a flat creeper face out of clay blocks.  .

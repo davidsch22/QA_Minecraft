@@ -1,0 +1,8 @@
+A bucket of milk is an item obtained from cows and/or mooshrooms.
+Milk can be obtained from cows and mooshrooms by pressing use while looking at them with an empty bucket.
+Holding use with a bucket of milk will start the drinking sound and animation. When consumed it will immediately remove any status effects from the player.
+If you drink milk while having nausea, the nether portal animation will show.
+Water.
+Lava.
+Food.
+Cake.

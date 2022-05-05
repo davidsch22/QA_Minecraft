@@ -1,0 +1,8 @@
+Dec value: 329.
+Hex value: 149.
+Maximum stack 1.
+Saddles can be placed on pigs which allows you to ride the pig, much like a minecart. However, the movement of pigs cannot be controlled which makes them rather useless as a means of transportation.
+Saddles can only be found in dungeons chests, there’s no recipe for them. It is possible to direct the pig a little by giving it only 2 ways to go, straight ahead or back. Flowing water will push the pig, though the pig will still try to float to the top of any water. Pigs will not jump off of cliffs, but they do walk into fires.
+Pigs can still be hit by the player while it’s being ridden, this could give you some control over the pig as it will run after being hit. Though a pig only has 5 hearts of health, so hitting it 9 times with your fists is the maximum amount of hits it can take before it dies. Splash potions of regeneration and healing can heal the pig again though, allowing for more hits and a little more control.
+A saddles pig can be pushed in a minecart, the pig can then be ridden and controlled when the minecart is no longer on rails. This is the closest thing to cars in minecraft as you can go anywhere you want, however, the speed at which you travel is extremely slow.
+Saddled pigs, whether in minecarts or not, are often used in mini games, usually refered to as pig racing. The aim of these minig games is to get your pig to the end of the track as fast as possible. It’s usually played with 2 players who take the same or a similar track.

@@ -1,0 +1,12 @@
+Dec value: 04.
+Hex value: 4.
+Minimum tool requirement to break: Wooden pickaxe.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Cobblestone is ‘created’ when normal stone and cobblestone are mined or when water flows on top of flowing lava. It can also be found in dungeons, villages and strongholds. This makes cobblestone often an early indicator of underground dungeons and strongholds. Due to the sheer amount of available stone, cobblestone is often the most used block by any player without creative mode or inventory edits.
+It’s possible to create a cobblestone generator by using a lava flow and water, this offers an infinite supply of cobblestone without having to travel. This is also used in custom adventure and survival maps in which the player is given a limited amount of blocks to work with.
+Silverfish are capable of entering and hiding in these stones, which will make it look like a normal cobblestone block, but with different properties than regular cobblestone.
+Breaking this new type of stone will set the silverfish free, which will attack you and call upon other silverfish who might be hiding in the surrounding stones.
+Luckily, Silverfish only appear naturally in strongholds.
+Mossy cobblestone is a different version of cobblestone, though it can only be found in dungeons.

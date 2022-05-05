@@ -2,15 +2,19 @@ import os
 import math
 import string
 import nltk
+import spacy
 import pandas as pd
+import numpy as np
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
+from textblob import TextBlob
 
-
+categories = ["blocks", "items", "mobs", "gameplay"]
 stop_words = set(stopwords.words('english'))
 stop_words = stop_words.union(set(string.punctuation))
 porter = PorterStemmer()
-tf_idf = pd.DataFrame(dtype='float64')
+
+embeddings = spacy.load('en_core_web_lg')
 
 
 def tokenize_line(line: str) -> list:
@@ -23,50 +27,85 @@ def tokenize_line(line: str) -> list:
 
 
 def preprocess_kd():
-    global tf_idf
-    tf = pd.DataFrame(dtype='float64')
-    idf = pd.DataFrame(dtype='float64')
+    for category in categories:
+        tf_idf = pd.DataFrame(dtype='float64')
+        tf = pd.DataFrame(dtype='float64')
+        idf = pd.DataFrame(dtype='float64')
 
-    for (dirPath, dirNames, fileNames) in os.walk('KnowledgeDatabase/'):
-        for fileName in fileNames:
-            filePath = dirPath + "/" + fileName
-            print(filePath[18:])
-            doc = pd.read_csv(filePath, sep='`', names=['Line'], encoding='utf-8')
-            doc = doc.applymap(lambda x: tokenize_line(x))
-            all_tokens = doc['Line'].explode()
-            total = all_tokens.shape[0]
-            unique_tokens = all_tokens.unique()
-            for token in unique_tokens:
-                count = all_tokens[all_tokens == token].shape[0]
-                tf.loc[token, filePath[18:]] = count / total
-    tf.fillna(0, inplace=True)
-    N = tf.shape[1]
-    idf = tf.apply(lambda row: math.log(N / (row[row > 0].shape[0]+1)), axis=1)
-    tf_idf = tf.mul(idf, axis=0)
+        for (dirPath, dirNames, fileNames) in os.walk('KnowledgeDatabase/' + category):
+            for fileName in fileNames:
+                filePath = dirPath + "/" + fileName
+                print(filePath[18:])
+                doc = pd.read_csv(filePath, sep='`', names=['Line'], encoding='utf-8')
+                doc = doc.applymap(lambda x: tokenize_line(x))
+                all_tokens = doc['Line'].explode()
+                total = all_tokens.shape[0]
+                unique_tokens = all_tokens.unique()
+                for token in unique_tokens:
+                    count = all_tokens[all_tokens == token].shape[0]
+                    tf.loc[token, filePath[18:]] = count / total
+        tf.fillna(0, inplace=True)
+        N = tf.shape[1]
+        idf = tf.apply(lambda row: math.log(N / (row[row > 0].shape[0]+1)), axis=1)
+        tf_idf = tf.mul(idf, axis=0)
+        tf_idf.to_csv('tf_idf_tables/tf-idf-' + category + '.csv')
 
 
-def answer(q: str) -> str:
+def cos_similarity(s_vec: np.ndarray, q_vec: np.ndarray):
+    return np.dot(s_vec, q_vec) / (np.linalg.norm(s_vec) * np.linalg.norm(q_vec))
+
+
+def embeddings_similarity(sentence: str, q: str):
+    return cos_similarity(embeddings(sentence).vector, embeddings(q).vector)
+
+
+def answer(category: str, q: str) -> str:    
+    tf_idf = pd.DataFrame(dtype='float64')
     tokens = tokenize_line(q)
+
+    if category == "blocks":
+        tf_idf = pd.read_csv('tf_idf_tables/tf-idf-blocks.csv', index_col=[0])
+    elif category == "items":
+        tf_idf = pd.read_csv('tf_idf_tables/tf-idf-items.csv', index_col=[0])
+    elif category == "mobs":
+        tf_idf = pd.read_csv('tf_idf_tables/tf-idf-mobs.csv', index_col=[0])
+    else: # gameplay
+        tf_idf = pd.read_csv('tf_idf_tables/tf-idf-gameplay.csv', index_col=[0])
+
     good_tokens = tf_idf.index.intersection(tokens)
     best_docs = tf_idf.loc[good_tokens].sum(axis=0).nlargest(5).index.to_list()
+    sentences = []
     print(best_docs)
-    return ""
+    for doc in best_docs:
+        with open("KnowledgeDatabase/" + doc, encoding='utf-8') as file:
+            doc_txt = file.readlines()
+            doc_txt = "\n".join(doc_txt)
+            blob = TextBlob(doc_txt)
+            sentences.extend(blob.raw_sentences)
+    sentences = pd.Series(sentences)
+    similarities = sentences.apply(lambda x: embeddings_similarity(x, q))
+    print(similarities.describe())
+    return sentences[similarities.idxmin()]
 
 
 def main():
-    preprocess_kd()
+    # preprocess_kd() # Uncomment to rebuild tf-idf tables
     
-    questions = pd.read_csv('QuestionsCorpus/AllQuestions.csv', sep=';')
-    totals = questions.iloc[0]
-    questions = questions.drop(0).reset_index(drop=True)
+    # questions = pd.read_csv('QuestionsCorpus/AllQuestions.csv', sep=';')
+    # totals = questions.iloc[0]
+    # questions = questions.drop(0).reset_index(drop=True)
     # print(totals)
     # print(questions)
 
-    row = 0
-    cat = 'Recipe'
-    q = questions.loc[row, cat]
-    print("Q:", q)
-    print("A:", answer(q))
+    # row = 0
+    # cat = 'Recipe'
+    # q = questions.loc[row, cat]
+    # print("Q:", q)
+    cat = input("What category is your question about? (Blocks, Items, Mobs, Gameplay): ")
+    while cat.lower() not in categories:
+        cat = input("Category does not exist. Enter again. (Blocks, Items, Mobs, Gameplay): ")
+    q = input("Your question: ")
+    print("Answer:", answer(cat.lower(), q))
 
 
 if __name__ == "__main__":

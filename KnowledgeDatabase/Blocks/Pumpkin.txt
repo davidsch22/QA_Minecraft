@@ -1,0 +1,21 @@
+Pumpkins are blocks that appear on grass, spawned in random clusters in most Overworld biomes, though somewhat rarely.
+Pumpkins can be mined with any tool, but axes are the quickest.
+When a pumpkin is pushed by a piston, it breaks and drops as an item.
+Pumpkins may generate naturally in most biomes in the Overworld.
+Pumpkin farming strategies parallel those of melons. Planted pumpkin seeds grow a central stem that, after maturing, spawns pumpkins randomly in adjacent vacant dirt/grass/farmland. If a pumpkin is harvested without also cutting the central stalk, another pumpkin will spawn afterwards without requiring replanting or waiting for the stalk to mature again.
+Pumpkin stems take around 10 to 30 minutes to fully develop. Bone Meal can be used on pumpkin stems to become fully-grown, but will not produce a pumpkin immediately.
+If a mob wearing a pumpkin is killed using a tool enchanted with Looting, there will be a chance equivalent to the level of Looting used to drop the pumpkin, up to a maximum of a 3% chance of a drop.
+A pumpkin can be equipped as a helmet without any actual armor value, but will instead function as a mask that allows the player to look at Endermen without provoking an attack. When worn, they limit the player's viewing area to a mask pattern that resembles the pumpkin's carved face.
+Pumpkins can be used to make Snow Golems and Iron Golems as shown below. Snow Golems require snow blocks for their bodies, while Iron Golems require iron blocks. The pumpkin must be placed last or the Golem will not spawn.
+Pumpkins cannot be placed without a block under them, but once placed, will remain even if the block underneath is mined away. When placed, pumpkins automatically face the player. Pumpkins cannot be placed on a transparent block.
+Farmers will buy 8-13 pumpkins for an emerald.
+The pumpkin is the only headgear that obstructs the player's view.
+A group of pumpkins.
+A player wearing a pumpkin as a head.
+View of the world inside a pumpkin helmet.
+A screenshot of a pumpkin on a stem in Beta 1.8 pre-release.
+Looking at an Enderman with a Pumpkin helmet on. Notice that its back is turned and is not attacking the player.
+A floating pumpkin due to ponds being generated after the rest of the terrain.
+A skeleton and a zombie wearing a pumpkin and a Jack o'Lantern respectively on the date of Halloween.
+Naturally occurring pumpkin.
+A glitch of a baby Zombie trying to wear a pumpkin on its head, but instead the pumpkin is floating above its head.

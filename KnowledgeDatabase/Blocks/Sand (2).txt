@@ -1,0 +1,8 @@
+ Sand is a common physics obeying block that can be found in deserts or next to water. Being a "physics obeying block" means that it will turn into a falling block entity and fall down until it hits a solid block, and turns back into a normal Sand block, or hits a non-solid block and turns into an item. 4 Sand can be crafted into one Sandstone by placing it in a square, or crafted into TNT by combining it with Gunpowder in a checkerboard pattern, and can also be smelted into Glass.
+In chunks generated after Beta 1.2's release, the bottom of all Sand piles had a layer of Sandstone.
+Before 1.8, the spawn point of a world when created would always be on Sand.
+if a block of Sand is placed directly below a block of Soul Sand, it will make walking on the Soul Sand be even slower than it normally would be. This is the same with Ice.
+In the Pocket Edition, particles are released by unstable sand.
+The ground-block of Desert Biomes is Sand.
+Smelting Sand will return Glass.
+Add a photo to this gallery.

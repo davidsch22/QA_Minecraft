@@ -1,0 +1,16 @@
+Soul sand (also known as hell sand in the code or as slow sand) is a block only naturally found in the Nether.
+Soul sand can be mined with any tool, or without a tool, but shovels are the quickest.
+Soul sand is found below Y=65 in the Nether, generally in four-block-deep layers. It is also found naturally in nether fortresses, in the Nether Wart room.
+Soul sand slows the movement of any mob or player, and causes them to sink slightly into the block while walking on it. Its slowing effect is increased when placed in water, or above ice, packed ice, or slime blocks. It can also suffocate mobs which are smaller than a slab, namely silverfish and endermite.
+Soul sand is used for growing nether wart, a primary base ingredient for many varieties of potions. Nether wart is planted on soul sand (like seeds on farmland), and at full maturity produces multiple nether wart when harvested.
+4 blocks of soul sand are used in the construction of a wither.
+Note: The video states that one-way doors can be made with soul sand. This was a bug that was fixed in 1.8. The video also does not state soul sand's usage in building the wither.
+The first appearance of this block was on Notch's blog.
+Soul sand can generate on the floor of caverns and lava pools below Y=60 only if it generated in that same column at Y=60 or above.
+Because soul sand is not as high as a full block, standing near lava while on soul sand will set you on fire.
+If a water current is pushing you diagonally against a wall and Soul Sand is the block adjacent to your head when the current ends, it will cause you to jump.
+If snow or carpet is over soul sand, the effects of it being a partial block are avoided, as you will be walking on the cover block, not the soul sand.
+Due to the ability to reset the Nether in the console edition, soul sand is renewable in that edition. Although you can reset the Nether in the PC edition by deleting the DIM-1 folder in a Minecraft world file, some may consider this cheating.
+Walking on soul sand will visibly darken the sky in the Overworld; this effect is less noticeable during the night.
+Soul sand has two little circles on one half of the top, and that half always points toward the west, allowing for easy direction finding in the Nether without using the debug screen.
+Naturally occurring soul sand.

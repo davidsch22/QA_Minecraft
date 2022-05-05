@@ -1,0 +1,13 @@
+Wolves, commonly known as dogs when tamed, are a type of tamable animal mob that will most often spawn naturally in Taiga Biomes. If attacked, all nearby wolves will turn into aggressive wolves, meaning their eyes will turn red and they will attack you. If all players leave the game, when they come back all aggressive wolves will have turned back into regular wolves.
+Tamed wolves will only attack mobs that are attacking or were attacked by its owner, while wild wolves will naturally attack Sheep, Rabbits and Skeletons. Tamed wolves can be right clicked to change them between sitting mode and standing mode: In sitting mode, they will stay in the same place unless their owner is attacked, in which case they will teleport to them. In standing mode, they will wander around within a certain range of their owner.
+You can tame a wolf by right clicking it with bones, and it could take anywhere from 1 to 6 bones. Black particles will appear each time you feed the wolf a bone, except for the last one, when you have tamed it, in which case there will be heart particles. You can breed them by feeding 2 adult wolves a piece of any type of raw meat (Including Rotten Flesh). If you hold the meat within a certain range of a wolf, it will rotate it's head and beg for it, and it is then that you can feed it the meat to engage Love Mode, when heart particles will appear. Tamed wolves can be fed any type of meat to heal them, and while untamed wolves can be fed, only tamed wolves can be bred.
+Wolves were introduced in the Beta 1.4 patch, but it was not until 1.1.0 that the breeding mechanic was added, or 1.4 that their collars could be dyed. Wolves existed in TU1 in Console editions and were added to Pocket Edition in 0.9.0.
+If a tamed wolf attacks a wild wolf, it will growl at its owner.
+If you shoot an arrow straight up and hit yourself in a previous version of Minecraft, your own tamed wolves will attack you.
+Wolves do not attack Creepers.
+Tamed wolves will keep their tails up high if they have full health, and down low if they are low on health, because the angle between their back legs and tail is how much health they have.
+A lighting glitch may sometimes cause a wolf to turn all black when it is wet.
+Puppies cannot swim and will likely drown in deep water if not pulled out in time.
+Unused wolf sounds, such as howling can be found in the Minecraft source code.
+Untamed Puppies actually exist. They can be made if you right click on an untamed wolf with a Wolf Spawn Egg in your hand.
+See here.

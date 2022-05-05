@@ -1,0 +1,8 @@
+Podzol is a block that was added in Minecraft 1.7 update and 0.9.0 for the Pocket Edition. It has a similar look to standard grass but the top texture seems to be covered with dead leaves. It doesn't spread, so it can't be harvested like regular Grass Blocks. Podzol's data value is 3:2. If it is mined without Silk Touch, it'll turn into regular dirt.
+Podzol does not spread to adjacent blocks like grass.
+Podzol is found in the Mega-Taiga Biome.
+Podzol must be mined with Silk Touch to be harvested.
+The first image posted of Podzol by Dinnerbone.
+Some Podzol in Minecraft Pocket Edition.
+Add a photo to this gallery.
+Template:Compare.

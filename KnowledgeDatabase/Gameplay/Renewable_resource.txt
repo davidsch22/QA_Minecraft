@@ -1,0 +1,20 @@
+A renewable resource is a resource that can be recreated indefinitely in survival without exploiting glitches (as opposed to a non-renewable resource). While running out of resources isn't likely to be a factor due to theoretically infinite (and still quite vast in practice) map generation, this is a list of resources that can be produced over and over without having to explore for more. However, running out of resources can be a bigger issue on superflat worlds, where resources are less plentiful, or in PvP maps, where one would like to obtain resources without having to conquer more land.
+The listed fully renewable craftable items are items which can be crafted, smelted, or brewed using only renewable resources. For example, cookies are renewable as they only require wheat and cocoa beans that can be regrown infinitely, while TNT isn't because it requires sand, which is not renewable. Anything that is dropped by a monster or animal, is renewable because more mobs of the same kind can spawn and be killed again for more loot. This is not the case for boss mobs (the Ender Dragon spawns only once per world, and the wither requires non renewable soul sand to spawn), nor the elder guardian, which spawns only three times per ocean monument.
+There are some main methods to get renewable resources and some item-specific methods. Item-specific methods vary from building a cobblestone generator to harvesting obsidian from portals, so it's very important sometimes to choose non-renewable, but easier and/or safer ways to get them. The methods are listed in increasing difficulty order Farming - grow it on the dirt or farmland block, breed using renewable resources etc.
+The methods are listed in increasing difficulty order Craft it using only renewable resource(s).
+The methods are listed in increasing difficulty order Buy it from villagers.
+The methods are listed in increasing difficulty order Get it as a guaranteed or very probable drop after mob's death.
+The methods are listed in increasing difficulty order Get it as a rare drop after mob's death.
+The methods are listed in increasing difficulty order Find it while fishing.
+The first three methods are the easiest. They are especially worth using when you want to avoid risk, such as while playing in hardcore mode. The fourth method is normally used to get something that is only possible to get by killing monsters, such as blaze rods, arrows or bones. The last two methods are worth using only when there is no other practical choice, as you will really spend a lot of time executing the method before getting what you need.
+These items are only occasionally dropped by monsters, so getting them quickly or in quantity is normally done by mining, then smelting/crafting non-renewable resources (mob farms being an option).
+Resources that in normal circumstances would be non-renewable, except that they can be obtained through trading with villagers.
+Generally, all resources are renewable in the same way in both the Pocket Edition and the PC Edition. The exceptions are noted in subsections here.
+These resources are not renewable in the PC edition, but are renewable in the Pocket Edition.
+These items are renewable in both the PC and Pocket Editions, but the method used in the PC Edition is not available in the Pocket Edition.
+These resources can be made infinitely, but require the initial use of at least one non-renewable resource. Some of them are renewable in PC, but they do not require non-renewable resources.
+These resources are renewable in the PC edition, but not in the Pocket Edition.
+Generally, all resources are renewable in the same way in both the Console Edition and the PC Edition. The exceptions are noted in subsections here.
+These resources are not renewable in the PC edition, but are renewable in the Console Edition.
+These resources can be made infinitely, but require the initial consumption of a non-renewable resource.
+These resources are renewable in the PC edition, but not in the Console Edition.

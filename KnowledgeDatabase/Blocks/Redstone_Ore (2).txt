@@ -1,0 +1,17 @@
+ Redstone Ore is a type of ore that is found 16 or less levels above bedrock. It drops redstone dust when mined and it can be crafted into redstone-related mechanisms. Redstone crafted into Redstone Dust only has one other use than making electrical wires; redstone torch. If it is hit with anything it will begin to glow and will light a small area. It is usually defined as "Useless" in vanilla minecraft, but in modpacks such as Tekkit, it is more valuable than diamonds.
+Though it is called an "ore", it is not a metal and doesn't have to be smelted into a usable form, although it will give Redstone Dust if smelted in a Furnace in Creative Mode.
+When added to the game, all Redstone-related blocks had no official name. In 1.0.4, July 9, 2010, the name Redstone was given by Notch after demands from the community.
+One may only obtain Redstone Ore as a block through Silk Touch enchantmented tools. It is best to mine the Redstone Ore instead of using Silk Touch because when burning it, it gives one when mined directly drops 1-4 pieces of Redstone.
+Lit Redstone Ore is defined as a separate block in the source code.
+For beginner Minecraft players, Redstone Ore might be mistaken for Rubies.
+In Pocket Edition, Redstone Ore can be found, but cannot be placed.
+There is a glitch, that when dug with a Silk Touch pick, a redstone ore is obtained that is unstackable. Placing and destroying with Silk Touch again fixes that glitch.
+Redstone can essentially be determined to represent copper, but contains a more red hue in Minecraft than it is in real life. It also has a powdery texture. However, both objects take the same basic function, conducting power.
+Redstone ore can be mined using an iron pickaxe or better. It cannot be mined with a wooden or cobblestone pickaxe, although it can be destroyed by them, it will not yield anything.
+Redstone is used to make many items that cannot be made with other materials, because it is a good conductor of electricity. A useful thing to make on survival mode would be a compass and/or map, as it can be used to venture from your home and easily find your way back.
+Redstone ore found randomly while mining in PE.
+Making a compass with iron ingots and redstone dust.
+Making a map with paper and a compass.
+Redstone ore generating naturally in caves.
+redstone block.
+Add a photo to this gallery.

@@ -1,0 +1,5 @@
+Milk is an item obtained in a Bucket by right clicking a Cow that, unlike other items contained in a bucket, instead of placing it when right clicking, it can be drunk and is considered a food item. Milk is the only food item that will not replenish any hunger by itself, but will instead simply remove all status effects.
+3 buckets of Milk, along with other ingredients, can be used to craft a Cake.
+Milk was introduced in Alpha, but served no purpose until Beta 1.2, when it became an ingredient for cake.
+As of the Adventure Update, milk became an edible food item and a cure for status effects.
+After consuming the milk, the an empty bucket will take its place.

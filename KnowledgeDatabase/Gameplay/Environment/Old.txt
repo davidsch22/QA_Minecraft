@@ -1,0 +1,4 @@
+Pocket Edition Only.
+Old is a world type exclusive to the Pocket and Pi Editions. It consists of a finite world with an area of 256x256 blocks barricaded with invisible bedrock. It can generate with any of the current biomes (excluding roofed forest), but due to the limited size, it usually doesn't generate many biomes at a time. Caves, strongholds, and mineshafts do not generate, though other structures generate normally.
+The purpose of this world type is for low-end devices that do not perform well with infinite worlds and caves.
+Old used to be the only available world type in Pocket Edition. Like the current version, it had an area of 256x256 blocks, but it also lacked many of the current biomes, generated structures and foliage colors.

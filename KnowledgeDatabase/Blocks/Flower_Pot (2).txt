@@ -1,0 +1,8 @@
+Flower Pots are decorative blocks that was added in version 1.4.2, "Pretty Scary Update" for Halloween. You can place many types of plants in a flower pot. flowers, ferns, cacti, dead bushes, saplings and mushrooms all can go in flower pot. Flower pots can only be placed on top of a solid block.Place a flower pot like any other block, only it must be on a solid block. Once placed, place a plant on top of the flower pot for it to hold it. That's it! Enjoy.
+Saplings will not grow when inside a flower pot, as they grow trees whose blocks are larger than flower pots.
+A cactus will not harm players when grown inside a flower pot.
+Pistons will destroy a flower pot when pushing one.
+Flower pots appear differently in their texture when recieved through the /give command.
+Flower pots also appear naturally in Witch huts, with mushrooms planted in them.
+A flower pot in a Witch hut.
+Add a photo to this gallery.

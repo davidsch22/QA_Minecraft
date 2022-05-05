@@ -1,0 +1,15 @@
+Dec value: 30.
+Hex value: 1E.
+Minimum tool requirement to break.
+None Blast resistance: 20.
+Maximum stack 64.
+Transparency: Yes.
+Cobweb can be found in abandoned mineshafts and strongholds, and has the unique ability of slowing down anything that falls or moves through it, without damaging them. Including dropped items. The only exception to this are both spider types, which can move freely through the cobwebs and fired arrows. Fire charges will turn into fire upon impact with cobwebs. Cobwebs can be destroyed with anything, though swords and shears are the fastest tool. Water, lava and pistons will destroy the cobweb as well.
+Destroyed cobwebs will drop 1 piece of string, which cannot be turned back into cobweb. Cobwebs are unavailable in survival mode, even when you use the silk touch enchantment, but they are available in creative mode. Cobwebs slow down mobs, players and dropped items to about 15% of the player’s walking speed and is the same for all mobs and items.
+In creative mode, custom adventure maps or on multiplayer servers, cobweb is usually used as decoration or as part of traps. The most common decorational uses are, obviously, cobwebs, as well as smoke coming from chimneys. Placing a few cobwebs in a smoke-like pattern coming from a chimney looks great, though usually only when viewed from a reasonable distance, like the ground or other houses.
+Though less commonly used, cobwebs can also make great stars, especially when placed high above the ground with a blue or black background, like blue and black wool. The slowing effect of cobwebs makes it a pretty obvious trap.
+However, cobwebs are flammable, even though they cannot be set on fire directly. So it’s hard to incorporate them in any fire trap.
+Cobwebs placed on ice will decrease movement speed even more, falling in such a trap can be very frustrating.
+But because arrows aren’t slowed down by the cobwebs, players who fell in can easily be sniped from a distance.
+Note that most multiplayer servers have the /spawn command enabled, so players can simply teleport out if they get the chance to. Killing them quickly will be key here.
+Activated TNT will also get stuck in cobwebs, and although this serves as a very effective way to kill a desperate player, the TNT will destroy the cobweb and other blocks around it.

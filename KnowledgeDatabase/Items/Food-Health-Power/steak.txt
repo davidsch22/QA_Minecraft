@@ -1,0 +1,7 @@
+Dec value: 364.
+Hex value: 16C.
+Hunger restoration: 4 hunger bar slots.
+Hunger saturation: 12.8.
+Maximum stack 64.
+Steak is obtained by cooking raw beef or by killing cows and mooshrooms with fire. They’ll always drop 1-3 pieces of cooked or uncooked meat. Steaks restore 4 hunger bar slots and 12.8 hunger saturation, this makes beef the best food item in game, together with pork. Mushroom stew also restores 4 hunger bar slots, but only restores 9.6 hunger saturation. However, steaks are easier to farm in larger quantities than porkchops, as cows will drop 1-3 pieces of meat, while pigs only drop 0-2.
+Cows and mooshrooms can easily by farmed by breeding them. Simply feeding them with will put them in love mode. When 2 cows or 2 mooshrooms are in love mode they’ll start to “dance” around each other and after a few seconds a baby cow or baby mooshroom will spawn. After 5 minutes the parent animals can be bred again.

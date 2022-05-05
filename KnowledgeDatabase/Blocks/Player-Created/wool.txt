@@ -1,0 +1,9 @@
+Dec value: White: 35; Orange: 35:1; Magenta: 35:2; Light blue: 35:3; Yellow: 35:3; Lime: 35:5; Pink: 35:6; Gray: 35:7; Light gray: 35:8; Cyan: 35:9; Purple: 35:10; Blue: 35:11; Brown: 35:12; Green:35:13; Red: 35:14; Black: 35:15.
+Hex value: 23.
+Minimum tool requirement to break: None.
+Blast resistance: 4.
+Maximum stack 64.
+Transparency: No.
+Wool is a block obtained by shearing sheep. Sheep are naturally either white, brown, black, light gray, gray or pink, though white is the most common colour. But, wool can be painted into other colours, there are 16 different colours, including white. It’s possible to paint the sheep, making the coloured wool renewable, however, it’s only possible to paint white wool blocks. Coloured wool cannot be changed back to white. However, it is possible to dye sheep white again by using bonemeal on them.
+Wool is used to create beds and paintings, but the colours you use do not affect the result. Note that you can use any combination of wood and wool colours to create the beds and paintings. Wool can also be crafted using 4 pieces of string, though string is much harder to aquire in larger amounts. Black wool is found in villages, where it’s used as lamp posts.
+Wool is highly flammable and fire will spread very fast, quickly turning any large surface of wool in an ocean of flames. Fire does not spread onto sheep, though of course they do catch fire when they walk into fire.

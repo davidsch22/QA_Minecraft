@@ -1,0 +1,10 @@
+Dec value: 84.
+Hex value: 54.
+Minimum tool requirement to break: None.
+Blast resistance: 30.
+Maximum stack 64.
+Transparency: No.
+Jukeboxes are used to play music discs obtained through chests in dungeons or by getting a skeleton to kill a creeper. There are 11 different music discs, though only 1 can be played at a time. Jukeboxes are created using 8 planks and a diamond.
+You can use any combination of plank colours, but this will not affect the result, which always looks the same. Jukeboxes can be destroyed by hands, though an axe is faster. Desroying it will drop the jukebox and any disc that might be inside it.
+To play a song, hold the disc you want to play and right click the jukebox. The disc will be inserted and play untill the song is over. Once the song is over the disc will remain in the jukebox untill you right click it again. There is currently no way to loop music, so you have to eject and inject the discs every time you want to listen to it.
+Music can travel up to about 75 blocks, though it becomes quite faint. Minecraft will take the position of your character in consideration when playing the music. If you stand left of the playing jukebox with your character, music can be heard better from a right channel speaker. This is most noticeable when using headphones.

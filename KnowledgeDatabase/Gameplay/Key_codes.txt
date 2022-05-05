@@ -1,0 +1,3 @@
+This is a list of key codes used by LWJGL, and by extension Minecraft, which are used in configuration files such as the options.txt file in the Minecraft directory.
+Larger view of keyboard.
+LWJGL supports a maximum of 16 mouse buttons. The Minecraft game settings screen translates button 0 to "Button 1", button 1 to "Button 2", etc.

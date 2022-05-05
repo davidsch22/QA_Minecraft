@@ -1,0 +1,15 @@
+Ice is a partially transparent Block that forms over Water in colder Biomes and is somewhat slippery. It can commonly be used as an indicator of a Tundra, Taiga and Ice Spikes Biome. The player can break Ice even without a Tool, but will do so fastest with a Pickaxe.
+Ice acts very similar to Snow in the sense that it melts when it comes into contact with Fire, is near a Torch, or is touched by Lava for a short period of time. Ice is not affected by Fire, but when melted with Lava, it will produce Water. This will also happen if Ice is destroyed and there is a Block beneath it.
+Ice does not commonly have a use, and was most likely implemented in Minecraft for show and visual effect. Ice cannot naturally be gathered; however, if a Pickaxe has the Silk Touch Enchantment, Ice can successfully be gathered without destroying it.
+Ice can be used to make traps, but is not efficient in this as water makes a better substitute in moving mobs. Melted Ice will disappear in the Nether.
+In Mob traps, Ice is great for making faster Mob delivery systems. Water traveling over Ice propels items and Mobs faster, decreasing the amount of time the Player must wait.
+Items flowing in Water over Ice will go much faster.
+When Ice is broken, it makes the same breaking sound as Glass.
+Blocks of Water in Arctic Biomes will occasionally freeze, forming blocks of Ice.
+If placed under Soul Sand, the player will move slower on the Soul Sand than if the Ice Block was not there.
+If Ice is placed directly next to Lava or Water, the liquid will be invisible.
+Players can sprint extremely fast on ice.
+By sprinting and jumping while on Ice and inside a 2-block tall tunnel, it is possible to move 16 blocks a second, twice as fast as a full-speed minecart. By replacing the 2-block ceiling with trapdoors, it's possible to travel 1000 blocks in 54 seconds, or 18.518 blocks per second. However, this will drain the player's hunger bar extremely quickly at roughly 1 unit per second.
+Ice can be melted by any block or item that omits a high light level.
+Ice in the Pocket Edition does not have the same transparency as in the PC version.
+See here.

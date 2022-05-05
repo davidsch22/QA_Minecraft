@@ -1,0 +1,13 @@
+Bookshelves are blocks that primarily serve to enhance enchanting with an enchantment table.
+Bookshelves can be broken fairly easily by hand, but can be broken faster by using an axe. In either case, they will drop 3 books when broken, allowing the reconstruction of the bookshelf with the addition of six wood planks. When broken by an item that is enchanted with silk touch, it will drop itself.
+Villages often generate libraries, and inside each library there are seven bookshelves.
+Strongholds almost always generate an abandoned library. These feature some bookshelves arranged in pillars, and more bookshelves arranged in pillars in the walls. And a balcony with two walls covered in pillars of bookshelves. There are about 224 (3.5 stacks) bookshelves in each library.
+A bookshelf can be bought from a librarian villager for 3 to 4 emeralds as part of their tier 2 trades.
+If an enchantment table is placed near a bookshelf, glyph particles will fly from a bookshelf towards the enchantment table. The enchantment table will then gain access to higher experience-level enchantments.
+To get to the highest level of enchanting (level 30), you will need 15 bookshelves placed within a 5×5 square centered at the table or the block above. No other blocks can be placed in between the table and the bookshelves.
+Bookshelves can be used as furnace fuel to smelt an item for 15 seconds.
+Bookshelves top and bottom textures by default use the same texture as oak wood planks.
+It takes 90 wood planks, 45 leather and 135 paper to make 15 bookshelves in order to get a level 30 enchantment.
+Naturally occurring bookshelves in villages.
+Naturally occurring bookshelves in strongholds.
+Bookshelves obtained via villager trading.

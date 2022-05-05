@@ -1,0 +1,26 @@
+A redstone lamp is a block which produces light when activated with redstone power.
+A redstone lamp can be mined by hand or with any tool, dropping itself as an item.
+A redstone lamp can be used to produce switchable light.
+To place a redstone lamp, use a redstone lamp item while pointing at a surface facing the space the redstone lamp should occupy.
+Redstone lamps are redstone mechanisms and can be activated by An adjacent active power component, including above or below: for example, a redstone torch (except that a redstone torch will not activate a redstone lamp it is attached to), a block of redstone, a daylight sensor, etc.
+Redstone lamps are redstone mechanisms and can be activated by An adjacent powered block (for example, an opaque block with an active redstone torch under it), including above or below.
+Redstone lamps are redstone mechanisms and can be activated by A powered redstone comparator or redstone repeater facing the redstone lamp.
+Redstone lamps are redstone mechanisms and can be activated by Adjacent powered redstone dust configured to point at the redstone lamp (or on top of it) or directionless; a redstone lamp is not activated by adjacent powered redstone dust that is configured to point away from it.
+A redstone lamp activates instantly, but takes 2 redstone ticks to turn off (4 game ticks, or 0.2 seconds barring lag).
+An active redstone lamp produces block light 15. An inactive redstone lamp produces no light.
+Although a redstone lamp acts like an opaque block in most ways (torches and levers can be attached to it, redstone dust can be placed on it, etc.), an active redstone lamp is "transparent" to sky light, reducing the sky light level by 1.
+A redstone lamp uses its ID to specify its activation state.
+Every redstone lamp (active or inactive) has a block data value of 0. Redstone lamps have no block states.
+A redstone lamp shown during the day that is switched off.
+A redstone lamp shown during the day that is switched on.
+A redstone lamp shown during the evening that is switched off.
+A redstone lamp shown during the evening that is switched on.
+Demonstrating how wire powers redstone lamps.
+Demonstrating how repeaters power redstone lamps.
+Demonstrating how a solid block powers redstone lamps.
+Note that lamps themselves are solid blocks, so they power other lamps. This causes the cross-shaped patterns that you see. Floor torch with no lamp above it.
+ Floor torch with a lamp above it.
+ Wall torch with no lamp above it.
+ Wall torch with a lamp above it.
+A glowing roof is easy to do - just lay wire across the blocks, or line the top of the lamps with redstone blocks. Floors and walls are also do-able. For a floor, just use the "knight's move" shape underneath the floor with torches. For a wall, use wall-mounted torches that power blocks above them. A redstone lamp floor.
+ A redstone lamp wall.

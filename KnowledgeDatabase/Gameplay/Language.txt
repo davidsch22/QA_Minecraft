@@ -1,0 +1,19 @@
+The choice of languages is a feature that allows changing languages for people who are not familiar with English. The language menu is accessible via a button in the main menu to the left of the options button, and from the options menu.
+Previously, language packs were needed in order to change the in game language. Language packs are obsolete, due to the official implementation of other languages.
+Each language also has a font, although most languages share the same font.
+As of version 1.5.1, there are 62 languages, which are, in the order they appear in the menu.
+aA bB cC dD eE fF gG hH iI jJ kK lL mM nN oO pP qQ rR sS tT uU vV wW xX yY zZ 1 2 3 4 5 6 7 8 9 0.
+Minecraft's font is made up of a grid of dots (based on an Northern European code page from MS-DOS). Each character supported by the font is between 1 and 6 dots wide, although most are 5. Characters not supported by the font have thinner lines and use computer pixels instead of bigger dots. This will also happen when using certain languages, like French. Text is normally white in chat and black on signs, but it can be changed with formatting codes.
+Here is a table that summarizes the modifications of languages through the updates.
+Upcoming and still-in-progress translations are listed on the official Minecraft translation project page.
+Some languages use Unicode fonts when they should not (example: Spanish doesn't, but French does, even though the standard font contains all French characters).
+In some languages, the text is too long and overflows the button it is written on.
+Splash texts are not translated and therefore always show up in English regardless of language setting. As of 1.6.1, you can use a custom (not just translated) splash text by using a resource pack.
+Minecraft's language option is only for text display. In some languages (such as Chinese, Japanese and so on) players cannot input text in their languages. This is because Minecraft doesn't support the Input method of the language. Some users can still use Mods which support it.
+Some in-game messages are not translated to any languages other than English.
+If the language is set to Spanish ( Mexico ) and you go into Controls, the game will crash. This only happens in 12w18a.
+Minecraft is available in three constructed languages: Esperanto (devised as an international language and spoken fluently by around 100,000 people worldwide), Klingon (an alien language from Star Trek devised by linguist Marc Okrand), and Quenya (one of the Elvish languages devised by J.R.R. Tolkien). It is also available in the joke "language" of Pirate Speak, which is English written in the way a stereotypical pirate talks. Australian English also pokes fun and humorous stereotypes such as naming furnaces "Barbies", slang for barbeques, calling creepers "Bunyips" or calling a Minecart a 'Holden' and the TNT Minecart a 'Ford', Holden being General Motors' marque for cars sold in Australia and 'Ford Motor Company' being a main rival to Holden. In Argentinian Spanish there are many local words too, for example, "benchmarking" achievement is called "a laburar" (laburar means to work). Also, Latin was added in 1.7.2.
+It is possible to add a custom language pack by modifying the minecraft.jar file, or, as of 13w16a, copying it to the assets/lang folder. In 1.6.1 (13w24a), this functionality was added to resource packs.
+Random text will only choose random characters with the same width as the original, and when in a language like French or Pirate, you can see the original text without it being random.
+Certain letters with certain accents are supported by the font, but not all. GNU Unifont is used for many languages like French or Pirate.
+The only 6-dot-wide characters are ®, ~, and @.

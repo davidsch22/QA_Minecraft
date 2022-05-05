@@ -1,0 +1,7 @@
+End Stone (sometimes called Ender Stone) is a block that appears in the End and makes up most of the dimension.
+End stone must be obtained using a pickaxe of any tier, otherwise it drops nothing.
+End stone is only found in the End, where it makes up the island. There is a finite amount of end stone on the island.
+End stone has a blast resistance of 45, 1.5 times that of ordinary stone. It also cannot be picked up by endermen and cannot be destroyed by the ender dragon.
+The end stone can be seen at the bottom of this image, although it has been subjected to a greenish light.
+Brightened version of the previous image.
+A better view of end stone.

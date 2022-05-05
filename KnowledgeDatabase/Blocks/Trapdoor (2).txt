@@ -1,0 +1,9 @@
+ A Trapdoor (also known as a Hatch) is a block used as a horizontal door that fills a one block space. It was introduced in Beta 1.6. When placed outside, rainfall, water, and snowfall do not pass through it, but light can shine through.
+They can be placed anywhere with a solid block directly adjacent. When activated, they will then open by flipping upwards, toward the adjacent block. If that block is destroyed, the trapdoor will break off into a resource. Due to this restriction, it is currently not possible to create a flat floor with a trapdoor opening downwards. .
+As with Doors, Trapdoors can be controlled with Redstone circuitry. Redstone in its charged state will cause the trapdoor to open. Conversely, redstone in its uncharged state will close the trapdoor.
+Sand and Gravel, if dropped onto a Trapdoor, will break into items (similar to how sand or gravel falling on a torch or minecart track will do the same).
+Trapdoors can be pushed by a Piston if there's another block for it to connect to or if the block it is currently connected to is pushed with it.
+Due to the 12w40a Snapshot, trapdoors can no longer be activated by left clicking. Only right clicking opens/closes trapdoors.
+In 1.8 they added Iron Trapdoors to the game, which can be activated only with a redstone pulse, like Iron Doors.
+Trapdoors can create air sockets/stop water when placed in any body of water.
+In Minecraft Pocket Edition, when a Block is placed down next to the trapdoor, it will activate the trapdoor, just like with Doors. (Fixed).

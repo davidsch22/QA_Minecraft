@@ -1,0 +1,6 @@
+A raw porkchop is a food item that can be eaten by the player or cooked in a furnace to make a cooked porkchop.
+Pigs will drop 1-3 pieces of raw porkchop when killed (except if died on fire).
+To eat raw porkchop, press and hold use while is selected in the hotbar. Eating one restores 3 () hunger and 0.6 hunger saturation.
+Villager butchers will buy 14-18 raw porkchops for an emerald as an initial tier trade.
+They can also be used to heal or breed tamed wolves.
+Note: Pigs no longer drop 0-2 raw porkchops, but 1-3 raw porkchops.

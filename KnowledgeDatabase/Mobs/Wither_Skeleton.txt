@@ -1,0 +1,15 @@
+Wither Skeletons are rare mobs that can be found in The Nether, mainly in Nether Fortresses. They were released in the Pretty Scary Update (1.4.2).
+Upon death, a Wither Skeleton will drop Coal, Bones, a Stone Sword, and rarely (1 in 50 chance) their Head. Three Wither Skeleton Heads and four Soul Sand blocks are required in order to spawn the Wither.
+Wither Skeletons will only spawn within Nether Fortresses as of the 1.4 prerelease, Dinnerbone might have added changes to this though.  It is assumed however that they follow the same rules for spawning as blazes, which will only spawn naturally, and not from a spawn where the pack spawn is selected within a nether fortress.  From this pack spawn the mobs can be spawned in close to or even inside the fortress.
+Unlike regular Skeletons, wither skeletons carry swords instead of bows. In appearance they are black and slightly taller than the usual Skeletons.
+If the player is hit by a Wither Skeleton, the player will be infected with the Wither Effect, which will slowly drain their health. Unlike poison, however, it can kill the player. Using a Skeleton Spawn egg in Creative Mode in the Nether has a 75% chance of forming a Wither Skeleton instead of a regular Skeleton.
+The wither skeleton is taller than the regular Skeleton and is slightly shorter than the Enderman making it the third tallest hostile mob in the game. It almost looks charred, possibly because of fire and lava. It holds a Stone Sword instead of a bow.
+ When on Normal and Hard difficulty, the Wither Skeleton can put the Wither Effect on you when it attacks you.
+ When you spawn a spider in the nether, there is a 2% chance of it spawning as a wither skeleton spider jockey.
+ Wither Skeletons cannot spawn in the Overworld, but can travel there through a Portal.
+Using the /summon command, wither skeletons can be spawned with bows like skeletons. Unlike skeletons, if they shoot you, you will be on fire.
+On creative mode, a spider egg has a 1% chance of spawning a spider jockey with a wither skeleton.
+Wither skeleton appear to be bigger than a normal skeleton.
+Due to the Wither Skeleton sharing its entity ID with Skeletons they have a bug where they run away from sunlight even though they cannot burn.
+Because of the same bug, they can spawn in a two block high space, despite being three blocks tall, and will suffocate.
+Summoning a wither skeleton, every 10-15 seconds, it will be on fire for a split second.

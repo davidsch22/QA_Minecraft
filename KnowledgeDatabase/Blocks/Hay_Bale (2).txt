@@ -1,0 +1,3 @@
+A Hay Bale (also known as Hay Block) is a block added in 1.6.1. It is created with nine pieces of wheat. It can be used as a decoration block for animal related buildings (e.g Stables, Barns). When placing hay, it will behave much like wood blocks, in that they will orient themselves according to your location relative to them.
+They also serve the purpose of allowing baby horses (foals) to grow faster over time. In addition to this, they heal full grown horses while not having a rider on them. For this reason it is ideal to keep them near horse stables to act as "healing stations" to horses on the edge of towns. .
+Creating Hay from wheat is biologically/technically impossible, as hay is a completely different type of plant than wheat.

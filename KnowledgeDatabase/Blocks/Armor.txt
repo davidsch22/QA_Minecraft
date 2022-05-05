@@ -1,0 +1,24 @@
+If you are looking for Horse Armor, see Horse Armor.
+Armor (Armour) is a special type of item that is used for protection. Armor can be crafted out of Leather, Iron, Gold, and Diamond. There is also Chainmail armor, which could be crafted with Fire (Something the only way to obtain is with the give command) until the 1.8 update. Armor reduces the amount of damage taken by the wielder, however, armor will not protect you from all types of damage such as fall damage or drowning, unless you have the right enchantments. Armor is not only limited to be worn by the player but can also be equipped by undead monsters excluding the Wither (all skeletons and zombies) or be naturally spawned on them. However, horse armor cannot be crafted. Armor goes into 4 special slots inside your inventory. One slot for helmets, chestplates, leggings and boots. Lastly there is Elytra, a pair of wings that allow you to glide.
+There are four different types of craftable armor Chestplates, Helmets, Pants, and Boots. All types of armor can be equipped as well as enchanted, however, only certain armor types can obtain certain enchants without the use of an Enchanted Book.
+There are five types of armor: Leather, Gold, Chain, Iron, and Diamond.
+Leather is used to craft the first tier of armor. It has very low durability, and a full set of leather armor only absorbs 28% of damage, so it is not very practical in battle. However, one unique ability of leather armor is that it can be dyed by combining dyes with it in a Crafting Table. It is also the only armor to have unique names for each armor piece: Instead of being called Leather helmet, Leather Chestplate, and Leather Leggings, They are called Leather Cap, Leather Tunic, and Leather Pants. The boots, however are just called Leather Boots.
+Golden Armor is the second tier of armor. It has slightly higher durability than leather, but is still pretty fragile. A full set of gold armor will absorb 44% of damage, and it is also the most enchantable tier of armor, just as golden tools are the most enchantable tier of tools.
+Main article: Chain Armor.
+Chainmail is the third tier of armor. it is easily accessible in Creative, and can be obtained in survival mode through Trading with villagers, or could be found worn by a Zombie or Skeleton. Chainmail is only slightly stronger than Gold, but has the durability of Iron. Even though Chainmail Armor exists in the files of the Pocket Edition, it is unobtainable without the use of hacks or mods.
+Iron armor is the fourth tier, and second strongest type of Armor in vanilla Minecraft. While Iron Armor has high durability, and a full set will absorb 60% of damage, it is strangely the least enchantable type of Armor. Iron armor can be worn by Mobs, but they will never naturally spawn with it.
+Diamond armor is the fifth and strongest tier of armor in vanilla Minecraft. Diamond Armor is more than twice as durable as Iron or Chainmail Armor, and a full suit will absorb 80% of damage. Also, as with Iron Armor, it can be worn by mobs, but they will not naturally spawn with it.
+Main article; Elytra.
+Elytra is a special piece of armor, since it gives no armor value, but allows you to glide. Jumping off of at leas 5 block tall jumps will active the wings. Elytra can be obtained in the End Ship in an Item Frame in the hull.
+It takes 24 units of any of the forementioned materials to make a full set of armor(4+5+7+8=24). Although it is not required to wear a set of only one type, it is required that each piece consists of one kind of material. This means that you could wear a Leather Helmet with an Iron Chestplate, but you cannot craft a chestplate out of both iron and leather.
+Note that chestplates provide the most protection per unit of material, followed by leggings, followed by helmets, followed by boots.  The more units of material, the more protection per unit of material. The exact ratio varies between different materials.
+Materials can be Leather, Gold, Iron, or Diamond.
+(Note. Fire cannot be legitimately obtained in survival. You must use an external program or /give).
+To craft pants or leggings,.
+To craft boots,.
+To craft a chestplate or tunic,.
+To craft a helmet or cap,.
+The armor breaking animation and sounds sometimes doesn't happen in Multiplayer.
+If you are sitting in a minecart with armor pants on, and open your Inventory, or change point of view, your legs will be in a sitting position, but your armor will be a standing position. However this can be fixed by removing any bottom piece of armor and then replacing them.
+An example of the armor slots in Minecraft: Pocket Edition.
+Add a photo to this gallery.

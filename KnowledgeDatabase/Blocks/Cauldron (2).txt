@@ -1,0 +1,11 @@
+ Cauldrons are a form of brewing equipment that appeared in 1.9 Beta. The brewing function was later replaced with the brewing stand because of the inconvenient method of brewing with the cauldron. It would have been used to make Potions using Brewing Recipes.
+As of Beta 1.9 Pre-release 3, Cauldrons can now be crafted, and used to store water. Cauldrons can now refill Glass Bottles with the water required for brewing. Each Cauldron holds three bottles worth of water, which is equal to a single bucket. Despite being able to fill up any empty bottles with any regular source block, cauldrons have a new feature that allows them to emit a redstone signal when a redstone comparator is placed beside it. The more water that's inside it, the stronger the signal. It is also used for returning leather armor into their original color if it is dyed. To also note, they are useful in the nether, as cauldrons are the only items you can put water in.
+Cauldrons cannot hold lava or milk despite both being able to be carried in buckets.
+Potions can be brewed in 1.9 Beta Pre-Release 2 by adding a bucket of water along with various other ingredients to a cauldron which then runs them through a mathematical algorithm that can result in one of over two thousand different potions with positive or negative effects.
+When broken, cauldrons do not drop water, only the cauldron itself.
+When the cauldron is being mined with water in it, the mining animation will superimpose itself over the water as well.
+If a cauldron is outside, when it rains the cauldron has the potential to fill with water.
+A witch's hut (a generated structure in Minecraft) has a cauldron in it.
+Using a cauldron is inefficient, since one water block source in a cauldron can only fill three bottles, while a water source placed anywhere can fill infinite bottles.
+As of 1.8 you can use Cauldrons to remove the dye on a Banner, just like leather armor.
+In XBLA edition, if a villager were to jump into a cauldron, they could not escape and would require the cauldron to break in order to free them.
