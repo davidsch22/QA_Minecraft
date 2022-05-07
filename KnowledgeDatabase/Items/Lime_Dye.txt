@@ -1,3 +1,5 @@
+Lime Dye is a dye primarily used for coloring wool. Lime Dye can not be harvested directly from an item, like most dyes, but instead must be crafted by adding Bone Meal to Cactus Green. .
+Lime Green and Cactus Green are commonly used for camouflaged leather armor.
 Lime dye is a secondary dye color obtained by combining one cactus green and one bone meal in a crafting square.
 Like all other dyes, lime dye can be Applied to sheep to dye their wool, which can then be shorn for 1–3 blocks of lime wool.
 Like all other dyes, lime dye can be Applied to tamed wolves to dye their collars.

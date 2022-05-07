@@ -1,3 +1,5 @@
+Weighted Pressure Plates are a special type of Pressure Plates that emit a different Redstone signal strength depending on how many items are on the plate. They were added in Snapshot 13w01a. There are 2 different kinds, both with different recipes: Light and Heavy.
+The signal strength emitted is as follows.
 A weighted pressure plate is a block that can be used to measure the number of entities on it.
 There are two versions of the weighted pressure plate: the light weighted pressure plate (aka "gold plate": ) and the heavy weighted pressure plate (aka "iron plate": ). The only difference between the two are the number of entities required to produce specific signal strengths.
 A weighted pressure plate can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.

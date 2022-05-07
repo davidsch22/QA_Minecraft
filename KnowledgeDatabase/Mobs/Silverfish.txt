@@ -11,3 +11,26 @@ Silverfish, along with Endermen, Had a placeholder sound in Beta 1.8 but they go
 Silverfish can be spawned in Creative Mode using the Silverfish Spawn Egg. The silverfish blocks can also be used and are found under the decoration blocks. If a silverfish block is destroyed in Creative mode, a silverfish will still pop out.
 Silverfish in a Stronghold.
 Add a photo to this gallery.
+Silverfish are small, bug-like hostile mobs.
+Silverfish have no drops other than 5 experience when killed by a player or tamed wolf.
+Silverfish spawn from broken monster eggs, which generate in strongholds and extreme hills biomes.
+When spawning from monster spawners, they can only spawn in light level 11 or lower, except on top of stone and its variants, where they can spawn at any light level. They also cannot spawn within a 5 block distance of any player.
+Silverfish are the second smallest mobs in Minecraft, after the endermite; their height is less than that of a slab. Because of this, they take suffocation damage from standing on soul sand.
+Silverfish have the ability to "call" other silverfish in the area upon being hit. These silverfish have the ability to see through walls, and will pathfind until they reach the player.
+When idle, silverfish will enter a nearby stone block, transforming it into a monster egg.
+When they are attacked or take poison damage, they may cause other silverfish within a 21×11×21 area to break out of their monster eggs (unless they are killed in one shot).
+In real life, silverfish are small, relatively harmless, wingless arthropods that are often found in dark areas in buildings and the wooden pilings of seaside piers and trees. They are infamous for damaging paper-based products. During cold temperatures they are known to enter a sort of "hibernation" by expelling most of the water in their body. During this state they greatly resemble small stones or gravel, likely inspiring their Minecraft counterparts.
+A silverfish.
+A swarm of silverfish.
+Silverfish spawner room in a stronghold.
+A silverfish riding a minecart.
+Many silverfish in a village. (Click for animation).
+A giant stone silverfish as seen in the 13w26a banner.
+Endermite.
+Silverfish are small, hostile mobs that look more like a strange caterpillar than a fish. They drop nothing when they’re killed, which just makes them more annoying to deal with.
+Silverfish only occur in strongholds, making them the rarest mobs in game, after the Ender dragon and spider jockey. The silverfish occupy stone blocks, which look exactly like their normal counterpart. There are 3 types of stone silverfish blocks. Cobblestone, stone and stone brick blocks.
+In addition to being inside some stone blocks, silverfish can spawn from the monster spawners inside the strongholds. However, unlike other monsters that spawn from spawners, silverfish cannot spawn within 5 blocks of a player.
+When one of those silverfish blocks is mined, the silverfish will pop out and attack the player, causing half a heart of damage. This may seem weak and harmless, but a silverfish takes 2 strikes with a diamond sword to be killed and if a silverfish isn’t killed fast, it’ll ‘call’ other silverfish hiding in other blocks within a distance of 21x11x21 blocks around the silverfish. Before you know it, a huge swarm of silverfish could charge you and overwhelm even well geared players.
+If a player manages to get away a short distance from the silverfish, any silverfish that are left alive will occupy any of the three types of stone, if they’re available to them, waiting to be dug up or ‘called’ upon by other silverfish again.
+It’s quite easy to find out if a stone contains a silverfish. They may look the same, but the time it takes to mine those rocks is longer when you use a pickaxe and shorter when you use anything else. Simply test out the rock with a pickaxe and leave it alone if you notice it takes longer to mine it.
+Getting rid of silverfish inside rocks isn’t too difficult either, all it requires is some brute force, namely a creeper or TNT. The explosion will take out the silverfish with the stone.

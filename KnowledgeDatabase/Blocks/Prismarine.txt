@@ -1,3 +1,4 @@
+Prismarine is a stone-like material that only appears underwater in Ocean Monuments. This block has several variants, including Prismarine Brick and Dark Prismarine.Prismarine is a retextured Cobble stone with a animation.
  Prismarine is a stone-like material that only appears underwater in ocean monuments.
  Prismarine Bricks is a decorative form of prismarine with a sawtooth-edged brick pattern.
  Dark Prismarine is a decorative form of prismarine; it is dark, with a tight grid pattern.

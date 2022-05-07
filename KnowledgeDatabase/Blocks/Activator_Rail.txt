@@ -1,3 +1,6 @@
+ The Activator Rail is a minecart rail that can set off minecarts with TNT as well as drop off any player or entity inside the minecart. The Activator rail must be powered to do this. It acts as a normal rail when it is not powered.
+There was a bug in the 13w03a snapshot where it would corrupt if you put 50 Minecarts on it. As of 1.5, this issue has been fixed.
+As of 1.8, if a player or mob is in a Minecart that goes on an activated activator rail, it will be automatically be knocked out of it. However the mob can potentially get right back into the Minecart and continue riding it.
 An activator rail is a type of rail that can "activate" certain minecarts.
 Activator rails can be crafted and previously-placed activator rails can be broken with bare hands or any tool, dropping themselves as items.
 An activator rail can be broken with any tool, dropping itself as an item, but a pickaxe is fastest. To break an activator rail, mine it.

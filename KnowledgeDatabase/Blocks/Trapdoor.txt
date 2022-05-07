@@ -1,3 +1,12 @@
+ A Trapdoor (also known as a Hatch) is a block used as a horizontal door that fills a one block space. It was introduced in Beta 1.6. When placed outside, rainfall, water, and snowfall do not pass through it, but light can shine through.
+They can be placed anywhere with a solid block directly adjacent. When activated, they will then open by flipping upwards, toward the adjacent block. If that block is destroyed, the trapdoor will break off into a resource. Due to this restriction, it is currently not possible to create a flat floor with a trapdoor opening downwards. .
+As with Doors, Trapdoors can be controlled with Redstone circuitry. Redstone in its charged state will cause the trapdoor to open. Conversely, redstone in its uncharged state will close the trapdoor.
+Sand and Gravel, if dropped onto a Trapdoor, will break into items (similar to how sand or gravel falling on a torch or minecart track will do the same).
+Trapdoors can be pushed by a Piston if there's another block for it to connect to or if the block it is currently connected to is pushed with it.
+Due to the 12w40a Snapshot, trapdoors can no longer be activated by left clicking. Only right clicking opens/closes trapdoors.
+In 1.8 they added Iron Trapdoors to the game, which can be activated only with a redstone pulse, like Iron Doors.
+Trapdoors can create air sockets/stop water when placed in any body of water.
+In Minecraft Pocket Edition, when a Block is placed down next to the trapdoor, it will activate the trapdoor, just like with Doors. (Fixed).
 A trapdoor is a non-solid block that can be used as an openable barrier.
 Wooden trapdoors can be mined with anything, but an axe is fastest. Iron trapdoors require a pickaxe to mine. Iron trapdoors are not available in the Console Edition.
 Wooden trapdoors can be opened and closed by players. Iron trapdoors can only be opened with redstone power.
@@ -26,3 +35,15 @@ An example of a closed trapdoor, shown flat against the adjacent block.
 Trapdoors on slabs.
 Iron trapdoors.
 Both trapdoor types.
+Dec value: 96.
+Hex value: 60.
+Minimum tool requirement to break: None.
+Blast resistance: 15.
+Maximum stack 64.
+Transparency: Yes.
+Trapdoors are 1 block wide, horizontal doors which can be attached to the side of blocks. They’re often used to cover ladder holes. Trapdoors can be powered with redstone, though this is quite uncommon as simply clicking them is often easier and way more compact.
+Trapdoors are created using 6 wooden planks, the colour used does not affect the result.
+Different coloured planks can also be used together. Like the holes in doors, these holes can only be used to see through. It’s impossible to click buttons on the other side or to shoot arrows through it.
+Besides their obvious use as a cover for ladder holes, many players also use them as lids, usually as garbage can lids or toilet lids.
+Another common use is a drawbridge, either automated or manual. By placing them in a row along a tall wall, opening them will reveal the water or lava underneath it, while closing them will allow you to safely walk over them. Note that opening a trapdoor while standing on it will cause you and other mobs to fall, making it an effective trap, especially if it can be activated remotely. .
+They make great plant pots by attaching them on each side of a dirt block and then closing them. Another common use is as a bar divider by attaching it to the wall, which makes it work like a door between the bartender’s side and the customer’s side.

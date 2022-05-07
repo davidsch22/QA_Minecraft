@@ -1,3 +1,5 @@
+The Block of Coal is a block that was added in the 13w18a snapshot. Like other blocks of its kind, it is a compact way to store the material. It may also be used as a building block, however, it is less appealing than other compacted ores. When first introduced, it had a recolored "Block of Redstone" texture, soon changed to what is it now. Coal blocks were also implemented in the Minecraft 2.0 April Fools update.
+Though made from 9 Coal (able to smelt 72 items), one block of coal can actually smelt 80 items, making it a more efficient form of long-term fuel. .
 The Block of Coal (also known as Coal Block) is a mineral block that can also be used as a fuel.
 Blocks of coal can be mined using any pickaxe. If mined without a pickaxe, it will drop nothing.
 Blocks of coal can only be crafted with regular coal, not charcoal. It is crafted in the same way as other mineral blocks. In the console edition, they are crafted with regular coal but they drop charcoal instead.

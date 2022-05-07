@@ -1,3 +1,7 @@
+Redstone Comparators are a special redstone block that is  similar to redstone repeaters. Redstone comparators have a third torch on them, allowing for complex redstone features. Redstone comparators have three ports, with two being for input, the third for output. Redstone comparators also measure how many things an entity holds or weighs allowing for very interesting adventure maps. They also detect how many items are stored in a container block (such as a chest, hopper, dropper, or dispenser).
+A tutorial on YouTube is available, showing on how to build with a redstone comparator.
+The difference between a redstone comparator and a redstone repeater. The comparator is on the left.
+Add a photo to this gallery.
 A redstone comparator is a block used in redstone circuits to maintain, compare, or subtract signal strength, or to measure certain block states (primarily the fullness of containers).
 To remove a redstone comparator, mine it. A redstone comparator can be broken instantly with anything, and drops itself as an item.
 A redstone comparator will also be removed and drop itself as an item if its attachment block is moved, removed, or destroyed.

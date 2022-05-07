@@ -1,3 +1,4 @@
+A pickaxe is one of the most familiar weapons/tools for a player. Another common Tool for a player is the Sword.
 Pickaxes are one of the most commonly used tools in the game, being required to mine all ores and many other types of blocks.
 Iron pickaxes can spawn inside chests in abandoned mine shafts, strongholds, or a village's blacksmith.
 A bonus chest may contain wooden and/or stone pickaxes.
