@@ -4,7 +4,6 @@ import re
 import string
 import nltk
 import pandas as pd
-import numpy as np
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from textblob import TextBlob
@@ -82,11 +81,11 @@ def answer(category: str, q: str) -> str:
     sentence_embeddings = model.encode(sentences)
     q_vec = model.encode([q])
     similarities = cosine_similarity(q_vec, sentence_embeddings)
-    return sentences[similarities.argmin()]
+    return sentences[similarities.argmax()]
 
 
 def main():
-    preprocess_kd() # Uncomment to rebuild tf-idf tables
+    # preprocess_kd() # Uncomment to rebuild tf-idf tables
     
     # questions = pd.read_csv('QuestionsCorpus/AllQuestions.csv', sep=';')
     # totals = questions.iloc[0]
