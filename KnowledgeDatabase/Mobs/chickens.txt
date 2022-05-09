@@ -2,12 +2,12 @@ Chickens are one of the more useful passive mobs in the game, due to their low h
 Chickens drop 0-2 feathers and 1 raw chicken when they’re killed.
 Chickens will also drop experience orbs, granting the player 1-3 experience points.
 Like other meat dropping mobs, chicken's meat is cooked if they die by fire.
-While they're alive, Chickens will drop eggs randomly every 5 to 10 minutes.
+Chickens will drop eggs randomly every 5 to 10 minutes.
 Chickens will spawn in the overworld in groups of 2-6, but it’s quite common to find several of these groups close to each other.
 They can only spawn on grass blocks in a light level of 9 or higher.
 Chickens can spawn when you shoot an egg on the ground.
-There’s a 1/8 chance of a chick hatching from an egg.
-It’s possible for 4 chicks to spawn from 1 egg, though there’s only a 1/256 change of this happening.
+There’s a 1/8 chance of a baby chicken hatching from an egg.
+It’s possible for 4 baby chickens to spawn from 1 egg, though there’s only a 1/256 change of this happening.
 This makes chickens the overworld-only mob which can appear in the nether and the end, without the use of mods or monster eggs.
 Chickens are one of the only mobs that can’t die from fall damage.
 Rather than dropping like a brick, chickens will flap their little wings and slowly glide down, before gently landing on their feet.
