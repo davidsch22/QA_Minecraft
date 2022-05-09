@@ -11,7 +11,7 @@ from textblob import TextBlob
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-categories = ["blocks", "items", "mobs", "gameplay"]
+categories = ["blocks", "items", "mobs", "places", "gameplay"]
 stop_words = set(stopwords.words('english'))
 stop_words = stop_words.union(set(string.punctuation))
 porter = PorterStemmer()
@@ -63,11 +63,13 @@ def answer(category: str, q: str) -> str:
         tf_idf = pd.read_csv('tf_idf_tables/tf-idf-items.csv', index_col=[0])
     elif category == "mobs":
         tf_idf = pd.read_csv('tf_idf_tables/tf-idf-mobs.csv', index_col=[0])
+    elif category == "places":
+        tf_idf = pd.read_csv('tf_idf_tables/tf-idf-places.csv', index_col=[0])
     else: # gameplay
         tf_idf = pd.read_csv('tf_idf_tables/tf-idf-gameplay.csv', index_col=[0])
 
     good_tokens = tf_idf.index.intersection(tokens)
-    best_docs = tf_idf.loc[good_tokens].sum(axis=0).nlargest(5).index.to_list()
+    best_docs = tf_idf.loc[good_tokens].sum(axis=0).nlargest(3).index.to_list()
     sentences = []
     print(best_docs)
     for doc in best_docs:
@@ -84,7 +86,7 @@ def answer(category: str, q: str) -> str:
 
 
 def main():
-    # preprocess_kd() # Uncomment to rebuild tf-idf tables
+    preprocess_kd() # Uncomment to rebuild tf-idf tables
     
     # questions = pd.read_csv('QuestionsCorpus/AllQuestions.csv', sep=';')
     # totals = questions.iloc[0]
@@ -96,9 +98,9 @@ def main():
     # cat = 'Recipe'
     # q = questions.loc[row, cat]
     # print("Q:", q)
-    cat = input("What category is your question about? (Blocks, Items, Mobs, Gameplay): ")
+    cat = input("What category is your question about? (Blocks, Items, Mobs, Places, Gameplay): ")
     while cat.lower() not in categories:
-        cat = input("Category does not exist. Enter again. (Blocks, Items, Mobs, Gameplay): ")
+        cat = input("Category does not exist. Enter again. (Blocks, Items, Mobs, Places, Gameplay): ")
     q = input("Your question: ")
     print("Answer:", answer(cat.lower(), q))
 
